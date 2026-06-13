@@ -1,0 +1,4050 @@
+[
+  {
+    "effect_rule_id": "EFF001",
+    "ingredient_pair_id": "ING-001 * ING-002",
+    "ingredient_pair_name": "5-MTHF / Methylfolate * Methylcobalamin, Vitamin B12",
+    "ingredient_A_id": "ING-001",
+    "ingredient_A_name": "5-MTHF / Methylfolate",
+    "ingredient_B_id": "ING-002",
+    "ingredient_B_name": "Methylcobalamin, Vitamin B12",
+    "polarity": "positive",
+    "evidence_text": "Combined folate plus vitamin B12 status is relevant to homocysteine-related biomarker outcomes; joint repletion is associated with improved homocysteine and related cardiometabolic biomarker outcomes in deficient populations.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6015379/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF002",
+    "ingredient_pair_id": "ING-001 * ING-003",
+    "ingredient_pair_name": "5-MTHF / Methylfolate * P-5-P, Vitamin B6",
+    "ingredient_A_id": "ING-001",
+    "ingredient_A_name": "5-MTHF / Methylfolate",
+    "ingredient_B_id": "ING-003",
+    "ingredient_B_name": "P-5-P, Vitamin B6",
+    "polarity": "positive",
+    "evidence_text": "Combined folate plus vitamin B6 intervention can improve homocysteine-related biomarker outcomes, particularly in populations with elevated homocysteine.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6015379/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF003",
+    "ingredient_pair_id": "ING-002 * ING-003",
+    "ingredient_pair_name": "Methylcobalamin, Vitamin B12 * P-5-P, Vitamin B6",
+    "ingredient_A_id": "ING-002",
+    "ingredient_A_name": "Methylcobalamin, Vitamin B12",
+    "ingredient_B_id": "ING-003",
+    "ingredient_B_name": "P-5-P, Vitamin B6",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin B12 plus vitamin B6 supplementation can improve homocysteine-related biomarker profiles in populations with hyperhomocysteinemia or B-vitamin insufficiency.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6015379/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF004",
+    "ingredient_pair_id": "ING-001 * ING-005",
+    "ingredient_pair_name": "5-MTHF / Methylfolate * Riboflavin, Vitamin B2",
+    "ingredient_A_id": "ING-001",
+    "ingredient_A_name": "5-MTHF / Methylfolate",
+    "ingredient_B_id": "ING-005",
+    "ingredient_B_name": "Riboflavin, Vitamin B2",
+    "polarity": "positive",
+    "evidence_text": "Riboflavin status can modify folate-related homocysteine outcomes; combined riboflavin plus folate adequacy is associated with improved homocysteine biomarker outcomes, especially in MTHFR-variant populations.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/11813080/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF005",
+    "ingredient_pair_id": "ING-001 * ING-009",
+    "ingredient_pair_name": "5-MTHF / Methylfolate * Choline. Vitamin B4",
+    "ingredient_A_id": "ING-001",
+    "ingredient_A_name": "5-MTHF / Methylfolate",
+    "ingredient_B_id": "ING-009",
+    "ingredient_B_name": "Choline. Vitamin B4",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of methylation-related outcomes represents a context-dependent host-level effect for folate and choline co-use. In generally healthy individuals with adequate baseline status, this co-intake may remain neutral or subclinically supportive because the body buffers methyl-donor flux through homeostatic regulation.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/11813080/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with low choline intake, pregnant/lactating women, or those with high methyl demand (e.g., MTHFR 677T carriers), folate plus choline co-intake may benefit neural development, liver-related, and homocysteine outcomes by complementing methyl-donor supply, which represents a conditional positive outcome. However, in individuals with imbalanced single-nutrient dosing or pre-existing hepatic dysfunction, disproportionate intake may shift methyl-flux unfavorably and produce unfavorable lipid or methylation biomarker outcomes, which represents a conditional negative outcome."
+  },
+  {
+    "effect_rule_id": "EFF007",
+    "ingredient_pair_id": "ING-178 * ING-002",
+    "ingredient_pair_name": "calcium L-5-Methyltetrahydrofolate, Vitamin B9 * Methylcobalamin, Vitamin B12",
+    "ingredient_A_id": "ING-178",
+    "ingredient_A_name": "calcium L-5-Methyltetrahydrofolate, Vitamin B9",
+    "ingredient_B_id": "ING-002",
+    "ingredient_B_name": "Methylcobalamin, Vitamin B12",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of vitamin B12 deficiency masking represents a vulnerability-driven host-level effect for calcium L-5-MTHF (a folate form) and vitamin B12 co-use. In generally healthy individuals with adequate B12 status, this combined intake supports hematologic and neurologic outcomes without masking concerns.",
+    "Confidence": "high",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with undiagnosed B12 deficiency, particularly elderly or those with malabsorption, high folate exposure may correct anemia signs while neurological injury progresses, which represents a conditional negative outcome. In B12-replete individuals or when B12 is co-supplemented, joint adequacy supports favorable hematologic and neurologic outcomes, which represents a conditional positive outcome."
+  },
+  {
+    "effect_rule_id": "EFF008",
+    "ingredient_pair_id": "ING-010 * ING-030",
+    "ingredient_pair_name": "Cholecalciferol. Vitamin D3 * Calcium",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol. Vitamin D3",
+    "ingredient_B_id": "ING-030",
+    "ingredient_B_name": "Calcium",
+    "polarity": "positive",
+    "evidence_text": "Vitamin D and calcium combined supplementation is associated with improved bone mineral density and fracture-related outcomes, particularly in older adults and postmenopausal women.",
+    "Confidence": "high",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF009",
+    "ingredient_pair_id": "ING-010 * ING-012",
+    "ingredient_pair_name": "Cholecalciferol. Vitamin D3 * Menaquinone-4, Vitamin K2",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol. Vitamin D3",
+    "ingredient_B_id": "ING-012",
+    "ingredient_B_name": "Menaquinone-4, Vitamin K2",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin D plus vitamin K2 status is associated with more favorable bone mineralization and cardiovascular calcification-related outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5613455/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF010",
+    "ingredient_pair_id": "ING-010 * ING-011",
+    "ingredient_pair_name": "Cholecalciferol. Vitamin D3 * Phytonadione, Vitamin K1",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol. Vitamin D3",
+    "ingredient_B_id": "ING-011",
+    "ingredient_B_name": "Phytonadione, Vitamin K1",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin D plus vitamin K1/K-family adequacy is associated with more favorable bone mineralization and cardiovascular outcomes.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5613455/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF011",
+    "ingredient_pair_id": "ING-010 * ING-027",
+    "ingredient_pair_name": "Cholecalciferol. Vitamin D3 * Magnesium glycinate",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol. Vitamin D3",
+    "ingredient_B_id": "ING-027",
+    "ingredient_B_name": "Magnesium glycinate",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin D plus magnesium status is associated with improved vitamin D effectiveness and bone-related outcomes; magnesium adequacy supports vitamin D bioactivity.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/pubs/The_Scoop_May_2024.pdf"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF012",
+    "ingredient_pair_id": "ING-010 * ING-156",
+    "ingredient_pair_name": "Cholecalciferol, Vitamin D3 * Magnesium citrate",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol, Vitamin D3",
+    "ingredient_B_id": "ING-156",
+    "ingredient_B_name": "Magnesium citrate",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin D plus magnesium citrate adequacy is associated with improved vitamin D effectiveness and bone-related outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/pubs/The_Scoop_May_2024.pdf"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF013",
+    "ingredient_pair_id": "ING-014 * ING-011",
+    "ingredient_pair_name": "d-alpha-tocopherol, Vitamin E * Phytonadione, Vitamin K1",
+    "ingredient_A_id": "ING-014",
+    "ingredient_A_name": "d-alpha-tocopherol, Vitamin E",
+    "ingredient_B_id": "ING-011",
+    "ingredient_B_name": "Phytonadione, Vitamin K1",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of bleeding-risk outcome represents a vulnerability-driven host-level effect for vitamin E and vitamin K1 co-use. In generally healthy individuals on typical multivitamin doses, this interaction may remain subclinical because the body's hemostatic system buffers small perturbations in coagulation balance.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF014",
+    "ingredient_pair_id": "ING-014 * ING-012",
+    "ingredient_pair_name": "d-alpha-tocopherol, Vitamin E * Menaquinone-4, Vitamin K2",
+    "ingredient_A_id": "ING-014",
+    "ingredient_A_name": "d-alpha-tocopherol, Vitamin E",
+    "ingredient_B_id": "ING-012",
+    "ingredient_B_name": "Menaquinone-4, Vitamin K2",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of bleeding-risk outcome represents a vulnerability-driven host-level effect for vitamin E and vitamin K2 co-use. In generally healthy individuals on typical multivitamin doses, this interaction may remain subclinical because the body's hemostatic system buffers minor coagulation perturbations.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF015",
+    "ingredient_pair_id": "ING-028 * ING-031",
+    "ingredient_pair_name": "Zinc Bisglycinate * Copper",
+    "ingredient_A_id": "ING-028",
+    "ingredient_A_name": "Zinc Bisglycinate",
+    "ingredient_B_id": "ING-031",
+    "ingredient_B_name": "Copper",
+    "polarity": "negative",
+    "evidence_text": "High zinc intake is associated with copper-deficiency-related outcomes such as anemia, neutropenia, and neurologic problems, particularly with chronic high-dose zinc supplementation without copper co-supplementation.",
+    "Confidence": "high",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF162",
+    "ingredient_pair_id": "ING-305 * ING-031",
+    "ingredient_pair_name": "Zinc picolinate * Copper",
+    "ingredient_A_id": "ING-305",
+    "ingredient_A_name": "Zinc picolinate",
+    "ingredient_B_id": "ING-031",
+    "ingredient_B_name": "Copper",
+    "polarity": "negative",
+    "evidence_text": "High zinc intake is associated with copper-deficiency-related outcomes such as anemia, neutropenia, and neurologic problems, particularly with chronic high-dose zinc supplementation without copper co-supplementation.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF163",
+    "ingredient_pair_id": "ING-304 * ING-031",
+    "ingredient_pair_name": "Zinc citrate * Copper",
+    "ingredient_A_id": "ING-304",
+    "ingredient_A_name": "Zinc citrate",
+    "ingredient_B_id": "ING-031",
+    "ingredient_B_name": "Copper",
+    "polarity": "negative",
+    "evidence_text": "High zinc intake is associated with copper-deficiency-related outcomes such as anemia, neutropenia, and neurologic problems, particularly with chronic high-dose zinc supplementation without copper co-supplementation.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF016",
+    "ingredient_pair_id": "ING-038 * ING-153",
+    "ingredient_pair_name": "Ascorbic acid, Vitamin C * Iron",
+    "ingredient_A_id": "ING-038",
+    "ingredient_A_name": "Ascorbic acid, Vitamin C",
+    "ingredient_B_id": "ING-153",
+    "ingredient_B_name": "Iron",
+    "polarity": "positive",
+    "evidence_text": "Vitamin C taken with non-heme iron is associated with improved iron-status outcomes such as ferritin and hemoglobin in iron-deficient or anemic populations.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF017",
+    "ingredient_pair_id": "ING-247 * ING-153",
+    "ingredient_pair_name": "Calcium Ascorbate * Iron",
+    "ingredient_A_id": "ING-247",
+    "ingredient_A_name": "Calcium Ascorbate",
+    "ingredient_B_id": "ING-153",
+    "ingredient_B_name": "Iron",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of iron-status outcomes represents a context-dependent host-level effect for calcium ascorbate (which supplies both ascorbate and calcium) co-use with iron. In generally healthy individuals with adequate iron stores, the opposing contributions tend to balance and the net outcome remains subclinical.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": "In iron-deficient or anemic individuals, when calcium ascorbate is taken separately from iron and the ascorbate component dominates, this may favor improved iron-status outcomes, which represents a conditional positive outcome. However, when high doses of calcium ascorbate are taken simultaneously with iron, the calcium component may oppose iron absorption and produce conditional negative outcomes on ferritin or hemoglobin recovery."
+  },
+  {
+    "effect_rule_id": "EFF018",
+    "ingredient_pair_id": "ING-184 * ING-002",
+    "ingredient_pair_name": "metformin * Methylcobalamin, Vitamin B12",
+    "ingredient_A_id": "ING-184",
+    "ingredient_A_name": "metformin",
+    "ingredient_B_id": "ING-002",
+    "ingredient_B_name": "Methylcobalamin, Vitamin B12",
+    "polarity": "negative",
+    "evidence_text": "Long-term metformin exposure is associated with vitamin B12 deficiency outcomes, including anemia and peripheral neuropathy, especially with multi-year metformin use in type 2 diabetes patients.",
+    "Confidence": "high",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10236989/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF019",
+    "ingredient_pair_id": "ING-029 * ING-025",
+    "ingredient_pair_name": "Selenium * Coenzyme Q10 / Ubiquinone",
+    "ingredient_A_id": "ING-029",
+    "ingredient_A_name": "Selenium",
+    "ingredient_B_id": "ING-025",
+    "ingredient_B_name": "Coenzyme Q10 / Ubiquinone",
+    "polarity": "positive",
+    "evidence_text": "Selenium plus CoQ10 supplementation was associated with reduced cardiovascular mortality and lower NT-proBNP in an elderly intervention cohort (KiSel-10 trial), with persistent effects on long-term follow-up.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/22626835/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5894963/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0036581-C0041536",
+      "supports": [
+        {
+          "paper_id": "7471334",
+          "uid": "74193"
+        },
+        {
+          "paper_id": "211194836",
+          "uid": "107963"
+        },
+        {
+          "paper_id": "211194836",
+          "uid": "107964"
+        },
+        {
+          "paper_id": "4994209",
+          "uid": "181117"
+        },
+        {
+          "paper_id": "1886519",
+          "uid": "196240"
+        },
+        {
+          "paper_id": "71717477",
+          "uid": "203903"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF020",
+    "ingredient_pair_id": "ING-029 * ING-026",
+    "ingredient_pair_name": "Selenium * Ubiquinol",
+    "ingredient_A_id": "ING-029",
+    "ingredient_A_name": "Selenium",
+    "ingredient_B_id": "ING-026",
+    "ingredient_B_name": "Ubiquinol",
+    "polarity": "positive",
+    "evidence_text": "Selenium plus CoQ10-family supplementation (with ubiquinol as a redox-family form) is associated with cardiovascular biomarker and mortality outcomes in elderly populations.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/22626835/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5894963/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF021",
+    "ingredient_pair_id": "ING-016 * ING-017",
+    "ingredient_pair_name": "EPA / Eicosapentaenoic acid * DHA / Docosahexaenoic acid",
+    "ingredient_A_id": "ING-016",
+    "ingredient_A_name": "EPA / Eicosapentaenoic acid",
+    "ingredient_B_id": "ING-017",
+    "ingredient_B_name": "DHA / Docosahexaenoic acid",
+    "polarity": "positive",
+    "evidence_text": "Combined EPA and DHA supplementation is associated with improvements in triglycerides, blood pressure, and inflammation-related cardiovascular biomarker outcomes.",
+    "Confidence": "high",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0000545-C0556150",
+      "supports": [
+        {
+          "paper_id": "25550057",
+          "uid": "6295"
+        },
+        {
+          "paper_id": "10398904",
+          "uid": "32247"
+        },
+        {
+          "paper_id": "28435936",
+          "uid": "37266"
+        },
+        {
+          "paper_id": "207647079",
+          "uid": "60930"
+        },
+        {
+          "paper_id": "207647079",
+          "uid": "60931"
+        },
+        {
+          "paper_id": "207647079",
+          "uid": "60932"
+        },
+        {
+          "paper_id": "207647079",
+          "uid": "60933"
+        },
+        {
+          "paper_id": "211033803",
+          "uid": "63953"
+        },
+        {
+          "paper_id": "221789605",
+          "uid": "150230"
+        },
+        {
+          "paper_id": "52144473",
+          "uid": "168324"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF022",
+    "ingredient_pair_id": "ING-195 * ING-014",
+    "ingredient_pair_name": "Acetylsalicylic Acid, Baby Aspirin * d-alpha-tocopherol, Vitamin E",
+    "ingredient_A_id": "ING-195",
+    "ingredient_A_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_B_id": "ING-014",
+    "ingredient_B_name": "d-alpha-tocopherol, Vitamin E",
+    "polarity": "negative",
+    "evidence_text": "Aspirin plus high-dose vitamin E is associated with increased bleeding-related outcomes due to additive antiplatelet effects.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF023",
+    "ingredient_pair_id": "ING-195 * ING-125",
+    "ingredient_pair_name": "Acetylsalicylic Acid, Baby Aspirin * Ginkgo Biloba Extract",
+    "ingredient_A_id": "ING-195",
+    "ingredient_A_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_B_id": "ING-125",
+    "ingredient_B_name": "Ginkgo Biloba Extract",
+    "polarity": "negative",
+    "evidence_text": "Aspirin plus ginkgo biloba is associated with increased bleeding-risk outcomes, particularly in individuals on anticoagulant or antiplatelet therapy.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://www.nccih.nih.gov/health/ginkgo"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF024",
+    "ingredient_pair_id": "ING-195 * ING-205",
+    "ingredient_pair_name": "Acetylsalicylic Acid, Baby Aspirin * Nattokinase",
+    "ingredient_A_id": "ING-195",
+    "ingredient_A_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_B_id": "ING-205",
+    "ingredient_B_name": "Nattokinase",
+    "polarity": "negative",
+    "evidence_text": "Aspirin plus nattokinase is associated with increased bleeding-risk outcomes due to combined antiplatelet and fibrinolytic actions.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/nattokinase"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF025",
+    "ingredient_pair_id": "ING-195 * ING-133",
+    "ingredient_pair_name": "Acetylsalicylic Acid, Baby Aspirin * ginger root",
+    "ingredient_A_id": "ING-195",
+    "ingredient_A_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_B_id": "ING-133",
+    "ingredient_B_name": "ginger root",
+    "polarity": "negative",
+    "evidence_text": "Aspirin plus ginger root is associated with increased bleeding-risk outcomes when combined with antiplatelet therapy.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK565886/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF026",
+    "ingredient_pair_id": "ING-195 * ING-050",
+    "ingredient_pair_name": "Acetylsalicylic Acid, Baby Aspirin * Curcumin",
+    "ingredient_A_id": "ING-195",
+    "ingredient_A_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_B_id": "ING-050",
+    "ingredient_B_name": "Curcumin",
+    "polarity": "negative",
+    "evidence_text": "Aspirin plus curcumin/turmeric is associated with increased bleeding-risk outcomes when combined with antiplatelet therapy.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/22531131/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF027",
+    "ingredient_pair_id": "ING-195 * ING-016",
+    "ingredient_pair_name": "Acetylsalicylic Acid, Baby Aspirin * EPA / Eicosapentaenoic acid",
+    "ingredient_A_id": "ING-195",
+    "ingredient_A_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_B_id": "ING-016",
+    "ingredient_B_name": "EPA / Eicosapentaenoic acid",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of bleeding-versus-cardiovascular outcome represents a context-dependent host-level effect for aspirin and EPA co-use. In generally healthy individuals at moderate cardiovascular risk on standard doses, this interaction may remain subclinical because the body's hemostatic system buffers small additive effects.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/33964664/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11179820/",
+      "https://www.ahajournals.org/doi/10.1161/JAHA.123.032390"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals at elevated cardiovascular risk with hypertriglyceridemia, aspirin plus high-purity EPA (e.g., icosapent ethyl) is associated with reduced cardiovascular event outcomes, which represents a conditional positive outcome. However, in individuals on anticoagulant therapy, with prior bleeding events, or pre-surgical patients, high-dose EPA plus aspirin may produce conditional negative bleeding outcomes such as increased atrial-fibrillation-related or gastrointestinal bleeding events.",
+    "supp.ai support": {
+      "interaction_id": "C0000545-C0004057",
+      "supports": [
+        {
+          "paper_id": "36375528",
+          "uid": "155444"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF028",
+    "ingredient_pair_id": "ING-195 * ING-017",
+    "ingredient_pair_name": "Acetylsalicylic Acid, Baby Aspirin * DHA / Docosahexaenoic acid",
+    "ingredient_A_id": "ING-195",
+    "ingredient_A_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_B_id": "ING-017",
+    "ingredient_B_name": "DHA / Docosahexaenoic acid",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of bleeding-versus-cardiovascular outcome represents a context-dependent host-level effect for aspirin and DHA co-use. In generally healthy individuals on standard doses, this interaction may remain subclinical due to hemostatic buffering.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/33964664/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11179820/",
+      "https://www.ahajournals.org/doi/10.1161/JAHA.123.032390"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals at elevated cardiovascular risk, modest-dose DHA-containing omega-3 plus aspirin may support cardiovascular outcomes via complementary lipid and inflammatory benefits, which represents a conditional positive outcome. However, in individuals on anticoagulant therapy or pre-surgical patients, high-dose DHA plus aspirin may produce conditional negative bleeding outcomes.",
+    "supp.ai support": {
+      "interaction_id": "C0004057-C0556150",
+      "supports": [
+        {
+          "paper_id": "35519405",
+          "uid": "62460"
+        },
+        {
+          "paper_id": "43544548",
+          "uid": "139551"
+        },
+        {
+          "paper_id": "43544548",
+          "uid": "139553"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF029",
+    "ingredient_pair_id": "ING-195 * ING-018",
+    "ingredient_pair_name": "Acetylsalicylic Acid, Baby Aspirin * DPA / Docosapentaenoic acid",
+    "ingredient_A_id": "ING-195",
+    "ingredient_A_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_B_id": "ING-018",
+    "ingredient_B_name": "DPA / Docosapentaenoic acid",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of bleeding-versus-cardiovascular outcome represents a context-dependent host-level effect for aspirin and DPA co-use. In generally healthy individuals, this interaction may remain subclinical, and direct DPA-specific evidence is limited.",
+    "Confidence": "low",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/33964664/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11179820/",
+      "https://www.ahajournals.org/doi/10.1161/JAHA.123.032390"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals at elevated cardiovascular risk, DPA as part of omega-3 mixtures may add cardiovascular benefit alongside aspirin, which represents a conditional positive outcome. However, in individuals on anticoagulant therapy or with bleeding risk, high omega-3 exposure including DPA plus aspirin may produce conditional negative bleeding outcomes."
+  },
+  {
+    "effect_rule_id": "EFF030",
+    "ingredient_pair_id": "ING-108 * ING-111",
+    "ingredient_pair_name": "Caffeine * L-theanine",
+    "ingredient_A_id": "ING-108",
+    "ingredient_A_name": "Caffeine",
+    "ingredient_B_id": "ING-111",
+    "ingredient_B_name": "L-theanine",
+    "polarity": "positive",
+    "evidence_text": "Caffeine plus L-theanine is associated with improvements in attention-related performance and alertness outcomes compared with either ingredient alone in cognitive-task studies.",
+    "Confidence": "high",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/18681988/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0006644-C0076380",
+      "supports": [
+        {
+          "paper_id": "29075809",
+          "uid": "34651"
+        },
+        {
+          "paper_id": "22453142",
+          "uid": "74473"
+        },
+        {
+          "paper_id": "46326744",
+          "uid": "122095"
+        },
+        {
+          "paper_id": "195188014",
+          "uid": "129427"
+        },
+        {
+          "paper_id": "4348182",
+          "uid": "147389"
+        },
+        {
+          "paper_id": "4348182",
+          "uid": "147390"
+        },
+        {
+          "paper_id": "46745620",
+          "uid": "173458"
+        },
+        {
+          "paper_id": "14451670",
+          "uid": "210710"
+        },
+        {
+          "paper_id": "14451670",
+          "uid": "210711"
+        },
+        {
+          "paper_id": "220948572",
+          "uid": "211635"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF031",
+    "ingredient_pair_id": "ING-237 * ING-111",
+    "ingredient_pair_name": "Caffeine Anhydrous * L-theanine",
+    "ingredient_A_id": "ING-237",
+    "ingredient_A_name": "Caffeine Anhydrous",
+    "ingredient_B_id": "ING-111",
+    "ingredient_B_name": "L-theanine",
+    "polarity": "positive",
+    "evidence_text": "Caffeine anhydrous plus L-theanine is associated with improvements in attention-related performance and alertness outcomes in cognitive-task studies.",
+    "Confidence": "high",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/18681988/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF032",
+    "ingredient_pair_id": "ING-108 * ING-112",
+    "ingredient_pair_name": "Caffeine * Melatonin",
+    "ingredient_A_id": "ING-108",
+    "ingredient_A_name": "Caffeine",
+    "ingredient_B_id": "ING-112",
+    "ingredient_B_name": "Melatonin",
+    "polarity": "negative",
+    "evidence_text": "Evening caffeine intake is associated with delayed sleep timing and worsened sleep-quality outcomes, opposing melatonin-oriented sleep support.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4657156/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0006644-C0025219",
+      "supports": [
+        {
+          "paper_id": "8055332",
+          "uid": "25937"
+        },
+        {
+          "paper_id": "13929988",
+          "uid": "34872"
+        },
+        {
+          "paper_id": "23911908",
+          "uid": "179742"
+        },
+        {
+          "paper_id": "19409741",
+          "uid": "226069"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF033",
+    "ingredient_pair_id": "ING-237 * ING-112",
+    "ingredient_pair_name": "Caffeine Anhydrous * Melatonin",
+    "ingredient_A_id": "ING-237",
+    "ingredient_A_name": "Caffeine Anhydrous",
+    "ingredient_B_id": "ING-112",
+    "ingredient_B_name": "Melatonin",
+    "polarity": "negative",
+    "evidence_text": "Evening caffeine anhydrous intake is associated with delayed sleep timing and worsened sleep-quality outcomes, opposing melatonin-oriented sleep support.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4657156/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF034",
+    "ingredient_pair_id": "ING-027 * ING-112",
+    "ingredient_pair_name": "Magnesium glycinate * Melatonin",
+    "ingredient_A_id": "ING-027",
+    "ingredient_A_name": "Magnesium glycinate",
+    "ingredient_B_id": "ING-112",
+    "ingredient_B_name": "Melatonin",
+    "polarity": "positive",
+    "evidence_text": "A combined magnesium-melatonin-B complex intervention is associated with improved insomnia outcomes; the magnesium-melatonin pair contributes supportive but non-isolated benefit.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6910806/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF035",
+    "ingredient_pair_id": "ING-156 * ING-112",
+    "ingredient_pair_name": "Magnesium citrate * Melatonin",
+    "ingredient_A_id": "ING-156",
+    "ingredient_A_name": "Magnesium citrate",
+    "ingredient_B_id": "ING-112",
+    "ingredient_B_name": "Melatonin",
+    "polarity": "positive",
+    "evidence_text": "A combined magnesium (citrate form) plus melatonin plus B complex intervention is associated with improved insomnia outcomes.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6910806/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF036",
+    "ingredient_pair_id": "ING-147 * ING-111",
+    "ingredient_pair_name": "Gamma-Aminobutyric Acid (GABA) * L-theanine",
+    "ingredient_A_id": "ING-147",
+    "ingredient_A_name": "Gamma-Aminobutyric Acid (GABA)",
+    "ingredient_B_id": "ING-111",
+    "ingredient_B_name": "L-theanine",
+    "polarity": "positive",
+    "evidence_text": "The clinical feature of relaxation/sleep outcomes represents a context-dependent host-level effect for GABA and L-theanine co-use. In generally healthy individuals, this co-intake may produce only modest or variable subjective effects because oral GABA bioavailability is limited and L-theanine effects vary by sensitivity.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.00923/full",
+      "https://pubmed.ncbi.nlm.nih.gov/30707852/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11867345/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with subjective stress or sleep-onset difficulty, GABA plus L-theanine may support relaxation and subjective sleep-quality outcomes, which represents a conditional positive outcome. In individuals without sleep complaints or those highly variable in GABA absorption, pair-level effects may remain neutral; direct pair-level human evidence is limited, so the negative side is unlikely but uncertainty itself is the dominant feature."
+  },
+  {
+    "effect_rule_id": "EFF037",
+    "ingredient_pair_id": "ING-148 * ING-112",
+    "ingredient_pair_name": "Glycine * Melatonin",
+    "ingredient_A_id": "ING-148",
+    "ingredient_A_name": "Glycine",
+    "ingredient_B_id": "ING-112",
+    "ingredient_B_name": "Melatonin",
+    "polarity": "positive",
+    "evidence_text": "The clinical feature of subjective sleep-quality outcomes represents a context-dependent host-level effect for glycine and melatonin co-use. In generally healthy individuals without sleep complaints, this co-intake may remain neutral, with effects emerging mostly in specific sleep-affected groups.",
+    "Confidence": "low",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4397399/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with subjective sleep complaints or shift-work-related circadian disruption, glycine plus melatonin may improve subjective sleep-quality outcomes and reduce daytime fatigue, which represents a conditional positive outcome. In individuals without sleep issues, the combination is unlikely to produce additional benefit, and direct pair-level evidence remains limited."
+  },
+  {
+    "effect_rule_id": "EFF038",
+    "ingredient_pair_id": "ING-097 * ING-239",
+    "ingredient_pair_name": "Creatine monohydrate * beta alanine",
+    "ingredient_A_id": "ING-097",
+    "ingredient_A_name": "Creatine monohydrate",
+    "ingredient_B_id": "ING-239",
+    "ingredient_B_name": "beta alanine",
+    "polarity": "positive",
+    "evidence_text": "Creatine plus beta-alanine supplementation is associated with improved high-intensity exercise and tactical performance outcomes, although additive effects vary across protocols.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9265371/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF039",
+    "ingredient_pair_id": "ING-097 * ING-108",
+    "ingredient_pair_name": "Creatine monohydrate * Caffeine",
+    "ingredient_A_id": "ING-097",
+    "ingredient_A_name": "Creatine monohydrate",
+    "ingredient_B_id": "ING-108",
+    "ingredient_B_name": "Caffeine",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of ergogenic and cognitive outcomes represents a highly context-dependent effect for creatine and caffeine co-use. In vivo evidence demonstrates that acute high-dose co-administration blunts creatine’s strength performance benefits during short-burst exercise; conversely, when implemented under long-term endurance protocols or targeted for high-pressure cognitive execution (per 2024 trial data), the combination yields robust, positive synergistic outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://europepmc.org/article/med/26219105",
+      "https://pubmed.ncbi.nlm.nih.gov/38542677/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals using acute high-dose caffeine before strength or short-burst exercise, caffeine may blunt some of creatine's ergogenic benefit, which represents a conditional negative outcome. In contrast, when caffeine and creatine are timed separately or used in endurance/aerobic protocols, the combination may add complementary energy and performance support, which represents a conditional positive outcome.",
+    "supp.ai support": {
+      "interaction_id": "C0006644-C0873188",
+      "supports": [
+        {
+          "paper_id": "21350088",
+          "uid": "98288"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF040",
+    "ingredient_pair_id": "ING-097 * ING-237",
+    "ingredient_pair_name": "Creatine monohydrate * Caffeine Anhydrous",
+    "ingredient_A_id": "ING-097",
+    "ingredient_A_name": "Creatine monohydrate",
+    "ingredient_B_id": "ING-237",
+    "ingredient_B_name": "Caffeine Anhydrous",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of ergogenic and cognitive outcomes represents a highly context-dependent effect for creatine and caffeine co-use. In vivo evidence demonstrates that acute high-dose co-administration blunts creatine’s strength performance benefits during short-burst exercise; conversely, when implemented under long-term endurance protocols or targeted for high-pressure cognitive execution (per 2024 trial data), the combination yields robust, positive synergistic outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://europepmc.org/article/med/26219105",
+      "https://pubmed.ncbi.nlm.nih.gov/38542677/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals using acute high-dose caffeine anhydrous before resistance or short-burst exercise, caffeine may blunt creatine's ergogenic benefit, which represents a conditional negative outcome. When timed separately or used in endurance protocols, the combination may complement performance outcomes, which represents a conditional positive outcome."
+  },
+  {
+    "effect_rule_id": "EFF041",
+    "ingredient_pair_id": "ING-116 * ING-240",
+    "ingredient_pair_name": "L-Arginine * L-citrulline",
+    "ingredient_A_id": "ING-116",
+    "ingredient_A_name": "L-Arginine",
+    "ingredient_B_id": "ING-240",
+    "ingredient_B_name": "L-citrulline",
+    "polarity": "positive",
+    "evidence_text": "L-arginine plus L-citrulline supplementation is associated with improved cycling performance and perceived-exertion outcomes in exercise studies.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6469824/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0003765-C0008864",
+      "supports": [
+        {
+          "paper_id": "205618650",
+          "uid": "5545"
+        },
+        {
+          "paper_id": "12752381",
+          "uid": "83744"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF042",
+    "ingredient_pair_id": "ING-097 * ING-198",
+    "ingredient_pair_name": "Creatine monohydrate * whey protein",
+    "ingredient_A_id": "ING-097",
+    "ingredient_A_name": "Creatine monohydrate",
+    "ingredient_B_id": "ING-198",
+    "ingredient_B_name": "whey protein",
+    "polarity": "positive",
+    "evidence_text": "Creatine plus whey protein combined with resistance training is associated with improvements in lean mass, strength, and body-composition outcomes.",
+    "Confidence": "high",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12892586/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF043",
+    "ingredient_pair_id": "ING-149 * ING-038",
+    "ingredient_pair_name": "Collagen Peptides * Ascorbic acid, Vitamin C",
+    "ingredient_A_id": "ING-149",
+    "ingredient_A_name": "Collagen Peptides",
+    "ingredient_B_id": "ING-038",
+    "ingredient_B_name": "Ascorbic acid, Vitamin C",
+    "polarity": "positive",
+    "evidence_text": "Collagen peptides plus vitamin C is associated with improved collagen-synthesis biomarkers and tendon/soft-tissue recovery outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9267994/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF044",
+    "ingredient_pair_id": "ING-149 * ING-247",
+    "ingredient_pair_name": "Collagen Peptides * Calcium Ascorbate",
+    "ingredient_A_id": "ING-149",
+    "ingredient_A_name": "Collagen Peptides",
+    "ingredient_B_id": "ING-247",
+    "ingredient_B_name": "Calcium Ascorbate",
+    "polarity": "positive",
+    "evidence_text": "Collagen peptides plus calcium ascorbate (as a vitamin C source) is associated with improved collagen-synthesis biomarkers and soft-tissue recovery outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9267994/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF045",
+    "ingredient_pair_id": "ING-107 * ING-049",
+    "ingredient_pair_name": "Myo-inositol * D-chiro-inositol",
+    "ingredient_A_id": "ING-107",
+    "ingredient_A_name": "Myo-inositol",
+    "ingredient_B_id": "ING-049",
+    "ingredient_B_name": "D-chiro-inositol",
+    "polarity": "positive",
+    "evidence_text": "Myo-inositol plus D-chiro-inositol (notably near a 40:1 ratio) is associated with improved ovulation and metabolic-parameter outcomes in PCOS populations.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/31298405/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF046",
+    "ingredient_pair_id": "ING-107 * ING-184",
+    "ingredient_pair_name": "Myo-inositol * metformin",
+    "ingredient_A_id": "ING-107",
+    "ingredient_A_name": "Myo-inositol",
+    "ingredient_B_id": "ING-184",
+    "ingredient_B_name": "metformin",
+    "polarity": "positive",
+    "evidence_text": "Metformin plus myo-inositol is associated with improved menstrual-regularity and insulin-resistance outcomes compared with metformin alone in PCOS trials.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11725314/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF047",
+    "ingredient_pair_id": "ING-034 * ING-168",
+    "ingredient_pair_name": "Chromium * Cinnamon Organic",
+    "ingredient_A_id": "ING-034",
+    "ingredient_A_name": "Chromium",
+    "ingredient_B_id": "ING-168",
+    "ingredient_B_name": "Cinnamon Organic",
+    "polarity": "positive",
+    "evidence_text": "Chromium plus cinnamon, as part of a triple combination with carnosine, is associated with decreased fasting glucose and improved lean-mass outcomes in prediabetic overweight/obese adults.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4583280/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF048",
+    "ingredient_pair_id": "ING-034 * ING-099",
+    "ingredient_pair_name": "Chromium * L-Carnosine",
+    "ingredient_A_id": "ING-034",
+    "ingredient_A_name": "Chromium",
+    "ingredient_B_id": "ING-099",
+    "ingredient_B_name": "L-Carnosine",
+    "polarity": "positive",
+    "evidence_text": "Chromium plus carnosine, as part of a triple combination with cinnamon, is associated with decreased fasting glucose and improved lean-mass outcomes in prediabetic overweight/obese adults.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4583280/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF049",
+    "ingredient_pair_id": "ING-168 * ING-099",
+    "ingredient_pair_name": "Cinnamon Organic * L-Carnosine",
+    "ingredient_A_id": "ING-168",
+    "ingredient_A_name": "Cinnamon Organic",
+    "ingredient_B_id": "ING-099",
+    "ingredient_B_name": "L-Carnosine",
+    "polarity": "positive",
+    "evidence_text": "Cinnamon plus carnosine, as part of a triple combination with chromium, is associated with decreased fasting glucose and improved lean-mass outcomes in prediabetic overweight/obese adults.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4583280/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF050",
+    "ingredient_pair_id": "ING-067 * ING-193",
+    "ingredient_pair_name": "Probiotic / gut microbiota blend * Chicory inulin",
+    "ingredient_A_id": "ING-067",
+    "ingredient_A_name": "Probiotic / gut microbiota blend",
+    "ingredient_B_id": "ING-193",
+    "ingredient_B_name": "Chicory inulin",
+    "polarity": "positive",
+    "evidence_text": "A probiotic plus chicory inulin (synbiotic) combination is associated with favorable gut microbiota, inflammatory, and metabolic host outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9229734/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12086677/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF051",
+    "ingredient_pair_id": "ING-067 * ING-206",
+    "ingredient_pair_name": "Probiotic / gut microbiota blend * inulin",
+    "ingredient_A_id": "ING-067",
+    "ingredient_A_name": "Probiotic / gut microbiota blend",
+    "ingredient_B_id": "ING-206",
+    "ingredient_B_name": "inulin",
+    "polarity": "positive",
+    "evidence_text": "A probiotic plus inulin (synbiotic) combination is associated with favorable gut microbiota, inflammatory, and metabolic host outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9229734/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12086677/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF052",
+    "ingredient_pair_id": "ING-067 * ING-124",
+    "ingredient_pair_name": "Probiotic / gut microbiota blend * Gum Arabic",
+    "ingredient_A_id": "ING-067",
+    "ingredient_A_name": "Probiotic / gut microbiota blend",
+    "ingredient_B_id": "ING-124",
+    "ingredient_B_name": "Gum Arabic",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of gut-microbiota and metabolic outcomes represents a context-dependent host-level effect for probiotic and gum arabic co-use. In generally healthy individuals with diverse microbiota, this combination may produce subtle subclinical effects depending on baseline microbiome composition.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with reduced microbial diversity or functional gastrointestinal complaints, probiotic plus gum arabic may support microbiota composition and gut-symptom outcomes, which represents a conditional positive outcome. In individuals with FODMAP sensitivity or pre-existing irritable bowel symptoms, fermentable fiber plus probiotic may worsen bloating or gas-related outcomes, which represents a conditional negative outcome."
+  },
+  {
+    "effect_rule_id": "EFF053",
+    "ingredient_pair_id": "ING-059 * ING-067",
+    "ingredient_pair_name": "Pomegranate ellagitannins * Probiotic / gut microbiota blend",
+    "ingredient_A_id": "ING-059",
+    "ingredient_A_name": "Pomegranate ellagitannins",
+    "ingredient_B_id": "ING-067",
+    "ingredient_B_name": "Probiotic / gut microbiota blend",
+    "polarity": "positive",
+    "evidence_text": "Pomegranate ellagitannins plus probiotic co-use is context-dependent for urolithin A generation: it provides a conditional positive outcome (supporting cardiometabolic and mitochondrial-aging biomarkers) ONLY in individuals with urolithin-producing microbiota or when co-supplemented with targeted urolithin-producing strains; otherwise, it triggers a conditional non-effect outcome with no expected metabolic benefit.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9999415/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals classified as urolithin-producers (carrying capable microbiota), or when targeted urolithin-producing strains are co-supplemented, pomegranate plus probiotic may support cardiometabolic and mitochondrial-aging biomarker outcomes, which represents a conditional positive outcome. In urolithin-non-producers without strain-targeted probiotics, the combination is unlikely to produce expected benefit, which represents a conditional neutral outcome."
+  },
+  {
+    "effect_rule_id": "EFF054",
+    "ingredient_pair_id": "ING-051 * ING-038",
+    "ingredient_pair_name": "Quercetin * Ascorbic acid, Vitamin C",
+    "ingredient_A_id": "ING-051",
+    "ingredient_A_name": "Quercetin",
+    "ingredient_B_id": "ING-038",
+    "ingredient_B_name": "Ascorbic acid, Vitamin C",
+    "polarity": "positive",
+    "evidence_text": "Quercetin plus vitamin C is associated with favorable antioxidant, anti-inflammatory, and immune-related biomarker outcomes in experimental and small-clinical studies.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7318306/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF055",
+    "ingredient_pair_id": "ING-050 * ING-051",
+    "ingredient_pair_name": "Curcumin * Quercetin",
+    "ingredient_A_id": "ING-050",
+    "ingredient_A_name": "Curcumin",
+    "ingredient_B_id": "ING-051",
+    "ingredient_B_name": "Quercetin",
+    "polarity": "positive",
+    "evidence_text": "Curcumin plus quercetin is associated with combined anti-inflammatory and antiproliferative biomarker outcomes in experimental studies.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10377667/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0010467-C0034392",
+      "supports": [
+        {
+          "paper_id": "206543153",
+          "uid": "12321"
+        },
+        {
+          "paper_id": "206898545",
+          "uid": "12620"
+        },
+        {
+          "paper_id": "15463938",
+          "uid": "85642"
+        },
+        {
+          "paper_id": "15463938",
+          "uid": "85643"
+        },
+        {
+          "paper_id": "15463938",
+          "uid": "85644"
+        },
+        {
+          "paper_id": "54482156",
+          "uid": "91654"
+        },
+        {
+          "paper_id": "54482156",
+          "uid": "91655"
+        },
+        {
+          "paper_id": "16875125",
+          "uid": "114372"
+        },
+        {
+          "paper_id": "14942984",
+          "uid": "125494"
+        },
+        {
+          "paper_id": "58570239",
+          "uid": "133894"
+        },
+        {
+          "paper_id": "58570239",
+          "uid": "133898"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF056",
+    "ingredient_pair_id": "ING-056 * ING-051",
+    "ingredient_pair_name": "Trans-resveratrol * Quercetin",
+    "ingredient_A_id": "ING-056",
+    "ingredient_A_name": "Trans-resveratrol",
+    "ingredient_B_id": "ING-051",
+    "ingredient_B_name": "Quercetin",
+    "polarity": "positive",
+    "evidence_text": "Resveratrol plus quercetin is associated with favorable antioxidant and anti-inflammatory biomarker outcomes in metabolic-syndrome and experimental studies.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6479544/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0034392-C1101322",
+      "supports": [
+        {
+          "paper_id": "25649089",
+          "uid": "10291"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF057",
+    "ingredient_pair_id": "ING-050 * ING-056",
+    "ingredient_pair_name": "Curcumin * Trans-resveratrol",
+    "ingredient_A_id": "ING-050",
+    "ingredient_A_name": "Curcumin",
+    "ingredient_B_id": "ING-056",
+    "ingredient_B_name": "Trans-resveratrol",
+    "polarity": "positive",
+    "evidence_text": "Curcumin plus resveratrol is associated with combined anti-inflammatory and tissue-protective biomarker outcomes in experimental inflammatory models.",
+    "Confidence": "low",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3092909/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF058",
+    "ingredient_pair_id": "ING-030 * ING-153",
+    "ingredient_pair_name": "Calcium * Iron",
+    "ingredient_A_id": "ING-030",
+    "ingredient_A_name": "Calcium",
+    "ingredient_B_id": "ING-153",
+    "ingredient_B_name": "Iron",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of iron-status depletion represents a context-dependent host-level effect for Calcium and Iron co-use. In generally healthy individuals, this interaction may remain latent or subclinical because baseline iron stores and homeostatic control can buffer short-term reductions in iron absorption.",
+    "Confidence": "high",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": "In iron-depleted or anemic individuals, the clinical outcome becomes vulnerable to co-administration timing. For these individuals, Calcium and Iron co-intake can act as a conditional hazard by lowering iron-status outcomes such as ferritin or hemoglobin.",
+    "supp.ai support": {
+      "interaction_id": "C0376520-C3540037",
+      "supports": [
+        {
+          "paper_id": "4902726",
+          "uid": "12863"
+        },
+        {
+          "paper_id": "4902726",
+          "uid": "12864"
+        },
+        {
+          "paper_id": "40242860",
+          "uid": "14465"
+        },
+        {
+          "paper_id": "4492402",
+          "uid": "18408"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF060",
+    "ingredient_pair_id": "ING-013 * ING-153",
+    "ingredient_pair_name": "Retinoids, Vitamin A * Iron",
+    "ingredient_A_id": "ING-013",
+    "ingredient_A_name": "Retinoids, Vitamin A",
+    "ingredient_B_id": "ING-153",
+    "ingredient_B_name": "Iron",
+    "polarity": "positive",
+    "evidence_text": "Vitamin A plus iron co-supplementation is associated with improved hemoglobin and iron-status outcomes versus iron alone in vitamin-A-deficient anemic populations.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/",
+      "https://pubmed.ncbi.nlm.nih.gov/19332468/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF061",
+    "ingredient_pair_id": "ING-033 * ING-153",
+    "ingredient_pair_name": "Manganese * Iron",
+    "ingredient_A_id": "ING-033",
+    "ingredient_A_name": "Manganese",
+    "ingredient_B_id": "ING-153",
+    "ingredient_B_name": "Iron",
+    "polarity": "undefined",
+    "evidence_text": "Iron and manganese co-use is classified as an undefined, context-dependent extra-effect because its host-level outcome depends on baseline iron status, manganese exposure, and individual vulnerability. In generally healthy individuals, the shared intestinal absorption pathway may not produce a clinically meaningful outcome.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": "In vulnerable populations, the effect can bifurcate. In iron-deficient or anemic individuals, correcting iron deficiency may reduce excessive manganese absorption and thereby lower manganese-toxicity risk, which represents a conditional positive outcome. In contrast, in individuals with high manganese exposure or pre-existing low iron status, manganese may further interfere with iron absorption and worsen iron-status outcomes, which represents a conditional negative outcome.",
+    "supp.ai support": {
+      "interaction_id": "C0024706-C0376520",
+      "supports": [
+        {
+          "paper_id": "2556408",
+          "uid": "7237"
+        },
+        {
+          "paper_id": "2556408",
+          "uid": "7239"
+        },
+        {
+          "paper_id": "206890805",
+          "uid": "14773"
+        },
+        {
+          "paper_id": "149455508",
+          "uid": "23332"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF063",
+    "ingredient_pair_id": "ING-001 * ING-153",
+    "ingredient_pair_name": "5-MTHF / Methylfolate * Iron",
+    "ingredient_A_id": "ING-001",
+    "ingredient_A_name": "5-MTHF / Methylfolate",
+    "ingredient_B_id": "ING-153",
+    "ingredient_B_name": "Iron",
+    "polarity": "positive",
+    "evidence_text": "Combined folate and iron repletion is associated with improved anemia-related biomarker outcomes in populations with mixed micronutrient deficiency.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF064",
+    "ingredient_pair_id": "ING-027 * ING-030",
+    "ingredient_pair_name": "Magnesium glycinate * Calcium",
+    "ingredient_A_id": "ING-027",
+    "ingredient_A_name": "Magnesium glycinate",
+    "ingredient_B_id": "ING-030",
+    "ingredient_B_name": "Calcium",
+    "polarity": "positive",
+    "evidence_text": "The clinical feature of bone and cardiovascular outcomes represents a context-dependent host-level effect for magnesium glycinate and calcium co-use. In generally healthy individuals with adequate baseline status, balanced intake supports to improve bone/cardiovascular outcomes .",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF065",
+    "ingredient_pair_id": "ING-030 * ING-156",
+    "ingredient_pair_name": "Calcium * Magnesium citrate",
+    "ingredient_A_id": "ING-030",
+    "ingredient_A_name": "Calcium",
+    "ingredient_B_id": "ING-156",
+    "ingredient_B_name": "Magnesium citrate",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of bone and neuromuscular outcomes represents a context-dependent host-level effect for calcium and magnesium citrate co-use. In generally healthy individuals with balanced intake, this combination supports bone and neuromuscular outcomes without imbalance concerns.",
+    "Confidence": "low",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with adequate magnesium status, balanced calcium plus magnesium citrate supports bone and neuromuscular outcomes, which represents a conditional positive outcome. In individuals with marginal magnesium status on high-dose calcium, the calcium may oppose magnesium absorption and produce conditional negative outcomes such as muscle cramps or arrhythmia tendency."
+  },
+  {
+    "effect_rule_id": "EFF066",
+    "ingredient_pair_id": "ING-027 * ING-028",
+    "ingredient_pair_name": "Magnesium glycinate * Zinc Bisglycinate",
+    "ingredient_A_id": "ING-027",
+    "ingredient_A_name": "Magnesium glycinate",
+    "ingredient_B_id": "ING-028",
+    "ingredient_B_name": "Zinc Bisglycinate",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of magnesium-status outcomes represents a context-dependent host-level effect for magnesium glycinate and zinc co-use. In generally healthy individuals on typical multivitamin doses, this interaction is unlikely to produce a clinically meaningful outcome.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/",
+      "https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with marginal magnesium status taking high-dose zinc (>50 mg/day) chronically, zinc may decrease magnesium absorption and balance, producing conditional negative outcomes on muscle, sleep, or cardiovascular endpoints. In individuals taking moderate zinc doses with adequate magnesium intake, the combination supports immune and mineral-status outcomes, which represents a conditional positive (neutral-to-supportive) outcome."
+  },
+  {
+    "effect_rule_id": "EFF067",
+    "ingredient_pair_id": "ING-012 * ING-030",
+    "ingredient_pair_name": "Menaquinone-4, Vitamin K2 * Calcium",
+    "ingredient_A_id": "ING-012",
+    "ingredient_A_name": "Menaquinone-4, Vitamin K2",
+    "ingredient_B_id": "ING-030",
+    "ingredient_B_name": "Calcium",
+    "polarity": "positive",
+    "evidence_text": "Vitamin K2 with calcium supplementation is associated with improved bone-deposition outcomes and reduced vascular calcification outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5613455/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF068",
+    "ingredient_pair_id": "ING-030 * ING-319",
+    "ingredient_pair_name": "Calcium * Menaquinone-7, Vitamin K2",
+    "ingredient_A_id": "ING-030",
+    "ingredient_A_name": "Calcium",
+    "ingredient_B_id": "ING-319",
+    "ingredient_B_name": "Menaquinone-7, Vitamin K2",
+    "polarity": "positive",
+    "evidence_text": "MK-7 (vitamin K2) co-use with calcium is associated with more favorable bone and arterial-stiffness outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5613455/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF069",
+    "ingredient_pair_id": "ING-030 * ING-036",
+    "ingredient_pair_name": "Calcium * Boron",
+    "ingredient_A_id": "ING-030",
+    "ingredient_A_name": "Calcium",
+    "ingredient_B_id": "ING-036",
+    "ingredient_B_name": "Boron",
+    "polarity": "positive",
+    "evidence_text": "Combined calcium and boron adequacy is associated with improved bone-integrity outcomes in postmenopausal and at-risk populations.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4712861/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0006030-C3540037",
+      "supports": [
+        {
+          "paper_id": "5987044",
+          "uid": "42321"
+        },
+        {
+          "paper_id": "22964965",
+          "uid": "62151"
+        },
+        {
+          "paper_id": "8785475",
+          "uid": "63157"
+        },
+        {
+          "paper_id": "8128312",
+          "uid": "157434"
+        },
+        {
+          "paper_id": "3793086",
+          "uid": "213184"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF070",
+    "ingredient_pair_id": "ING-010 * ING-036",
+    "ingredient_pair_name": "Cholecalciferol, Vitamin D3 * Boron",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol, Vitamin D3",
+    "ingredient_B_id": "ING-036",
+    "ingredient_B_name": "Boron",
+    "polarity": "positive",
+    "evidence_text": "Boron co-intake with vitamin D3 is associated with improved vitamin D status and bone- and immune-related outcomes.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4712861/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF071",
+    "ingredient_pair_id": "ING-045 * ING-056",
+    "ingredient_pair_name": "NMN / Nicotinamide mononucleotide * Trans-resveratrol",
+    "ingredient_A_id": "ING-045",
+    "ingredient_A_name": "NMN / Nicotinamide mononucleotide",
+    "ingredient_B_id": "ING-056",
+    "ingredient_B_name": "Trans-resveratrol",
+    "polarity": "positive",
+    "evidence_text": "The clinical feature of aging/longevity-related functional outcomes represents a context-dependent host-level effect for NMN and resveratrol co-use. In generally healthy individuals, human pair-level outcome evidence remains preliminary, so this co-intake may produce only modest biomarker changes without firm functional benefit.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9794056/"
+    ],
+    "If undefined, then features. Different cases description.": "In older adults with NAD+ decline or metabolic-aging features, NMN plus resveratrol may support NAD+ status and select cardiometabolic biomarker outcomes, which represents a conditional positive outcome. In generally healthy younger individuals or those expecting clear functional anti-aging effects, current evidence does not support consistent benefit, which represents a conditional non-effect outcome."
+  },
+  {
+    "effect_rule_id": "EFF072",
+    "ingredient_pair_id": "ING-056 * ING-155",
+    "ingredient_pair_name": "Trans-resveratrol * Niagen / Nicotinamide Riboside",
+    "ingredient_A_id": "ING-056",
+    "ingredient_A_name": "Trans-resveratrol",
+    "ingredient_B_id": "ING-155",
+    "ingredient_B_name": "Niagen / Nicotinamide Riboside",
+    "polarity": "positive",
+    "evidence_text": "The clinical feature of aging/longevity-related functional outcomes represents a context-dependent host-level effect for nicotinamide riboside and resveratrol co-use. In generally healthy individuals, direct pair-level human outcome evidence remains limited and benefits may not be uniform.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9794056/"
+    ],
+    "If undefined, then features. Different cases description.": "In older adults with NAD+ decline or metabolic-aging concerns, NR plus resveratrol may support NAD+ and select cardiometabolic biomarker outcomes, which represents a conditional positive outcome. In healthy younger individuals, current evidence does not support reliable functional benefit, which represents a conditional non-effect outcome."
+  },
+  {
+    "effect_rule_id": "EFF073",
+    "ingredient_pair_id": "ING-045 * ING-252",
+    "ingredient_pair_name": "NMN / Nicotinamide mononucleotide * TMG / Trimethylglycine / Betaine anhydrous",
+    "ingredient_A_id": "ING-045",
+    "ingredient_A_name": "NMN / Nicotinamide mononucleotide",
+    "ingredient_B_id": "ING-252",
+    "ingredient_B_name": "TMG / Trimethylglycine / Betaine anhydrous",
+    "polarity": "positive",
+    "evidence_text": "NMN plus TMG (betaine) co-use is associated with supportive methylation-status and homocysteine-related biomarker outcomes during NMN supplementation.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10571146/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF074",
+    "ingredient_pair_id": "ING-155 * ING-252",
+    "ingredient_pair_name": "Niagen / Nicotinamide Riboside * TMG / Trimethylglycine / Betaine anhydrous",
+    "ingredient_A_id": "ING-155",
+    "ingredient_A_name": "Niagen / Nicotinamide Riboside",
+    "ingredient_B_id": "ING-252",
+    "ingredient_B_name": "TMG / Trimethylglycine / Betaine anhydrous",
+    "polarity": "positive",
+    "evidence_text": "TMG plus nicotinamide riboside co-use is rationalized to offset methylation demand from NR-driven NAD+ metabolism and to support homocysteine-related outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10571146/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF075",
+    "ingredient_pair_id": "ING-045 * ING-199",
+    "ingredient_pair_name": "NMN / Nicotinamide mononucleotide * pterostilbene",
+    "ingredient_A_id": "ING-045",
+    "ingredient_A_name": "NMN / Nicotinamide mononucleotide",
+    "ingredient_B_id": "ING-199",
+    "ingredient_B_name": "pterostilbene",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of NAD+ and aging-related outcomes represents a context-dependent host-level effect for NMN and pterostilbene co-use. In generally healthy individuals, early trials show NAD+ biomarker elevation but limited functional outcome evidence.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/29184983/"
+    ],
+    "If undefined, then features. Different cases description.": "In older adults with declining NAD+ levels, NMN plus pterostilbene may raise NAD+ and support select cellular-aging biomarker outcomes, which represents a conditional positive outcome. In healthy younger individuals, functional outcome benefit is not yet established, which represents a conditional non-effect outcome."
+  },
+  {
+    "effect_rule_id": "EFF076",
+    "ingredient_pair_id": "ING-056 * ING-199",
+    "ingredient_pair_name": "Trans-resveratrol * pterostilbene",
+    "ingredient_A_id": "ING-056",
+    "ingredient_A_name": "Trans-resveratrol",
+    "ingredient_B_id": "ING-199",
+    "ingredient_B_name": "pterostilbene",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of antioxidant/longevity-related outcomes represents a context-dependent host-level effect for resveratrol and pterostilbene co-use. In generally healthy individuals, direct head-to-head or additive human evidence is limited.",
+    "Confidence": "low",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6479544/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with elevated oxidative-stress markers or metabolic-aging features, the stilbene combination may modestly support antioxidant biomarker outcomes, which represents a conditional positive outcome. In healthy individuals without baseline oxidative stress, the overlap of antioxidant mechanisms may not produce additive benefit, which represents a conditional non-effect outcome."
+  },
+  {
+    "effect_rule_id": "EFF077",
+    "ingredient_pair_id": "ING-056 * ING-164",
+    "ingredient_pair_name": "Trans-resveratrol * Spermidine",
+    "ingredient_A_id": "ING-056",
+    "ingredient_A_name": "Trans-resveratrol",
+    "ingredient_B_id": "ING-164",
+    "ingredient_B_name": "Spermidine",
+    "polarity": "positive",
+    "evidence_text": "The clinical feature of autophagy and longevity-related outcomes represents a context-dependent host-level effect for resveratrol and spermidine co-use. In generally healthy individuals, preclinical autophagy links exist but human pair-level outcome evidence remains preliminary.",
+    "Confidence": "low",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6647088/"
+    ],
+    "If undefined, then features. Different cases description.": "In older adults or those with metabolic-aging features, the combination may support autophagy- and aging-related biomarker outcomes, which represents a conditional positive outcome. In healthy younger individuals, current evidence does not support a clear functional benefit, which represents a conditional non-effect outcome."
+  },
+  {
+    "effect_rule_id": "EFF078",
+    "ingredient_pair_id": "ING-001 * ING-252",
+    "ingredient_pair_name": "5-MTHF / Methylfolate * TMG / Trimethylglycine / Betaine anhydrous",
+    "ingredient_A_id": "ING-001",
+    "ingredient_A_name": "5-MTHF / Methylfolate",
+    "ingredient_B_id": "ING-252",
+    "ingredient_B_name": "TMG / Trimethylglycine / Betaine anhydrous",
+    "polarity": "positive",
+    "evidence_text": "TMG (betaine) plus folate is associated with lower fasting homocysteine outcomes in some populations with elevated homocysteine.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6470839/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF079",
+    "ingredient_pair_id": "ING-002 * ING-252",
+    "ingredient_pair_name": "Methylcobalamin, Vitamin B12 * TMG / Trimethylglycine / Betaine anhydrous",
+    "ingredient_A_id": "ING-002",
+    "ingredient_A_name": "Methylcobalamin, Vitamin B12",
+    "ingredient_B_id": "ING-252",
+    "ingredient_B_name": "TMG / Trimethylglycine / Betaine anhydrous",
+    "polarity": "positive",
+    "evidence_text": "Betaine plus vitamin B12 is associated with improved homocysteine-related biomarker outcomes through complementary remethylation support.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6470839/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF080",
+    "ingredient_pair_id": "ING-009 * ING-252",
+    "ingredient_pair_name": "Choline / Vitamin B4 * TMG / Trimethylglycine / Betaine anhydrous",
+    "ingredient_A_id": "ING-009",
+    "ingredient_A_name": "Choline / Vitamin B4",
+    "ingredient_B_id": "ING-252",
+    "ingredient_B_name": "TMG / Trimethylglycine / Betaine anhydrous",
+    "polarity": "positive",
+    "evidence_text": "Combined choline and TMG (betaine) adequacy is associated with favorable homocysteine and methylation-related biomarker outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0005304-C0008405",
+      "supports": [
+        {
+          "paper_id": "9941965",
+          "uid": "17403"
+        },
+        {
+          "paper_id": "4461403",
+          "uid": "36109"
+        },
+        {
+          "paper_id": "30666900",
+          "uid": "42010"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF081",
+    "ingredient_pair_id": "ING-002 * ING-009",
+    "ingredient_pair_name": "Methylcobalamin, Vitamin B12 * Choline / Vitamin B4",
+    "ingredient_A_id": "ING-002",
+    "ingredient_A_name": "Methylcobalamin, Vitamin B12",
+    "ingredient_B_id": "ING-009",
+    "ingredient_B_name": "Choline / Vitamin B4",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin B12 and choline adequacy is associated with favorable homocysteine-related biomarker outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Choline-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF082",
+    "ingredient_pair_id": "ING-022 * ING-023",
+    "ingredient_pair_name": "Lutein * Zeaxanthin",
+    "ingredient_A_id": "ING-022",
+    "ingredient_A_name": "Lutein",
+    "ingredient_B_id": "ING-023",
+    "ingredient_B_name": "Zeaxanthin",
+    "polarity": "positive",
+    "evidence_text": "Lutein plus zeaxanthin is associated with reduced progression to advanced AMD versus beta-carotene in the AREDS2 trial and is recommended in AREDS-type macular degeneration formulations.",
+    "Confidence": "high",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/23644932/",
+      "https://pubmed.ncbi.nlm.nih.gov/35653117/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0043328-C0078752",
+      "supports": [
+        {
+          "paper_id": "30249122",
+          "uid": "11042"
+        },
+        {
+          "paper_id": "4454525",
+          "uid": "41491"
+        },
+        {
+          "paper_id": "1714505",
+          "uid": "90768"
+        },
+        {
+          "paper_id": "4634692",
+          "uid": "188922"
+        },
+        {
+          "paper_id": "46795325",
+          "uid": "218699"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF083",
+    "ingredient_pair_id": "ING-022 * ING-354",
+    "ingredient_pair_name": "Lutein * Meso-zeaxanthin",
+    "ingredient_A_id": "ING-022",
+    "ingredient_A_name": "Lutein",
+    "ingredient_B_id": "ING-354",
+    "ingredient_B_name": "Meso-zeaxanthin",
+    "polarity": "positive",
+    "evidence_text": "Lutein plus meso-zeaxanthin is associated with increased macular pigment optical density and improvements in contrast-sensitivity and visual-function outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4738011/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF084",
+    "ingredient_pair_id": "ING-021 * ING-022",
+    "ingredient_pair_name": "Astaxanthin * Lutein",
+    "ingredient_A_id": "ING-021",
+    "ingredient_A_name": "Astaxanthin",
+    "ingredient_B_id": "ING-022",
+    "ingredient_B_name": "Lutein",
+    "polarity": "positive",
+    "evidence_text": "Astaxanthin plus lutein supplementation is associated with improvements in accommodation, visual fatigue, and macular-pigment-related visual outcomes.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8167724/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF085",
+    "ingredient_pair_id": "ING-016 * ING-021",
+    "ingredient_pair_name": "EPA / Eicosapentaenoic acid * Astaxanthin",
+    "ingredient_A_id": "ING-016",
+    "ingredient_A_name": "EPA / Eicosapentaenoic acid",
+    "ingredient_B_id": "ING-021",
+    "ingredient_B_name": "Astaxanthin",
+    "polarity": "positive",
+    "evidence_text": "Astaxanthin co-formulated with EPA-rich omega-3 oils is associated with improved lipid and oxidative-stress biomarker outcomes in cardiometabolic-risk populations.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5946307/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0000545-C0052565",
+      "supports": [
+        {
+          "paper_id": "25913375",
+          "uid": "17507"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF086",
+    "ingredient_pair_id": "ING-017 * ING-021",
+    "ingredient_pair_name": "DHA / Docosahexaenoic acid * Astaxanthin",
+    "ingredient_A_id": "ING-017",
+    "ingredient_A_name": "DHA / Docosahexaenoic acid",
+    "ingredient_B_id": "ING-021",
+    "ingredient_B_name": "Astaxanthin",
+    "polarity": "positive",
+    "evidence_text": "Astaxanthin plus DHA-containing omega-3 is associated with favorable oxidative-stress and visual-function biomarker outcomes.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5946307/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF087",
+    "ingredient_pair_id": "ING-014 * ING-038",
+    "ingredient_pair_name": "d-alpha-tocopherol, Vitamin E * Ascorbic acid, Vitamin C",
+    "ingredient_A_id": "ING-014",
+    "ingredient_A_name": "d-alpha-tocopherol, Vitamin E",
+    "ingredient_B_id": "ING-038",
+    "ingredient_B_name": "Ascorbic acid, Vitamin C",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin C and vitamin E supplementation is associated with improved antioxidant defense and lipid-peroxidation biomarker outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://lpi.oregonstate.edu/mic/vitamins/vitamin-E"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0052565-C0556150",
+      "supports": [
+        {
+          "paper_id": "25072320",
+          "uid": "233746"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF088",
+    "ingredient_pair_id": "ING-014 * ING-029",
+    "ingredient_pair_name": "d-alpha-tocopherol, Vitamin E * Selenium",
+    "ingredient_A_id": "ING-014",
+    "ingredient_A_name": "d-alpha-tocopherol, Vitamin E",
+    "ingredient_B_id": "ING-029",
+    "ingredient_B_name": "Selenium",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin E and selenium adequacy is associated with favorable oxidative-stress biomarker outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://lpi.oregonstate.edu/mic/minerals/selenium"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF089",
+    "ingredient_pair_id": "ING-025 * ING-041",
+    "ingredient_pair_name": "Coenzyme Q10 / Ubiquinone * Alpha lipoic acid",
+    "ingredient_A_id": "ING-025",
+    "ingredient_A_name": "Coenzyme Q10 / Ubiquinone",
+    "ingredient_B_id": "ING-041",
+    "ingredient_B_name": "Alpha lipoic acid",
+    "polarity": "positive",
+    "evidence_text": "Alpha-lipoic acid plus CoQ10 supplementation is associated with improvements in oxidative-stress, endothelial, and metabolic biomarker outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6266417/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0023791-C0041536",
+      "supports": [
+        {
+          "paper_id": "18660709",
+          "uid": "48258"
+        },
+        {
+          "paper_id": "26113912",
+          "uid": "130549"
+        },
+        {
+          "paper_id": "29052230",
+          "uid": "165841"
+        },
+        {
+          "paper_id": "16235658",
+          "uid": "198929"
+        },
+        {
+          "paper_id": "16235658",
+          "uid": "198930"
+        },
+        {
+          "paper_id": "16235658",
+          "uid": "198931"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF090",
+    "ingredient_pair_id": "ING-026 * ING-041",
+    "ingredient_pair_name": "Ubiquinol * Alpha lipoic acid",
+    "ingredient_A_id": "ING-026",
+    "ingredient_A_name": "Ubiquinol",
+    "ingredient_B_id": "ING-041",
+    "ingredient_B_name": "Alpha lipoic acid",
+    "polarity": "positive",
+    "evidence_text": "Alpha-lipoic acid plus ubiquinol (CoQ10 redox-family form) is associated with improvements in oxidative-stress biomarker outcomes.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6266417/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF091",
+    "ingredient_pair_id": "ING-040 * ING-160",
+    "ingredient_pair_name": "NAC / N-Acetyl-L-Cysteine * L-glutathione",
+    "ingredient_A_id": "ING-040",
+    "ingredient_A_name": "NAC / N-Acetyl-L-Cysteine",
+    "ingredient_B_id": "ING-160",
+    "ingredient_B_name": "L-glutathione",
+    "polarity": "positive",
+    "evidence_text": "Combined NAC plus glutathione strategies (e.g., GlyNAC) are associated with improvements in glutathione status and oxidative-stress outcomes, particularly in older adults.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8804311/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF092",
+    "ingredient_pair_id": "ING-040 * ING-230",
+    "ingredient_pair_name": "NAC / N-Acetyl-L-Cysteine * setria glutathione",
+    "ingredient_A_id": "ING-040",
+    "ingredient_A_name": "NAC / N-Acetyl-L-Cysteine",
+    "ingredient_B_id": "ING-230",
+    "ingredient_B_name": "setria glutathione",
+    "polarity": "positive",
+    "evidence_text": "NAC plus Setria glutathione is associated with improvements in glutathione-status and oxidative-stress biomarker outcomes.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8804311/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF093",
+    "ingredient_pair_id": "ING-253 * ING-367",
+    "ingredient_pair_name": "Sulforaphane / BroccoMax * Myrosinase",
+    "ingredient_A_id": "ING-253",
+    "ingredient_A_name": "Sulforaphane / BroccoMax",
+    "ingredient_B_id": "ING-367",
+    "ingredient_B_name": "Myrosinase",
+    "polarity": "positive",
+    "evidence_text": "Active myrosinase co-administered with glucoraphanin-rich preparations is associated with 3- to 4-fold higher sulforaphane bioavailability and supportive downstream Nrf2-related physiologic outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4629881/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF094",
+    "ingredient_pair_id": "ING-162 * ING-367",
+    "ingredient_pair_name": "Broccoli Seed Extract * Myrosinase",
+    "ingredient_A_id": "ING-162",
+    "ingredient_A_name": "Broccoli Seed Extract",
+    "ingredient_B_id": "ING-367",
+    "ingredient_B_name": "Myrosinase",
+    "polarity": "positive",
+    "evidence_text": "Broccoli seed extract co-formulated with active myrosinase is associated with enhanced sulforaphane bioavailability and supportive Nrf2-related physiologic outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4629881/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF095",
+    "ingredient_pair_id": "ING-025 * ING-181",
+    "ingredient_pair_name": "Coenzyme Q10 / Ubiquinone * Monacolin K, Red Yeast Rice",
+    "ingredient_A_id": "ING-025",
+    "ingredient_A_name": "Coenzyme Q10 / Ubiquinone",
+    "ingredient_B_id": "ING-181",
+    "ingredient_B_name": "Monacolin K, Red Yeast Rice",
+    "polarity": "positive",
+    "evidence_text": "CoQ10 co-supplementation with monacolin-K-containing red yeast rice is associated with improved blood pressure and arterial-stiffness outcomes in metabolic-syndrome patients.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6361161/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0024027-C0041536",
+      "supports": [
+        {
+          "paper_id": "24157950",
+          "uid": "7779"
+        },
+        {
+          "paper_id": "4969126",
+          "uid": "106366"
+        },
+        {
+          "paper_id": "25852292",
+          "uid": "168605"
+        },
+        {
+          "paper_id": "36451662",
+          "uid": "186991"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF096",
+    "ingredient_pair_id": "ING-026 * ING-181",
+    "ingredient_pair_name": "Ubiquinol * Monacolin K, Red Yeast Rice",
+    "ingredient_A_id": "ING-026",
+    "ingredient_A_name": "Ubiquinol",
+    "ingredient_B_id": "ING-181",
+    "ingredient_B_name": "Monacolin K, Red Yeast Rice",
+    "polarity": "positive",
+    "evidence_text": "Ubiquinol (CoQ10 redox-family form) co-use with monacolin-K-containing red yeast rice is associated with supportive cardiovascular biomarker outcomes.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6361161/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF097",
+    "ingredient_pair_id": "ING-159 * ING-282",
+    "ingredient_pair_name": "Glucosamine Sulfate * Chondroitin sulfate",
+    "ingredient_A_id": "ING-159",
+    "ingredient_A_name": "Glucosamine Sulfate",
+    "ingredient_B_id": "ING-282",
+    "ingredient_B_name": "Chondroitin sulfate",
+    "polarity": "positive",
+    "evidence_text": "Glucosamine plus chondroitin is associated with improved pain and joint-function outcomes in knee osteoarthritis subgroups, particularly in moderate-to-severe pain populations.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/16495392/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4262173/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0008466-C0017720",
+      "supports": [
+        {
+          "paper_id": "25327801",
+          "uid": "239451"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239452"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239453"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239454"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF098",
+    "ingredient_pair_id": "ING-159 * ING-303",
+    "ingredient_pair_name": "Glucosamine Sulfate * MSM / Methylsulfonylmethane",
+    "ingredient_A_id": "ING-159",
+    "ingredient_A_name": "Glucosamine Sulfate",
+    "ingredient_B_id": "ING-303",
+    "ingredient_B_name": "MSM / Methylsulfonylmethane",
+    "polarity": "positive",
+    "evidence_text": "Glucosamine plus MSM is associated with greater improvement in osteoarthritis pain and joint-function outcomes compared with either agent alone in a controlled trial.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/15554732/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF099",
+    "ingredient_pair_id": "ING-282 * ING-303",
+    "ingredient_pair_name": "Chondroitin sulfate * MSM / Methylsulfonylmethane",
+    "ingredient_A_id": "ING-282",
+    "ingredient_A_name": "Chondroitin sulfate",
+    "ingredient_B_id": "ING-303",
+    "ingredient_B_name": "MSM / Methylsulfonylmethane",
+    "polarity": "positive",
+    "evidence_text": "Chondroitin sulfate plus MSM combined formulations are associated with improved pain and joint-function outcomes in osteoarthritis studies.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4262173/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF100",
+    "ingredient_pair_id": "ING-149 * ING-202",
+    "ingredient_pair_name": "Collagen Peptides * Hyaluronic Acid",
+    "ingredient_A_id": "ING-149",
+    "ingredient_A_name": "Collagen Peptides",
+    "ingredient_B_id": "ING-202",
+    "ingredient_B_name": "Hyaluronic Acid",
+    "polarity": "positive",
+    "evidence_text": "Collagen peptides plus hyaluronic acid is associated with improvements in skin elasticity, hydration, and joint-related symptom outcomes in combined-supplement trials.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9518536/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF101",
+    "ingredient_pair_id": "ING-050 * ING-131",
+    "ingredient_pair_name": "Curcumin * Bromelain",
+    "ingredient_A_id": "ING-050",
+    "ingredient_A_name": "Curcumin",
+    "ingredient_B_id": "ING-131",
+    "ingredient_B_name": "Bromelain",
+    "polarity": "positive",
+    "evidence_text": "Curcumin plus bromelain is associated with additive anti-inflammatory and joint-symptom outcomes in experimental and clinical studies.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4791507/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0006217-C0010467",
+      "supports": [
+        {
+          "paper_id": "226307893",
+          "uid": "156675"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF102",
+    "ingredient_pair_id": "ING-108 * ING-110",
+    "ingredient_pair_name": "Caffeine * L-tyrosine",
+    "ingredient_A_id": "ING-108",
+    "ingredient_A_name": "Caffeine",
+    "ingredient_B_id": "ING-110",
+    "ingredient_B_name": "L-tyrosine",
+    "polarity": "positive",
+    "evidence_text": "Caffeine plus L-tyrosine is associated with improvements in cognitive performance and stress-resilience outcomes under demanding conditions.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4863555/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF103",
+    "ingredient_pair_id": "ING-108 * ING-242",
+    "ingredient_pair_name": "Caffeine * Theobromine",
+    "ingredient_A_id": "ING-108",
+    "ingredient_A_name": "Caffeine",
+    "ingredient_B_id": "ING-242",
+    "ingredient_B_name": "Theobromine",
+    "polarity": "undefined",
+    "evidence_text": "Caffeine plus theobromine co-use is context-dependent: it provides a conditional positive outcome for moderate-dose energy and mood support, but triggers a conditional negative outcome (palpitations, anxiety, or elevated blood pressure) in individuals with caffeine sensitivity, hypertension, anxiety, or arrhythmia tendency.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3777290/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals seeking sustained energy and mood support at moderate doses, caffeine plus theobromine may improve alertness and subjective energy outcomes, which represents a conditional positive outcome. In caffeine-sensitive individuals, those with hypertension, anxiety, or arrhythmia tendency, the combination may produce conditional negative outcomes such as palpitations, anxiety, or elevated blood pressure.",
+    "supp.ai support": {
+      "interaction_id": "C0006644-C0039763",
+      "supports": [
+        {
+          "paper_id": "52274913",
+          "uid": "13784"
+        },
+        {
+          "paper_id": "7003053",
+          "uid": "104229"
+        },
+        {
+          "paper_id": "7003053",
+          "uid": "104230"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF104",
+    "ingredient_pair_id": "ING-108 * ING-261",
+    "ingredient_pair_name": "Caffeine * Theacrine / Dynamine",
+    "ingredient_A_id": "ING-108",
+    "ingredient_A_name": "Caffeine",
+    "ingredient_B_id": "ING-261",
+    "ingredient_B_name": "Theacrine / Dynamine",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of energy and focus outcomes represents a context-dependent host-level effect for caffeine and theacrine co-use. In generally healthy individuals on moderate doses, this combination may produce additive effects with variable tolerance development; long-term human evidence is limited.",
+    "Confidence": "low",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727503/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with caffeine tolerance seeking sustained focus, caffeine plus theacrine may extend energy and reduce subjective tolerance-related decline, which represents a conditional positive outcome. In caffeine-sensitive individuals or those with cardiovascular risk, the combination may produce conditional negative outcomes such as overstimulation or sleep disruption."
+  },
+  {
+    "effect_rule_id": "EFF105",
+    "ingredient_pair_id": "ING-108 * ING-214",
+    "ingredient_pair_name": "Caffeine * Adderall",
+    "ingredient_A_id": "ING-108",
+    "ingredient_A_name": "Caffeine",
+    "ingredient_B_id": "ING-214",
+    "ingredient_B_name": "Adderall",
+    "polarity": "negative",
+    "evidence_text": "Caffeine combined with amphetamine-class stimulants (e.g., Adderall) is associated with additive cardiovascular, anxiety, and sleep-disruption outcomes; combined use is generally cautioned.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4140499/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF106",
+    "ingredient_pair_id": "ING-108 * ING-215",
+    "ingredient_pair_name": "Caffeine * Ritalin",
+    "ingredient_A_id": "ING-108",
+    "ingredient_A_name": "Caffeine",
+    "ingredient_B_id": "ING-215",
+    "ingredient_B_name": "Ritalin",
+    "polarity": "negative",
+    "evidence_text": "Caffeine combined with methylphenidate (Ritalin) is associated with additive cardiovascular and anxiety-related outcomes, potentially exceeding intended stimulant exposure.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4140499/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0006644-C0025810",
+      "supports": [
+        {
+          "paper_id": "41358406",
+          "uid": "136599"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF107",
+    "ingredient_pair_id": "ING-108 * ING-211",
+    "ingredient_pair_name": "Caffeine * Modafinil",
+    "ingredient_A_id": "ING-108",
+    "ingredient_A_name": "Caffeine",
+    "ingredient_B_id": "ING-211",
+    "ingredient_B_name": "Modafinil",
+    "polarity": "negative",
+    "evidence_text": "Caffeine plus modafinil is associated with additive stimulation, insomnia, anxiety, and cardiovascular-symptom outcomes, particularly with evening dosing.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/12970315/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF108",
+    "ingredient_pair_id": "ING-184 * ING-254",
+    "ingredient_pair_name": "metformin * Berberine HCl",
+    "ingredient_A_id": "ING-184",
+    "ingredient_A_name": "metformin",
+    "ingredient_B_id": "ING-254",
+    "ingredient_B_name": "Berberine HCl",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of glycemic and gastrointestinal outcomes represents a context-dependent host-level effect for metformin and berberine co-use. In generally healthy individuals or those with mild hyperglycemia, this combination may produce additive glycemic benefit alongside variable gastrointestinal tolerance.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4112360/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with type 2 diabetes or prediabetes seeking additional glycemic support, metformin plus berberine may improve fasting glucose and HbA1c outcomes, which represents a conditional positive outcome. In individuals already at risk of metformin-related GI intolerance, hypoglycemia tendency, or on multiple glucose-lowering therapies, the combination may produce conditional negative outcomes such as diarrhea, abdominal symptoms, or hypoglycemia."
+  },
+  {
+    "effect_rule_id": "EFF109",
+    "ingredient_pair_id": "ING-168 * ING-254",
+    "ingredient_pair_name": "Cinnamon Organic * Berberine HCl",
+    "ingredient_A_id": "ING-168",
+    "ingredient_A_name": "Cinnamon Organic",
+    "ingredient_B_id": "ING-254",
+    "ingredient_B_name": "Berberine HCl",
+    "polarity": "positive",
+    "evidence_text": "Berberine plus cinnamon is associated with improvements in fasting glucose and insulin-resistance-related biomarker outcomes in prediabetic and insulin-resistant populations.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4112360/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF110",
+    "ingredient_pair_id": "ING-034 * ING-254",
+    "ingredient_pair_name": "Chromium * Berberine HCl",
+    "ingredient_A_id": "ING-034",
+    "ingredient_A_name": "Chromium",
+    "ingredient_B_id": "ING-254",
+    "ingredient_B_name": "Berberine HCl",
+    "polarity": "positive",
+    "evidence_text": "Chromium plus berberine is associated with improvements in fasting glucose and HbA1c-related outcomes in metabolic-syndrome and prediabetic populations.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4112360/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF111",
+    "ingredient_pair_id": "ING-027 * ING-148",
+    "ingredient_pair_name": "Magnesium glycinate * Glycine",
+    "ingredient_A_id": "ING-027",
+    "ingredient_A_name": "Magnesium glycinate",
+    "ingredient_B_id": "ING-148",
+    "ingredient_B_name": "Glycine",
+    "polarity": "positive",
+    "evidence_text": "Magnesium glycinate (intrinsically combining magnesium with glycine) is associated with improvements in subjective sleep-quality and relaxation-related outcomes.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4397399/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF112",
+    "ingredient_pair_id": "ING-027 * ING-147",
+    "ingredient_pair_name": "Magnesium glycinate * Gamma-Aminobutyric Acid (GABA)",
+    "ingredient_A_id": "ING-027",
+    "ingredient_A_name": "Magnesium glycinate",
+    "ingredient_B_id": "ING-147",
+    "ingredient_B_name": "Gamma-Aminobutyric Acid (GABA)",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of relaxation and sleep outcomes represents a context-dependent host-level effect for magnesium glycinate and GABA co-use. In generally healthy individuals, the combined effect varies by oral GABA absorption and individual responsiveness.",
+    "Confidence": "low",
+    "source_url": [
+      "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2020.00923/full"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with subjective stress, anxiety, or sleep-onset difficulty, magnesium plus GABA may support subjective relaxation and sleep outcomes, which represents a conditional positive outcome. In individuals without these complaints, or when oral GABA bioavailability is poor, the pair-level effect may remain neutral, with direct pair-level human evidence remaining limited."
+  },
+  {
+    "effect_rule_id": "EFF113",
+    "ingredient_pair_id": "ING-112 * ING-229",
+    "ingredient_pair_name": "Melatonin * Valerian Root",
+    "ingredient_A_id": "ING-112",
+    "ingredient_A_name": "Melatonin",
+    "ingredient_B_id": "ING-229",
+    "ingredient_B_name": "Valerian Root",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of sleep-quality outcomes represents a context-dependent host-level effect for melatonin and valerian co-use. In generally healthy individuals, this combination may support subjective sleep quality with non-additive effects across distinct sleep-targeting actions.",
+    "Confidence": "low",
+    "source_url": [
+      "https://www.nccih.nih.gov/health/valerian"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with insomnia or circadian sleep disruption, melatonin plus valerian may improve subjective sleep-onset and quality outcomes, which represents a conditional positive outcome. In individuals without sleep complaints, the combination is unlikely to add benefit; rare hepatic sensitivity to valerian may produce conditional negative outcomes in susceptible individuals."
+  },
+  {
+    "effect_rule_id": "EFF114",
+    "ingredient_pair_id": "ING-112 * ING-228",
+    "ingredient_pair_name": "Melatonin * L-Tryptophan",
+    "ingredient_A_id": "ING-112",
+    "ingredient_A_name": "Melatonin",
+    "ingredient_B_id": "ING-228",
+    "ingredient_B_name": "L-Tryptophan",
+    "polarity": "positive",
+    "evidence_text": "L-tryptophan plus melatonin is associated with supportive sleep-related outcomes in some sleep-affected populations.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8533683/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0025219-C0041249",
+      "supports": [
+        {
+          "paper_id": "53095762",
+          "uid": "43976"
+        },
+        {
+          "paper_id": "23013212",
+          "uid": "99460"
+        },
+        {
+          "paper_id": "29878638",
+          "uid": "223468"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF115",
+    "ingredient_pair_id": "ING-003 * ING-228",
+    "ingredient_pair_name": "P-5-P, Vitamin B6 * L-Tryptophan",
+    "ingredient_A_id": "ING-003",
+    "ingredient_A_name": "P-5-P, Vitamin B6",
+    "ingredient_B_id": "ING-228",
+    "ingredient_B_name": "L-Tryptophan",
+    "polarity": "positive",
+    "evidence_text": "Combined P-5-P (active vitamin B6) and L-tryptophan adequacy is associated with supportive serotonergic and downstream sleep/mood-related outcomes.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF116",
+    "ingredient_pair_id": "ING-027 * ING-151",
+    "ingredient_pair_name": "Magnesium glycinate * Ashwagandha Extract",
+    "ingredient_A_id": "ING-027",
+    "ingredient_A_name": "Magnesium glycinate",
+    "ingredient_B_id": "ING-151",
+    "ingredient_B_name": "Ashwagandha Extract",
+    "polarity": "positive",
+    "evidence_text": "Ashwagandha plus magnesium is associated with improvements in subjective stress, anxiety, and sleep outcomes.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8762185/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF117",
+    "ingredient_pair_id": "ING-029 * ING-037",
+    "ingredient_pair_name": "Selenium * Iodine",
+    "ingredient_A_id": "ING-029",
+    "ingredient_A_name": "Selenium",
+    "ingredient_B_id": "ING-037",
+    "ingredient_B_name": "Iodine",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of thyroid-function outcomes represents a context-dependent host-level effect for selenium and iodine co-use. In generally healthy individuals with adequate baseline status of both, joint adequacy supports normal thyroid hormone economy without notable risk.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/26361258/",
+      "https://pubmed.ncbi.nlm.nih.gov/38243784/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10080082/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with iodine deficiency, adequate selenium plus iodine repletion supports thyroid function and reduces antibody-related outcomes, which represents a conditional positive outcome. In selenium-deficient individuals or those with predisposition to autoimmune thyroiditis, high iodine exposure may promote thyroid antibody elevation and worsen autoimmune thyroid outcomes, which represents a conditional negative outcome.",
+    "supp.ai support": {
+      "interaction_id": "C0021968-C0036581",
+      "supports": [
+        {
+          "paper_id": "53011514",
+          "uid": "65904"
+        },
+        {
+          "paper_id": "220336956",
+          "uid": "84039"
+        },
+        {
+          "paper_id": "8092861",
+          "uid": "156893"
+        },
+        {
+          "paper_id": "21911890",
+          "uid": "212834"
+        },
+        {
+          "paper_id": "26775009",
+          "uid": "217679"
+        },
+        {
+          "paper_id": "8464084",
+          "uid": "220347"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF118",
+    "ingredient_pair_id": "ING-037 * ING-256",
+    "ingredient_pair_name": "Iodine * Levothyroxine",
+    "ingredient_A_id": "ING-037",
+    "ingredient_A_name": "Iodine",
+    "ingredient_B_id": "ING-256",
+    "ingredient_B_name": "Levothyroxine",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of thyroid-hormone control outcomes represents a context-dependent host-level effect for iodine and levothyroxine co-use. In generally healthy individuals without thyroid disease, this scenario does not typically arise.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK459262/"
+    ],
+    "If undefined, then features. Different cases description.": "In hypothyroid individuals with iodine deficiency as the underlying cause, iodine supplementation may restore deficient hormone synthesis and support thyroid-function outcomes, which represents a conditional positive outcome. In individuals with autoimmune thyroiditis (e.g., Hashimoto's) already on levothyroxine, additional iodine may worsen autoimmune activity and destabilize TSH/thyroid hormone outcomes, which represents a conditional negative outcome.",
+    "supp.ai support": {
+      "interaction_id": "C0021968-C0040165",
+      "supports": [
+        {
+          "paper_id": "215780413",
+          "uid": "53744"
+        },
+        {
+          "paper_id": "37823005",
+          "uid": "14886"
+        },
+        {
+          "paper_id": "19051653",
+          "uid": "108309"
+        },
+        {
+          "paper_id": "33857116",
+          "uid": "124628"
+        },
+        {
+          "paper_id": "38155950",
+          "uid": "155102"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF119",
+    "ingredient_pair_id": "ING-094 * ING-256",
+    "ingredient_pair_name": "Potassium Iodide * Levothyroxine",
+    "ingredient_A_id": "ING-094",
+    "ingredient_A_name": "Potassium Iodide",
+    "ingredient_B_id": "ING-256",
+    "ingredient_B_name": "Levothyroxine",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of thyroid-hormone control outcomes represents a context-dependent host-level effect for potassium iodide and levothyroxine co-use. In generally healthy individuals, this scenario does not typically arise.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK459262/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF120",
+    "ingredient_pair_id": "ING-030 * ING-256",
+    "ingredient_pair_name": "Calcium * Levothyroxine",
+    "ingredient_A_id": "ING-030",
+    "ingredient_A_name": "Calcium",
+    "ingredient_B_id": "ING-256",
+    "ingredient_B_name": "Levothyroxine",
+    "polarity": "negative",
+    "evidence_text": "Calcium taken simultaneously with levothyroxine is associated with worsened TSH control and under-replacement of thyroid hormone outcomes.",
+    "Confidence": "high",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3169866/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0040165-C3540037",
+      "supports": [
+        {
+          "paper_id": "4969831",
+          "uid": "515"
+        },
+        {
+          "paper_id": "31958664",
+          "uid": "11541"
+        },
+        {
+          "paper_id": "39303956",
+          "uid": "14887"
+        },
+        {
+          "paper_id": "14397371",
+          "uid": "26423"
+        },
+        {
+          "paper_id": "26314931",
+          "uid": "59417"
+        },
+        {
+          "paper_id": "231734495",
+          "uid": "118513"
+        },
+        {
+          "paper_id": "19921813",
+          "uid": "142226"
+        },
+        {
+          "paper_id": "32281756",
+          "uid": "193268"
+        },
+        {
+          "paper_id": "42101250",
+          "uid": "197267"
+        },
+        {
+          "paper_id": "232381618",
+          "uid": "249849"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF121",
+    "ingredient_pair_id": "ING-153 * ING-256",
+    "ingredient_pair_name": "Iron * Levothyroxine",
+    "ingredient_A_id": "ING-153",
+    "ingredient_A_name": "Iron",
+    "ingredient_B_id": "ING-256",
+    "ingredient_B_name": "Levothyroxine",
+    "polarity": "negative",
+    "evidence_text": "Iron taken simultaneously with levothyroxine is associated with worsened TSH control and under-replacement of thyroid hormone outcomes.",
+    "Confidence": "high",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3169866/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0040165-C0376520",
+      "supports": [
+        {
+          "paper_id": "31958664",
+          "uid": "11540"
+        },
+        {
+          "paper_id": "14397371",
+          "uid": "26424"
+        },
+        {
+          "paper_id": "26314931",
+          "uid": "59416"
+        },
+        {
+          "paper_id": "9767605",
+          "uid": "92960"
+        },
+        {
+          "paper_id": "12165328",
+          "uid": "242770"
+        },
+        {
+          "paper_id": "232381618",
+          "uid": "249851"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF122",
+    "ingredient_pair_id": "ING-112 * ING-273",
+    "ingredient_pair_name": "Melatonin * Trazodone",
+    "ingredient_A_id": "ING-112",
+    "ingredient_A_name": "Melatonin",
+    "ingredient_B_id": "ING-273",
+    "ingredient_B_name": "Trazodone",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of sedation outcomes represents a context-dependent host-level effect for melatonin and trazodone co-use. In generally healthy individuals not on trazodone, this combination does not arise; controlled pair-level evidence is limited.",
+    "Confidence": "low",
+    "source_url": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK470560/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals on trazodone for sleep with persistent sleep-onset difficulty, modest-dose melatonin may add modest sleep-onset support, which represents a conditional positive outcome. In elderly individuals or those at risk of falls, oversedation, or orthostatic hypotension, the combination may produce conditional negative outcomes such as morning grogginess or fall risk.",
+    "supp.ai support": {
+      "interaction_id": "C0025219-C0040805",
+      "supports": [
+        {
+          "paper_id": "20070709",
+          "uid": "104946"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF125",
+    "ingredient_pair_id": "ING-025 * ING-196",
+    "ingredient_pair_name": "Coenzyme Q10 / Ubiquinone * Pyrroloquinoline Quinone",
+    "ingredient_A_id": "ING-025",
+    "ingredient_A_name": "Coenzyme Q10 / Ubiquinone",
+    "ingredient_B_id": "ING-196",
+    "ingredient_B_name": "Pyrroloquinoline Quinone",
+    "polarity": "positive",
+    "evidence_text": "PQQ plus CoQ10 supplementation is associated with improvements in cognitive and mitochondrial-related outcomes compared with either alone in older-adult studies.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/22392887/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF126",
+    "ingredient_pair_id": "ING-026 * ING-196",
+    "ingredient_pair_name": "Ubiquinol * Pyrroloquinoline Quinone",
+    "ingredient_A_id": "ING-026",
+    "ingredient_A_name": "Ubiquinol",
+    "ingredient_B_id": "ING-196",
+    "ingredient_B_name": "Pyrroloquinoline Quinone",
+    "polarity": "positive",
+    "evidence_text": "PQQ plus ubiquinol (CoQ10 redox-family form) supplementation is associated with mitochondrial and cognitive-function biomarker outcomes.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/22392887/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF127",
+    "ingredient_pair_id": "ING-041 * ING-197",
+    "ingredient_pair_name": "Alpha lipoic acid * Acetyl-L-Carnitine",
+    "ingredient_A_id": "ING-041",
+    "ingredient_A_name": "Alpha lipoic acid",
+    "ingredient_B_id": "ING-197",
+    "ingredient_B_name": "Acetyl-L-Carnitine",
+    "polarity": "positive",
+    "evidence_text": "Acetyl-L-carnitine plus alpha-lipoic acid is associated with combined effects on mitochondrial function, oxidative stress, and endothelial outcomes in experimental and clinical studies.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2536523/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0001040-C0023791",
+      "supports": [
+        {
+          "paper_id": "26113912",
+          "uid": "130548"
+        },
+        {
+          "paper_id": "16457524",
+          "uid": "183242"
+        },
+        {
+          "paper_id": "36943838",
+          "uid": "183551"
+        },
+        {
+          "paper_id": "14086476",
+          "uid": "217797"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF128",
+    "ingredient_pair_id": "ING-025 * ING-197",
+    "ingredient_pair_name": "Coenzyme Q10 / Ubiquinone * Acetyl-L-Carnitine",
+    "ingredient_A_id": "ING-025",
+    "ingredient_A_name": "Coenzyme Q10 / Ubiquinone",
+    "ingredient_B_id": "ING-197",
+    "ingredient_B_name": "Acetyl-L-Carnitine",
+    "polarity": "positive",
+    "evidence_text": "Acetyl-L-carnitine plus CoQ10 supplementation is associated with mitochondrial-function and energy-related outcomes.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC2536523/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0001040-C0041536",
+      "supports": [
+        {
+          "paper_id": "210871286",
+          "uid": "27028"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF129",
+    "ingredient_pair_id": "ING-017 * ING-236",
+    "ingredient_pair_name": "DHA / Docosahexaenoic acid * Phosphatidylserine",
+    "ingredient_A_id": "ING-017",
+    "ingredient_A_name": "DHA / Docosahexaenoic acid",
+    "ingredient_B_id": "ING-236",
+    "ingredient_B_name": "Phosphatidylserine",
+    "polarity": "positive",
+    "evidence_text": "Phosphatidylserine enriched with DHA is associated with improvements in cognitive and behavioral outcomes in elderly subjects and in children with attention-related concerns.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/20838659/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF130",
+    "ingredient_pair_id": "ING-195 * ING-259",
+    "ingredient_pair_name": "Acetylsalicylic Acid, Baby Aspirin * Garlic extract / Allicin",
+    "ingredient_A_id": "ING-195",
+    "ingredient_A_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_B_id": "ING-259",
+    "ingredient_B_name": "Garlic extract / Allicin",
+    "polarity": "negative",
+    "evidence_text": "Aspirin plus garlic extract is associated with increased bleeding-related outcomes when combined with antiplatelet therapy.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK92765/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0004057-C0993630",
+      "supports": [
+        {
+          "paper_id": "39343792",
+          "uid": "26859"
+        },
+        {
+          "paper_id": "11187793",
+          "uid": "102154"
+        },
+        {
+          "paper_id": "4428870",
+          "uid": "103042"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF131",
+    "ingredient_pair_id": "ING-195 * ING-260",
+    "ingredient_pair_name": "Acetylsalicylic Acid, Baby Aspirin * Kyolic aged garlic extract",
+    "ingredient_A_id": "ING-195",
+    "ingredient_A_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_B_id": "ING-260",
+    "ingredient_B_name": "Kyolic aged garlic extract",
+    "polarity": "negative",
+    "evidence_text": "Aspirin plus kyolic aged garlic is associated with increased bleeding-related outcomes when combined with antiplatelet therapy.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK92765/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF132",
+    "ingredient_pair_id": "ING-014 * ING-259",
+    "ingredient_pair_name": "d-alpha-tocopherol, Vitamin E * Garlic extract / Allicin",
+    "ingredient_A_id": "ING-014",
+    "ingredient_A_name": "d-alpha-tocopherol, Vitamin E",
+    "ingredient_B_id": "ING-259",
+    "ingredient_B_name": "Garlic extract / Allicin",
+    "polarity": "negative",
+    "evidence_text": "High-dose vitamin E plus garlic extract is associated with additive bleeding-related outcomes due to combined antiplatelet effects.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF133",
+    "ingredient_pair_id": "ING-205 * ING-259",
+    "ingredient_pair_name": "Nattokinase * Garlic extract / Allicin",
+    "ingredient_A_id": "ING-205",
+    "ingredient_A_name": "Nattokinase",
+    "ingredient_B_id": "ING-259",
+    "ingredient_B_name": "Garlic extract / Allicin",
+    "polarity": "negative",
+    "evidence_text": "Nattokinase plus garlic extract is associated with increased bleeding-related outcomes due to combined fibrinolytic and antiplatelet effects.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/nattokinase"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF134",
+    "ingredient_pair_id": "ING-125 * ING-259",
+    "ingredient_pair_name": "Ginkgo Biloba Extract * Garlic extract / Allicin",
+    "ingredient_A_id": "ING-125",
+    "ingredient_A_name": "Ginkgo Biloba Extract",
+    "ingredient_B_id": "ING-259",
+    "ingredient_B_name": "Garlic extract / Allicin",
+    "polarity": "negative",
+    "evidence_text": "Ginkgo plus garlic extract is associated with increased bleeding-related outcomes, particularly with concurrent anticoagulant or antiplatelet therapy.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.nccih.nih.gov/health/ginkgo"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF135",
+    "ingredient_pair_id": "ING-321 * ING-323",
+    "ingredient_pair_name": "Ezetimibe * Bempedoic acid",
+    "ingredient_A_id": "ING-321",
+    "ingredient_A_name": "Ezetimibe",
+    "ingredient_B_id": "ING-323",
+    "ingredient_B_name": "Bempedoic acid",
+    "polarity": "positive",
+    "evidence_text": "A fixed combination of bempedoic acid plus ezetimibe is associated with greater LDL-C reduction than either component alone in randomized trials of statin-intolerant or high-risk patients.",
+    "Confidence": "high",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/30995684/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF136",
+    "ingredient_pair_id": "ING-181 * ING-321",
+    "ingredient_pair_name": "Monacolin K, Red Yeast Rice * Ezetimibe",
+    "ingredient_A_id": "ING-181",
+    "ingredient_A_name": "Monacolin K, Red Yeast Rice",
+    "ingredient_B_id": "ING-321",
+    "ingredient_B_name": "Ezetimibe",
+    "polarity": "positive",
+    "evidence_text": "Red yeast rice plus ezetimibe is associated with additive LDL-cholesterol reduction outcomes in mild-to-moderate hypercholesterolemia.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/22018863/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF137",
+    "ingredient_pair_id": "ING-184 * ING-325",
+    "ingredient_pair_name": "metformin * Empagliflozin",
+    "ingredient_A_id": "ING-184",
+    "ingredient_A_name": "metformin",
+    "ingredient_B_id": "ING-325",
+    "ingredient_B_name": "Empagliflozin",
+    "polarity": "positive",
+    "evidence_text": "Empagliflozin added to metformin is associated with additional reductions in HbA1c, weight, and blood pressure compared with metformin alone in type 2 diabetes trials.",
+    "Confidence": "high",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/23910530/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF138",
+    "ingredient_pair_id": "ING-184 * ING-326",
+    "ingredient_pair_name": "metformin * Dapagliflozin",
+    "ingredient_A_id": "ING-184",
+    "ingredient_A_name": "metformin",
+    "ingredient_B_id": "ING-326",
+    "ingredient_B_name": "Dapagliflozin",
+    "polarity": "positive",
+    "evidence_text": "Dapagliflozin added to metformin is associated with improvements in HbA1c, body weight, and blood pressure outcomes versus metformin alone in type 2 diabetes trials.",
+    "Confidence": "high",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/21358751/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF139",
+    "ingredient_pair_id": "ING-184 * ING-324",
+    "ingredient_pair_name": "metformin * Canagliflozin",
+    "ingredient_A_id": "ING-184",
+    "ingredient_A_name": "metformin",
+    "ingredient_B_id": "ING-324",
+    "ingredient_B_name": "Canagliflozin",
+    "polarity": "positive",
+    "evidence_text": "Canagliflozin added to metformin is associated with reductions in HbA1c, body weight, and blood pressure versus metformin alone in type 2 diabetes; cardiorenal outcome benefits accompany SGLT2 inhibitors in CV-risk populations.",
+    "Confidence": "high",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/24163359/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF140",
+    "ingredient_pair_id": "ING-067 * ING-374",
+    "ingredient_pair_name": "Probiotic / gut microbiota blend * Saccharomyces boulardii",
+    "ingredient_A_id": "ING-067",
+    "ingredient_A_name": "Probiotic / gut microbiota blend",
+    "ingredient_B_id": "ING-374",
+    "ingredient_B_name": "Saccharomyces boulardii",
+    "polarity": "positive",
+    "evidence_text": "Saccharomyces boulardii combined with bacterial probiotics is associated with improvements in antibiotic-associated diarrhea and gastrointestinal-symptom outcomes in pooled clinical evidence.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4233177/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF141",
+    "ingredient_pair_id": "ING-051 * ING-160",
+    "ingredient_pair_name": "Quercetin * L-glutathione",
+    "ingredient_A_id": "ING-051",
+    "ingredient_A_name": "Quercetin",
+    "ingredient_B_id": "ING-160",
+    "ingredient_B_name": "L-glutathione",
+    "polarity": "positive",
+    "evidence_text": "Quercetin plus glutathione combined supplementation is associated with oxidative-stress biomarker outcomes in experimental and small-clinical studies.",
+    "Confidence": "low",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7318306/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF143",
+    "ingredient_pair_id": "ING-108 * ING-200",
+    "ingredient_pair_name": "Caffeine * Lithium",
+    "ingredient_A_id": "ING-108",
+    "ingredient_A_name": "Caffeine",
+    "ingredient_B_id": "ING-200",
+    "ingredient_B_name": "Lithium",
+    "polarity": "negative",
+    "evidence_text": "Abrupt changes in caffeine intake in lithium-treated patients are associated with mood-relapse or lithium-toxicity-related outcomes.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK519062/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF144",
+    "ingredient_pair_id": "ING-010 * ING-319",
+    "ingredient_pair_name": "Cholecalciferol, Vitamin D3 * Menaquinone-7, Vitamin K2",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol, Vitamin D3",
+    "ingredient_B_id": "ING-319",
+    "ingredient_B_name": "Menaquinone-7, Vitamin K2",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin D3 plus vitamin K2-family adequacy is associated with more favorable bone mineralization outcomes; menaquinone-7 is a vitamin K2 form and should inherit the D3-K2 bone-related support rule.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5613455/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF145",
+    "ingredient_pair_id": "ING-010 * ING-186",
+    "ingredient_pair_name": "Cholecalciferol, Vitamin D3 * magnesium oxide",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol, Vitamin D3",
+    "ingredient_B_id": "ING-186",
+    "ingredient_B_name": "magnesium oxide",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin D plus magnesium status is associated with improved vitamin D effectiveness and bone-related outcomes; magnesium oxide is a magnesium form and should inherit the magnesium-family vitamin D support rule.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/pubs/The_Scoop_May_2024.pdf"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF146",
+    "ingredient_pair_id": "ING-010 * ING-187",
+    "ingredient_pair_name": "Cholecalciferol, Vitamin D3 * magnesium chloride",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol, Vitamin D3",
+    "ingredient_B_id": "ING-187",
+    "ingredient_B_name": "magnesium chloride",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin D plus magnesium status is associated with improved vitamin D effectiveness and bone-related outcomes; magnesium chloride is a magnesium form and should inherit the magnesium-family vitamin D support rule.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/pubs/The_Scoop_May_2024.pdf"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF147",
+    "ingredient_pair_id": "ING-010 * ING-188",
+    "ingredient_pair_name": "Cholecalciferol, Vitamin D3 * magnesium L-Threonate, magtein",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol, Vitamin D3",
+    "ingredient_B_id": "ING-188",
+    "ingredient_B_name": "magnesium L-Threonate, magtein",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin D plus magnesium status is associated with improved vitamin D effectiveness and bone-related outcomes; magnesium L-Threonate, magtein is a magnesium form and should inherit the magnesium-family vitamin D support rule.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/pubs/The_Scoop_May_2024.pdf"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF148",
+    "ingredient_pair_id": "ING-010 * ING-201",
+    "ingredient_pair_name": "Cholecalciferol, Vitamin D3 * Magnesium Malate",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol, Vitamin D3",
+    "ingredient_B_id": "ING-201",
+    "ingredient_B_name": "Magnesium Malate",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin D plus magnesium status is associated with improved vitamin D effectiveness and bone-related outcomes; Magnesium Malate is a magnesium form and should inherit the magnesium-family vitamin D support rule.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/pubs/The_Scoop_May_2024.pdf"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF149",
+    "ingredient_pair_id": "ING-010 * ING-302",
+    "ingredient_pair_name": "Cholecalciferol, Vitamin D3 * Magnesium (unspecified form)",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol, Vitamin D3",
+    "ingredient_B_id": "ING-302",
+    "ingredient_B_name": "Magnesium (unspecified form)",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin D plus magnesium status is associated with improved vitamin D effectiveness and bone-related outcomes; Magnesium (unspecified form) is a magnesium form and should inherit the magnesium-family vitamin D support rule.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/pubs/The_Scoop_May_2024.pdf"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF150",
+    "ingredient_pair_id": "ING-010 * ING-310",
+    "ingredient_pair_name": "Cholecalciferol, Vitamin D3 * Magnesium aspartate",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol, Vitamin D3",
+    "ingredient_B_id": "ING-310",
+    "ingredient_B_name": "Magnesium aspartate",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin D plus magnesium status is associated with improved vitamin D effectiveness and bone-related outcomes; Magnesium aspartate is a magnesium form and should inherit the magnesium-family vitamin D support rule.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/pubs/The_Scoop_May_2024.pdf"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF151",
+    "ingredient_pair_id": "ING-010 * ING-368",
+    "ingredient_pair_name": "Cholecalciferol, Vitamin D3 * Magnesium gluconate",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol, Vitamin D3",
+    "ingredient_B_id": "ING-368",
+    "ingredient_B_name": "Magnesium gluconate",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin D plus magnesium status is associated with improved vitamin D effectiveness and bone-related outcomes; Magnesium gluconate is a magnesium form and should inherit the magnesium-family vitamin D support rule.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/pubs/The_Scoop_May_2024.pdf"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF152",
+    "ingredient_pair_id": "ING-010 * ING-369",
+    "ingredient_pair_name": "Cholecalciferol, Vitamin D3 * Magnesium acetyltaurinate",
+    "ingredient_A_id": "ING-010",
+    "ingredient_A_name": "Cholecalciferol, Vitamin D3",
+    "ingredient_B_id": "ING-369",
+    "ingredient_B_name": "Magnesium acetyltaurinate",
+    "polarity": "positive",
+    "evidence_text": "Combined vitamin D plus magnesium status is associated with improved vitamin D effectiveness and bone-related outcomes; Magnesium acetyltaurinate is a magnesium form and should inherit the magnesium-family vitamin D support rule.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/pubs/The_Scoop_May_2024.pdf"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF153",
+    "ingredient_pair_id": "ING-029 * ING-094",
+    "ingredient_pair_name": "Selenium * Potassium Iodide",
+    "ingredient_A_id": "ING-029",
+    "ingredient_A_name": "Selenium",
+    "ingredient_B_id": "ING-094",
+    "ingredient_B_name": "Potassium Iodide",
+    "polarity": "positive",
+    "evidence_text": "Selenium and iodine-family supplementation may have conditional positive joint effects in thyroid-related and deficiency/imbalance contexts, including support of thyroid hormone homeostasis and mitigation of iodine-excess oxidative or thyroid toxicity signals; potassium iodide is an iodine/iodide source.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/26361258/",
+      "https://pubmed.ncbi.nlm.nih.gov/38243784/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10080082/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0021968-C0036581",
+      "supports": [
+        {
+          "paper_id": "53011514",
+          "uid": "65904"
+        },
+        {
+          "paper_id": "220336956",
+          "uid": "84039"
+        },
+        {
+          "paper_id": "8092861",
+          "uid": "156893"
+        },
+        {
+          "paper_id": "21911890",
+          "uid": "212834"
+        },
+        {
+          "paper_id": "26775009",
+          "uid": "217679"
+        },
+        {
+          "paper_id": "8464084",
+          "uid": "220347"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF154",
+    "ingredient_pair_id": "ING-237 * ING-242",
+    "ingredient_pair_name": "Caffeine Anhydrous * Theobromine",
+    "ingredient_A_id": "ING-237",
+    "ingredient_A_name": "Caffeine Anhydrous",
+    "ingredient_B_id": "ING-242",
+    "ingredient_B_name": "Theobromine",
+    "polarity": "positive",
+    "evidence_text": "Caffeine-family co-use with theobromine may conditionally support mood and cognition, with possible modulation of caffeine-related psychophysiological effects; caffeine anhydrous is a caffeine form.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3777290/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0006644-C0039763",
+      "supports": [
+        {
+          "paper_id": "52274913",
+          "uid": "13784"
+        },
+        {
+          "paper_id": "7003053",
+          "uid": "104229"
+        },
+        {
+          "paper_id": "7003053",
+          "uid": "104230"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF156",
+    "ingredient_pair_id": "ING-195 * ING-122",
+    "ingredient_pair_name": "Acetylsalicylic Acid, Baby Aspirin * Panax Ginseng Extract",
+    "ingredient_A_id": "ING-195",
+    "ingredient_A_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_B_id": "ING-122",
+    "ingredient_B_name": "Panax Ginseng Extract",
+    "polarity": "negative",
+    "evidence_text": "Aspirin plus Panax ginseng is associated with increased bleeding-risk concerns when combined with antiplatelet or anticoagulant therapy.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/15277167/",
+      "https://pubmed.ncbi.nlm.nih.gov/17091227/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0004057-C0993630",
+      "supports": [
+        {
+          "paper_id": "39343792",
+          "uid": "26859"
+        },
+        {
+          "paper_id": "11187793",
+          "uid": "102154"
+        },
+        {
+          "paper_id": "4428870",
+          "uid": "103042"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF157",
+    "ingredient_pair_id": "ING-281 * ING-282",
+    "ingredient_pair_name": "Glucosamine sulfate-2KCl * Chondroitin sulfate",
+    "ingredient_A_id": "ING-281",
+    "ingredient_A_name": "Glucosamine sulfate-2KCl",
+    "ingredient_B_id": "ING-282",
+    "ingredient_B_name": "Chondroitin sulfate",
+    "polarity": "positive",
+    "evidence_text": "Glucosamine sulfate-2KCl plus Chondroitin sulfate may provide conditional positive joint-health effects by reducing arthritis-related clinical scores and inflammatory/degradation markers such as IL-1β and MMP-9; this is mapped as a glucosamine/chondroitin-family rule.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/16495392/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4262173/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0008466-C0017720",
+      "supports": [
+        {
+          "paper_id": "25327801",
+          "uid": "239451"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239452"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239453"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239454"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF158",
+    "ingredient_pair_id": "ING-372 * ING-282",
+    "ingredient_pair_name": "Glucosamine HCl * Chondroitin sulfate",
+    "ingredient_A_id": "ING-372",
+    "ingredient_A_name": "Glucosamine HCl",
+    "ingredient_B_id": "ING-282",
+    "ingredient_B_name": "Chondroitin sulfate",
+    "polarity": "positive",
+    "evidence_text": "Glucosamine HCl plus Chondroitin sulfate may provide conditional positive joint-health effects by reducing arthritis-related clinical scores and inflammatory/degradation markers such as IL-1β and MMP-9; this is mapped as a glucosamine/chondroitin-family rule.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/16495392/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4262173/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0008466-C0017720",
+      "supports": [
+        {
+          "paper_id": "25327801",
+          "uid": "239451"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239452"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239453"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239454"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF159",
+    "ingredient_pair_id": "ING-159 * ING-232",
+    "ingredient_pair_name": "Glucosamine Sulfate * chondroitin sodium sulfate",
+    "ingredient_A_id": "ING-159",
+    "ingredient_A_name": "Glucosamine Sulfate",
+    "ingredient_B_id": "ING-232",
+    "ingredient_B_name": "chondroitin sodium sulfate",
+    "polarity": "positive",
+    "evidence_text": "Glucosamine Sulfate plus chondroitin sodium sulfate may provide conditional positive joint-health effects by reducing arthritis-related clinical scores and inflammatory/degradation markers such as IL-1β and MMP-9; this is mapped as a glucosamine/chondroitin-family rule.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/16495392/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4262173/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0008466-C0017720",
+      "supports": [
+        {
+          "paper_id": "25327801",
+          "uid": "239451"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239452"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239453"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239454"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF160",
+    "ingredient_pair_id": "ING-281 * ING-232",
+    "ingredient_pair_name": "Glucosamine sulfate-2KCl * chondroitin sodium sulfate",
+    "ingredient_A_id": "ING-281",
+    "ingredient_A_name": "Glucosamine sulfate-2KCl",
+    "ingredient_B_id": "ING-232",
+    "ingredient_B_name": "chondroitin sodium sulfate",
+    "polarity": "positive",
+    "evidence_text": "Glucosamine sulfate-2KCl plus chondroitin sodium sulfate may provide conditional positive joint-health effects by reducing arthritis-related clinical scores and inflammatory/degradation markers such as IL-1β and MMP-9; this is mapped as a glucosamine/chondroitin-family rule.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/16495392/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4262173/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0008466-C0017720",
+      "supports": [
+        {
+          "paper_id": "25327801",
+          "uid": "239451"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239452"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239453"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239454"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF161",
+    "ingredient_pair_id": "ING-372 * ING-232",
+    "ingredient_pair_name": "Glucosamine HCl * chondroitin sodium sulfate",
+    "ingredient_A_id": "ING-372",
+    "ingredient_A_name": "Glucosamine HCl",
+    "ingredient_B_id": "ING-232",
+    "ingredient_B_name": "chondroitin sodium sulfate",
+    "polarity": "positive",
+    "evidence_text": "Glucosamine HCl plus chondroitin sodium sulfate may provide conditional positive joint-health effects by reducing arthritis-related clinical scores and inflammatory/degradation markers such as IL-1β and MMP-9; this is mapped as a glucosamine/chondroitin-family rule.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/16495392/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4262173/"
+    ],
+    "If undefined, then features. Different cases description.": null,
+    "supp.ai support": {
+      "interaction_id": "C0008466-C0017720",
+      "supports": [
+        {
+          "paper_id": "25327801",
+          "uid": "239451"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239452"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239453"
+        },
+        {
+          "paper_id": "25327801",
+          "uid": "239454"
+        }
+      ]
+    }
+  },
+  {
+    "effect_rule_id": "EFF164",
+    "ingredient_pair_id": "ING-377 * ING-025",
+    "ingredient_pair_name": "Atorvastatin * Coenzyme Q10 / Ubiquinone",
+    "ingredient_A_id": "ING-377",
+    "ingredient_A_name": "Atorvastatin",
+    "ingredient_B_id": "ING-025",
+    "ingredient_B_name": "Coenzyme Q10 / Ubiquinone",
+    "polarity": "positive",
+    "evidence_text": "Atorvastatin/statin exposure is associated with statin-associated muscle symptoms in susceptible users, and CoQ10 supplementation has been studied for reducing muscle pain, weakness, cramps, and tiredness. Because statin-myopathy causality and CoQ10 response are variable, this is treated as a supportive compensatory outcome rather than a universal benefit.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6404871/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF165",
+    "ingredient_pair_id": "ING-377 * ING-026",
+    "ingredient_pair_name": "Atorvastatin * Ubiquinol",
+    "ingredient_A_id": "ING-377",
+    "ingredient_A_name": "Atorvastatin",
+    "ingredient_B_id": "ING-026",
+    "ingredient_B_name": "Ubiquinol",
+    "polarity": "positive",
+    "evidence_text": "Atorvastatin/statin exposure may lower endogenous CoQ10 pools through the mevalonate pathway, and CoQ10-family supplementation has been studied for statin-associated muscle symptom relief. Ubiquinol is treated as a reduced CoQ10-family form, but direct atorvastatin-ubiquinol pair-level outcome evidence is less specific.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6404871/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF166",
+    "ingredient_pair_id": "ING-324 * ING-277",
+    "ingredient_pair_name": "Canagliflozin * Exogenous ketones / BHB salts",
+    "ingredient_A_id": "ING-324",
+    "ingredient_A_name": "Canagliflozin",
+    "ingredient_B_id": "ING-277",
+    "ingredient_B_name": "Exogenous ketones / BHB salts",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of ketone-burden/ketoacidosis-related outcomes represents a context-dependent host-level effect for SGLT2 inhibitor therapy and exogenous ketone co-use. SGLT2 inhibitors are associated with euglycemic ketoacidosis risk in susceptible patients, while exogenous BHB/ketone products directly raise circulating ketone levels.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11122992/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7042179/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with diabetes, low-carbohydrate/ketogenic dieting, fasting, acute illness, dehydration, insulin deficiency, or heavy exercise, SGLT2 inhibitor plus exogenous ketone use may increase ketone-burden or euglycemic-ketoacidosis risk, which represents a conditional negative outcome. In metabolically healthy users not on SGLT2 inhibitors or without ketosis-promoting context, this pair is not relevant or remains neutral."
+  },
+  {
+    "effect_rule_id": "EFF167",
+    "ingredient_pair_id": "ING-324 * ING-278",
+    "ingredient_pair_name": "Canagliflozin * KetoCaNa (ketone ester/salt blend)",
+    "ingredient_A_id": "ING-324",
+    "ingredient_A_name": "Canagliflozin",
+    "ingredient_B_id": "ING-278",
+    "ingredient_B_name": "KetoCaNa (ketone ester/salt blend)",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of ketone-burden/ketoacidosis-related outcomes represents a context-dependent host-level effect for SGLT2 inhibitor therapy and exogenous ketone co-use. SGLT2 inhibitors are associated with euglycemic ketoacidosis risk in susceptible patients, while exogenous BHB/ketone products directly raise circulating ketone levels.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11122992/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7042179/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with diabetes, low-carbohydrate/ketogenic dieting, fasting, acute illness, dehydration, insulin deficiency, or heavy exercise, SGLT2 inhibitor plus exogenous ketone use may increase ketone-burden or euglycemic-ketoacidosis risk, which represents a conditional negative outcome. In metabolically healthy users not on SGLT2 inhibitors or without ketosis-promoting context, this pair is not relevant or remains neutral."
+  },
+  {
+    "effect_rule_id": "EFF168",
+    "ingredient_pair_id": "ING-325 * ING-277",
+    "ingredient_pair_name": "Empagliflozin * Exogenous ketones / BHB salts",
+    "ingredient_A_id": "ING-325",
+    "ingredient_A_name": "Empagliflozin",
+    "ingredient_B_id": "ING-277",
+    "ingredient_B_name": "Exogenous ketones / BHB salts",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of ketone-burden/ketoacidosis-related outcomes represents a context-dependent host-level effect for SGLT2 inhibitor therapy and exogenous ketone co-use. SGLT2 inhibitors are associated with euglycemic ketoacidosis risk in susceptible patients, while exogenous BHB/ketone products directly raise circulating ketone levels.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11122992/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7042179/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with diabetes, low-carbohydrate/ketogenic dieting, fasting, acute illness, dehydration, insulin deficiency, or heavy exercise, SGLT2 inhibitor plus exogenous ketone use may increase ketone-burden or euglycemic-ketoacidosis risk, which represents a conditional negative outcome. In metabolically healthy users not on SGLT2 inhibitors or without ketosis-promoting context, this pair is not relevant or remains neutral."
+  },
+  {
+    "effect_rule_id": "EFF169",
+    "ingredient_pair_id": "ING-325 * ING-278",
+    "ingredient_pair_name": "Empagliflozin * KetoCaNa (ketone ester/salt blend)",
+    "ingredient_A_id": "ING-325",
+    "ingredient_A_name": "Empagliflozin",
+    "ingredient_B_id": "ING-278",
+    "ingredient_B_name": "KetoCaNa (ketone ester/salt blend)",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of ketone-burden/ketoacidosis-related outcomes represents a context-dependent host-level effect for SGLT2 inhibitor therapy and exogenous ketone co-use. SGLT2 inhibitors are associated with euglycemic ketoacidosis risk in susceptible patients, while exogenous BHB/ketone products directly raise circulating ketone levels.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11122992/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7042179/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with diabetes, low-carbohydrate/ketogenic dieting, fasting, acute illness, dehydration, insulin deficiency, or heavy exercise, SGLT2 inhibitor plus exogenous ketone use may increase ketone-burden or euglycemic-ketoacidosis risk, which represents a conditional negative outcome. In metabolically healthy users not on SGLT2 inhibitors or without ketosis-promoting context, this pair is not relevant or remains neutral."
+  },
+  {
+    "effect_rule_id": "EFF170",
+    "ingredient_pair_id": "ING-326 * ING-277",
+    "ingredient_pair_name": "Dapagliflozin * Exogenous ketones / BHB salts",
+    "ingredient_A_id": "ING-326",
+    "ingredient_A_name": "Dapagliflozin",
+    "ingredient_B_id": "ING-277",
+    "ingredient_B_name": "Exogenous ketones / BHB salts",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of ketone-burden/ketoacidosis-related outcomes represents a context-dependent host-level effect for SGLT2 inhibitor therapy and exogenous ketone co-use. SGLT2 inhibitors are associated with euglycemic ketoacidosis risk in susceptible patients, while exogenous BHB/ketone products directly raise circulating ketone levels.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11122992/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7042179/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with diabetes, low-carbohydrate/ketogenic dieting, fasting, acute illness, dehydration, insulin deficiency, or heavy exercise, SGLT2 inhibitor plus exogenous ketone use may increase ketone-burden or euglycemic-ketoacidosis risk, which represents a conditional negative outcome. In metabolically healthy users not on SGLT2 inhibitors or without ketosis-promoting context, this pair is not relevant or remains neutral."
+  },
+  {
+    "effect_rule_id": "EFF171",
+    "ingredient_pair_id": "ING-326 * ING-278",
+    "ingredient_pair_name": "Dapagliflozin * KetoCaNa (ketone ester/salt blend)",
+    "ingredient_A_id": "ING-326",
+    "ingredient_A_name": "Dapagliflozin",
+    "ingredient_B_id": "ING-278",
+    "ingredient_B_name": "KetoCaNa (ketone ester/salt blend)",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of ketone-burden/ketoacidosis-related outcomes represents a context-dependent host-level effect for SGLT2 inhibitor therapy and exogenous ketone co-use. SGLT2 inhibitors are associated with euglycemic ketoacidosis risk in susceptible patients, while exogenous BHB/ketone products directly raise circulating ketone levels.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11122992/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7042179/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals with diabetes, low-carbohydrate/ketogenic dieting, fasting, acute illness, dehydration, insulin deficiency, or heavy exercise, SGLT2 inhibitor plus exogenous ketone use may increase ketone-burden or euglycemic-ketoacidosis risk, which represents a conditional negative outcome. In metabolically healthy users not on SGLT2 inhibitors or without ketosis-promoting context, this pair is not relevant or remains neutral."
+  },
+  {
+    "effect_rule_id": "EFF172",
+    "ingredient_pair_id": "ING-269 * ING-273",
+    "ingredient_pair_name": "Methylene blue * Trazodone",
+    "ingredient_A_id": "ING-269",
+    "ingredient_A_name": "Methylene blue",
+    "ingredient_B_id": "ING-273",
+    "ingredient_B_name": "Trazodone",
+    "polarity": "negative",
+    "evidence_text": "Methylene blue has been associated with serious CNS reactions/serotonin syndrome when combined with serotonergic psychiatric medications. Trazodone is a serotonergic antidepressant/sleep medication, so co-use represents a high-priority serotonin-toxicity risk outcome.",
+    "Confidence": "high",
+    "source_url": [
+      "https://www.fda.gov/drugs/drug-safety-and-availability/fda-drug-safety-communication-serious-cns-reactions-possible-when-methylene-blue-given-patients"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF173",
+    "ingredient_pair_id": "ING-268 * ING-273",
+    "ingredient_pair_name": "Kratom / Mitragyna speciosa * Trazodone",
+    "ingredient_A_id": "ING-268",
+    "ingredient_A_name": "Kratom / Mitragyna speciosa",
+    "ingredient_B_id": "ING-273",
+    "ingredient_B_name": "Trazodone",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of serotonin-toxicity and CNS-depression outcomes represents a context-dependent host-level effect for kratom and trazodone co-use. Case literature reports possible serotonin syndrome when kratom is combined with prescription psychotropic medications, while trazodone also contributes sedation.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/35840540/",
+      "https://www.ncbi.nlm.nih.gov/books/NBK470560/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals taking trazodone with high-dose or frequent kratom, other serotonergic agents, CYP-interacting drugs, or baseline sedation/fall risk, the combination may produce conditional negative outcomes such as serotonin-toxicity symptoms, excess sedation, impaired coordination, or fall risk. In low-dose/occasional kratom use without serotonergic medication, direct pair-level evidence remains limited."
+  },
+  {
+    "effect_rule_id": "EFF174",
+    "ingredient_pair_id": "ING-268 * ING-274",
+    "ingredient_pair_name": "Kratom / Mitragyna speciosa * Pregabalin",
+    "ingredient_A_id": "ING-268",
+    "ingredient_A_name": "Kratom / Mitragyna speciosa",
+    "ingredient_B_id": "ING-274",
+    "ingredient_B_name": "Pregabalin",
+    "polarity": "negative",
+    "evidence_text": "Kratom has opioid-like CNS-depressant properties, and pregabalin is associated with CNS depression and respiratory-depression risk, especially with other CNS depressants or opioid-like agents. Co-use is therefore treated as a negative CNS/respiratory-safety outcome candidate.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://www.gov.uk/drug-safety-update/pregabalin-lyrica-reports-of-severe-respiratory-depression",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3206785/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF175",
+    "ingredient_pair_id": "ING-274 * ING-273",
+    "ingredient_pair_name": "Pregabalin * Trazodone",
+    "ingredient_A_id": "ING-274",
+    "ingredient_A_name": "Pregabalin",
+    "ingredient_B_id": "ING-273",
+    "ingredient_B_name": "Trazodone",
+    "polarity": "negative",
+    "evidence_text": "Pregabalin plus trazodone may produce additive CNS depression, including dizziness, drowsiness, confusion, and impaired psychomotor performance. This is a regulated-drug pair with a direct host-level safety outcome.",
+    "Confidence": "high",
+    "source_url": [
+      "https://www.drugs.com/drug-interactions/pregabalin-with-trazodone-1937-0-2228-0.html?professional=1"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF176",
+    "ingredient_pair_id": "ING-151 * ING-256",
+    "ingredient_pair_name": "Ashwagandha Extract * Levothyroxine",
+    "ingredient_A_id": "ING-151",
+    "ingredient_A_name": "Ashwagandha Extract",
+    "ingredient_B_id": "ING-256",
+    "ingredient_B_name": "Levothyroxine",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of thyroid-hormone over-replacement or thyroid-instability outcomes represents a context-dependent host-level effect for ashwagandha and thyroid hormone therapy. Ashwagandha has case reports and safety warnings related to thyrotoxicosis and possible interaction with thyroid hormone medications.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://www.nccih.nih.gov/health/ashwagandha",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9035336/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals using thyroid hormone replacement, especially those with Hashimoto's disease, thyroid nodules, suppressed TSH, or recent dose changes, ashwagandha co-use may produce conditional negative outcomes such as low TSH, palpitations, anxiety, or thyrotoxicosis-like symptoms. In untreated subclinical hypothyroidism under monitoring, effects may be interpreted as conditional thyroid-support but should not be generalized."
+  },
+  {
+    "effect_rule_id": "EFF177",
+    "ingredient_pair_id": "ING-151 * ING-257",
+    "ingredient_pair_name": "Ashwagandha Extract * Armour Thyroid / desiccated thyroid",
+    "ingredient_A_id": "ING-151",
+    "ingredient_A_name": "Ashwagandha Extract",
+    "ingredient_B_id": "ING-257",
+    "ingredient_B_name": "Armour Thyroid / desiccated thyroid",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of thyroid-hormone over-replacement or thyroid-instability outcomes represents a context-dependent host-level effect for ashwagandha and thyroid hormone therapy. Ashwagandha has case reports and safety warnings related to thyrotoxicosis and possible interaction with thyroid hormone medications.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://www.nccih.nih.gov/health/ashwagandha",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9035336/"
+    ],
+    "If undefined, then features. Different cases description.": "In individuals using thyroid hormone replacement, especially those with Hashimoto's disease, thyroid nodules, suppressed TSH, or recent dose changes, ashwagandha co-use may produce conditional negative outcomes such as low TSH, palpitations, anxiety, or thyrotoxicosis-like symptoms. In untreated subclinical hypothyroidism under monitoring, effects may be interpreted as conditional thyroid-support but should not be generalized."
+  },
+  {
+    "effect_rule_id": "EFF178",
+    "ingredient_pair_id": "ING-237 * ING-214",
+    "ingredient_pair_name": "Caffeine Anhydrous * Adderall",
+    "ingredient_A_id": "ING-237",
+    "ingredient_A_name": "Caffeine Anhydrous",
+    "ingredient_B_id": "ING-214",
+    "ingredient_B_name": "Adderall",
+    "polarity": "negative",
+    "evidence_text": "Caffeine anhydrous plus regulated stimulant/wakefulness medication co-use can increase stimulant-load outcomes such as nervousness, irritability, insomnia, elevated heart rate, and elevated blood pressure. This mirrors the existing caffeine rule but is needed because caffeine anhydrous is a separate simple ingredient.",
+    "Confidence": "high",
+    "source_url": [
+      "https://www.drugs.com/drug-interactions/adderall-with-caffeine-190-1645-450-0.html"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF179",
+    "ingredient_pair_id": "ING-237 * ING-215",
+    "ingredient_pair_name": "Caffeine Anhydrous * Ritalin",
+    "ingredient_A_id": "ING-237",
+    "ingredient_A_name": "Caffeine Anhydrous",
+    "ingredient_B_id": "ING-215",
+    "ingredient_B_name": "Ritalin",
+    "polarity": "negative",
+    "evidence_text": "Caffeine anhydrous plus regulated stimulant/wakefulness medication co-use can increase stimulant-load outcomes such as nervousness, irritability, insomnia, elevated heart rate, and elevated blood pressure. This mirrors the existing caffeine rule but is needed because caffeine anhydrous is a separate simple ingredient.",
+    "Confidence": "high",
+    "source_url": [
+      "https://www.drugs.com/drug-interactions/caffeine-with-ritalin-450-0-1606-979.html?professional=1"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF180",
+    "ingredient_pair_id": "ING-237 * ING-211",
+    "ingredient_pair_name": "Caffeine Anhydrous * Modafinil",
+    "ingredient_A_id": "ING-237",
+    "ingredient_A_name": "Caffeine Anhydrous",
+    "ingredient_B_id": "ING-211",
+    "ingredient_B_name": "Modafinil",
+    "polarity": "negative",
+    "evidence_text": "Caffeine anhydrous plus regulated stimulant/wakefulness medication co-use can increase stimulant-load outcomes such as nervousness, irritability, insomnia, elevated heart rate, and elevated blood pressure. This mirrors the existing caffeine rule but is needed because caffeine anhydrous is a separate simple ingredient.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://www.drugs.com/drug-interactions/caffeine-with-modafinil-450-0-1647-0.html?professional=1"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF181",
+    "ingredient_pair_id": "ING-237 * ING-300",
+    "ingredient_pair_name": "Caffeine Anhydrous * Modafinil",
+    "ingredient_A_id": "ING-237",
+    "ingredient_A_name": "Caffeine Anhydrous",
+    "ingredient_B_id": "ING-300",
+    "ingredient_B_name": "Modafinil",
+    "polarity": "negative",
+    "evidence_text": "Caffeine anhydrous plus regulated stimulant/wakefulness medication co-use can increase stimulant-load outcomes such as nervousness, irritability, insomnia, elevated heart rate, and elevated blood pressure. This mirrors the existing caffeine rule but is needed because caffeine anhydrous is a separate simple ingredient.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://www.drugs.com/drug-interactions/caffeine-with-modafinil-450-0-1647-0.html?professional=1"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF182",
+    "ingredient_pair_id": "ING-226 * ING-109",
+    "ingredient_pair_name": "Huperzine A * Alpha-GPC, alpha-Glycerophosphorylcholine",
+    "ingredient_A_id": "ING-226",
+    "ingredient_A_name": "Huperzine A",
+    "ingredient_B_id": "ING-109",
+    "ingredient_B_name": "Alpha-GPC, alpha-Glycerophosphorylcholine",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of cholinergic-effect outcomes represents a context-dependent host-level effect for huperzine/toothed-clubmoss and choline-donor co-use. Huperzine A inhibits acetylcholinesterase and is associated with cholinergic adverse effects; alpha-GPC/citicoline supply choline for acetylcholine-related pathways.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.drugs.com/npp/huperzine-a.html",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3570168/"
+    ],
+    "If undefined, then features. Different cases description.": "In users seeking cognitive support with low cholinergic tone, the pair may produce conditional positive subjective cognitive support, but direct pair-level human evidence is limited. In sensitive users, high-dose stacks, bradycardia-prone users, or those with GI sensitivity, the pair may produce conditional negative cholinergic outcomes such as nausea, diarrhea, sweating, salivation, insomnia, dizziness, or bradycardia tendency."
+  },
+  {
+    "effect_rule_id": "EFF183",
+    "ingredient_pair_id": "ING-226 * ING-235",
+    "ingredient_pair_name": "Huperzine A * cognizin citicoline",
+    "ingredient_A_id": "ING-226",
+    "ingredient_A_name": "Huperzine A",
+    "ingredient_B_id": "ING-235",
+    "ingredient_B_name": "cognizin citicoline",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of cholinergic-effect outcomes represents a context-dependent host-level effect for huperzine/toothed-clubmoss and choline-donor co-use. Huperzine A inhibits acetylcholinesterase and is associated with cholinergic adverse effects; alpha-GPC/citicoline supply choline for acetylcholine-related pathways.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.drugs.com/npp/huperzine-a.html",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3570168/"
+    ],
+    "If undefined, then features. Different cases description.": "In users seeking cognitive support with low cholinergic tone, the pair may produce conditional positive subjective cognitive support, but direct pair-level human evidence is limited. In sensitive users, high-dose stacks, bradycardia-prone users, or those with GI sensitivity, the pair may produce conditional negative cholinergic outcomes such as nausea, diarrhea, sweating, salivation, insomnia, dizziness, or bradycardia tendency."
+  },
+  {
+    "effect_rule_id": "EFF184",
+    "ingredient_pair_id": "ING-238 * ING-109",
+    "ingredient_pair_name": "Toothed clubmoss extract * Alpha-GPC, alpha-Glycerophosphorylcholine",
+    "ingredient_A_id": "ING-238",
+    "ingredient_A_name": "Toothed clubmoss extract",
+    "ingredient_B_id": "ING-109",
+    "ingredient_B_name": "Alpha-GPC, alpha-Glycerophosphorylcholine",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of cholinergic-effect outcomes represents a context-dependent host-level effect for huperzine/toothed-clubmoss and choline-donor co-use. Huperzine A inhibits acetylcholinesterase and is associated with cholinergic adverse effects; alpha-GPC/citicoline supply choline for acetylcholine-related pathways.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.drugs.com/npp/huperzine-a.html",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3570168/"
+    ],
+    "If undefined, then features. Different cases description.": "In users seeking cognitive support with low cholinergic tone, the pair may produce conditional positive subjective cognitive support, but direct pair-level human evidence is limited. In sensitive users, high-dose stacks, bradycardia-prone users, or those with GI sensitivity, the pair may produce conditional negative cholinergic outcomes such as nausea, diarrhea, sweating, salivation, insomnia, dizziness, or bradycardia tendency."
+  },
+  {
+    "effect_rule_id": "EFF185",
+    "ingredient_pair_id": "ING-238 * ING-235",
+    "ingredient_pair_name": "Toothed clubmoss extract * cognizin citicoline",
+    "ingredient_A_id": "ING-238",
+    "ingredient_A_name": "Toothed clubmoss extract",
+    "ingredient_B_id": "ING-235",
+    "ingredient_B_name": "cognizin citicoline",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of cholinergic-effect outcomes represents a context-dependent host-level effect for huperzine/toothed-clubmoss and choline-donor co-use. Huperzine A inhibits acetylcholinesterase and is associated with cholinergic adverse effects; alpha-GPC/citicoline supply choline for acetylcholine-related pathways.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.drugs.com/npp/huperzine-a.html",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3570168/"
+    ],
+    "If undefined, then features. Different cases description.": "In users seeking cognitive support with low cholinergic tone, the pair may produce conditional positive subjective cognitive support, but direct pair-level human evidence is limited. In sensitive users, high-dose stacks, bradycardia-prone users, or those with GI sensitivity, the pair may produce conditional negative cholinergic outcomes such as nausea, diarrhea, sweating, salivation, insomnia, dizziness, or bradycardia tendency."
+  },
+  {
+    "effect_rule_id": "EFF186",
+    "ingredient_pair_id": "ING-126 * ING-195",
+    "ingredient_pair_name": "Saw Palmetto Extract * Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_A_id": "ING-126",
+    "ingredient_A_name": "Saw Palmetto Extract",
+    "ingredient_B_id": "ING-195",
+    "ingredient_B_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "polarity": "negative",
+    "evidence_text": "Saw palmetto has been associated with bleeding/coagulopathy concerns and is cautioned with blood thinners, antiplatelets, and NSAIDs. Co-use with aspirin is therefore a negative bleeding-risk outcome candidate.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/saw-palmetto",
+      "https://pubmed.ncbi.nlm.nih.gov/20120986/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF187",
+    "ingredient_pair_id": "ING-125 * ING-014",
+    "ingredient_pair_name": "Ginkgo Biloba Extract * d-alpha-tocopherol, Vitamin E",
+    "ingredient_A_id": "ING-125",
+    "ingredient_A_name": "Ginkgo Biloba Extract",
+    "ingredient_B_id": "ING-014",
+    "ingredient_B_name": "d-alpha-tocopherol, Vitamin E",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of bleeding-risk outcome represents a context-dependent host-level effect for ginkgo and high-dose vitamin E co-use. Ginkgo has published bleeding case reports and drug-interaction concerns; high-dose vitamin E can inhibit platelet aggregation or interfere with vitamin-K-related coagulation.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC1490168/",
+      "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": "In users on anticoagulant/antiplatelet therapy, perioperative users, bleeding-disorder users, or high-dose vitamin E users, ginkgo plus vitamin E may produce conditional negative bleeding-related outcomes. In healthy users at ordinary dietary/supplement doses, the effect may remain neutral or clinically unobservable."
+  },
+  {
+    "effect_rule_id": "EFF188",
+    "ingredient_pair_id": "ING-205 * ING-125",
+    "ingredient_pair_name": "Nattokinase * Ginkgo Biloba Extract",
+    "ingredient_A_id": "ING-205",
+    "ingredient_A_name": "Nattokinase",
+    "ingredient_B_id": "ING-125",
+    "ingredient_B_name": "Ginkgo Biloba Extract",
+    "polarity": "negative",
+    "evidence_text": "Nattokinase has fibrinolytic/anticoagulant activity and may increase bleeding risk when combined with agents that affect hemostasis. Ginkgo has bleeding-risk case reports and antiplatelet-interaction concerns, so co-use is a negative bleeding-risk candidate.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/nattokinase",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC1490168/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF189",
+    "ingredient_pair_id": "ING-205 * ING-014",
+    "ingredient_pair_name": "Nattokinase * d-alpha-tocopherol, Vitamin E",
+    "ingredient_A_id": "ING-205",
+    "ingredient_A_name": "Nattokinase",
+    "ingredient_B_id": "ING-014",
+    "ingredient_B_name": "d-alpha-tocopherol, Vitamin E",
+    "polarity": "negative",
+    "evidence_text": "The clinical feature of bleeding-risk outcome represents a context-dependent host-level effect for nattokinase and high-dose vitamin E co-use. Nattokinase may increase bleeding risk through fibrinolytic/anticoagulant activity, while high-dose vitamin E may impair hemostasis.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/nattokinase",
+      "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": "In anticoagulant/antiplatelet users, bleeding-disorder users, perioperative users, or high-dose vitamin E users, nattokinase plus vitamin E may produce conditional negative bleeding outcomes. In low-dose vitamin E and low-risk users, clinical relevance is uncertain."
+  },
+  {
+    "effect_rule_id": "EFF190",
+    "ingredient_pair_id": "ING-067 * ING-327",
+    "ingredient_pair_name": "Probiotic / gut microbiota blend * Galactooligosaccharides (GOS)",
+    "ingredient_A_id": "ING-067",
+    "ingredient_A_name": "Probiotic / gut microbiota blend",
+    "ingredient_B_id": "ING-327",
+    "ingredient_B_name": "Galactooligosaccharides (GOS)",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of gut-microbiota/metabolic outcomes represents a context-dependent host-level effect for probiotic plus prebiotic-fiber co-use. Prebiotic fibers can modify microbial composition and fermentation products, while probiotic effects depend on strain survival and baseline microbiome context.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.mdpi.com/2072-6643/16/14/2205",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12086677/"
+    ],
+    "If undefined, then features. Different cases description.": "In users with constipation tendency, reduced microbial diversity, post-antibiotic recovery, or metabolic-risk background, probiotic plus this prebiotic fiber may produce conditional positive gut-microbiota, stool, SCFA, or metabolic biomarker outcomes. In users with FODMAP sensitivity, IBS bloating, or fiber intolerance, the same combination may produce conditional negative GI outcomes such as gas, bloating, cramping, or loose stools."
+  },
+  {
+    "effect_rule_id": "EFF191",
+    "ingredient_pair_id": "ING-067 * ING-328",
+    "ingredient_pair_name": "Probiotic / gut microbiota blend * Arabinogalactan",
+    "ingredient_A_id": "ING-067",
+    "ingredient_A_name": "Probiotic / gut microbiota blend",
+    "ingredient_B_id": "ING-328",
+    "ingredient_B_name": "Arabinogalactan",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of gut-microbiota/metabolic outcomes represents a context-dependent host-level effect for probiotic plus prebiotic-fiber co-use. Prebiotic fibers can modify microbial composition and fermentation products, while probiotic effects depend on strain survival and baseline microbiome context.",
+    "Confidence": "low",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4828828/"
+    ],
+    "If undefined, then features. Different cases description.": "In users with constipation tendency, reduced microbial diversity, post-antibiotic recovery, or metabolic-risk background, probiotic plus this prebiotic fiber may produce conditional positive gut-microbiota, stool, SCFA, or metabolic biomarker outcomes. In users with FODMAP sensitivity, IBS bloating, or fiber intolerance, the same combination may produce conditional negative GI outcomes such as gas, bloating, cramping, or loose stools."
+  },
+  {
+    "effect_rule_id": "EFF192",
+    "ingredient_pair_id": "ING-067 * ING-350",
+    "ingredient_pair_name": "Probiotic / gut microbiota blend * Resistant maltodextrin",
+    "ingredient_A_id": "ING-067",
+    "ingredient_A_name": "Probiotic / gut microbiota blend",
+    "ingredient_B_id": "ING-350",
+    "ingredient_B_name": "Resistant maltodextrin",
+    "polarity": "undefined",
+    "evidence_text": "The clinical feature of gut-microbiota/metabolic outcomes represents a context-dependent host-level effect for probiotic plus prebiotic-fiber co-use. Prebiotic fibers can modify microbial composition and fermentation products, while probiotic effects depend on strain survival and baseline microbiome context.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9183109/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12086677/"
+    ],
+    "If undefined, then features. Different cases description.": "In users with constipation tendency, reduced microbial diversity, post-antibiotic recovery, or metabolic-risk background, probiotic plus this prebiotic fiber may produce conditional positive gut-microbiota, stool, SCFA, or metabolic biomarker outcomes. In users with FODMAP sensitivity, IBS bloating, or fiber intolerance, the same combination may produce conditional negative GI outcomes such as gas, bloating, cramping, or loose stools."
+  },
+  {
+    "effect_rule_id": "EFF193",
+    "ingredient_pair_id": "ING-376 * ING-184",
+    "ingredient_pair_name": "Berberine Phytosome * metformin",
+    "ingredient_A_id": "ING-376",
+    "ingredient_A_name": "Berberine Phytosome",
+    "ingredient_B_id": "ING-184",
+    "ingredient_B_name": "metformin",
+    "polarity": "undefined",
+    "evidence_text": "Berberine phytosome is a berberine-family formulation; by analogy to berberine HCl, co-use with this glucose-lowering/metabolic ingredient may affect glycemic and GI outcomes. Direct berberine-phytosome pair-level outcome evidence is limited, so this is a form-expansion candidate rather than a new high-confidence conclusion.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC5839379/"
+    ],
+    "If undefined, then features. Different cases description.": "In users with insulin resistance, prediabetes, PCOS, or high postprandial glucose, the pair may produce conditional positive glycemic biomarker outcomes. In users taking glucose-lowering drugs, fasting, low-carb dieting, or with GI sensitivity, the pair may produce conditional negative outcomes such as hypoglycemia tendency, GI discomfort, diarrhea, or excessive glucose lowering."
+  },
+  {
+    "effect_rule_id": "EFF194",
+    "ingredient_pair_id": "ING-376 * ING-168",
+    "ingredient_pair_name": "Berberine Phytosome * Cinnamon Organic",
+    "ingredient_A_id": "ING-376",
+    "ingredient_A_name": "Berberine Phytosome",
+    "ingredient_B_id": "ING-168",
+    "ingredient_B_name": "Cinnamon Organic",
+    "polarity": "positive",
+    "evidence_text": "Berberine phytosome is a berberine-family formulation; by analogy to berberine HCl, co-use with this glucose-lowering/metabolic ingredient may affect glycemic and GI outcomes. Direct berberine-phytosome pair-level outcome evidence is limited, so this is a form-expansion candidate rather than a new high-confidence conclusion.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4583280/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF195",
+    "ingredient_pair_id": "ING-376 * ING-034",
+    "ingredient_pair_name": "Berberine Phytosome * Chromium",
+    "ingredient_A_id": "ING-376",
+    "ingredient_A_name": "Berberine Phytosome",
+    "ingredient_B_id": "ING-034",
+    "ingredient_B_name": "Chromium",
+    "polarity": "positive",
+    "evidence_text": "Berberine phytosome is a berberine-family formulation; by analogy to berberine HCl, co-use with this glucose-lowering/metabolic ingredient may affect glycemic and GI outcomes. Direct berberine-phytosome pair-level outcome evidence is limited, so this is a form-expansion candidate rather than a new high-confidence conclusion.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4583280/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF196",
+    "ingredient_pair_id": "ING-376 * ING-255",
+    "ingredient_pair_name": "Berberine Phytosome * Acarbose",
+    "ingredient_A_id": "ING-376",
+    "ingredient_A_name": "Berberine Phytosome",
+    "ingredient_B_id": "ING-255",
+    "ingredient_B_name": "Acarbose",
+    "polarity": "undefined",
+    "evidence_text": "Berberine phytosome is a berberine-family formulation; by analogy to berberine HCl, co-use with this glucose-lowering/metabolic ingredient may affect glycemic and GI outcomes. Direct berberine-phytosome pair-level outcome evidence is limited, so this is a form-expansion candidate rather than a new high-confidence conclusion.",
+    "Confidence": "low",
+    "source_url": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK557848/"
+    ],
+    "If undefined, then features. Different cases description.": "In users with insulin resistance, prediabetes, PCOS, or high postprandial glucose, the pair may produce conditional positive glycemic biomarker outcomes. In users taking glucose-lowering drugs, fasting, low-carb dieting, or with GI sensitivity, the pair may produce conditional negative outcomes such as hypoglycemia tendency, GI discomfort, diarrhea, or excessive glucose lowering."
+  },
+  {
+    "effect_rule_id": "EFF197",
+    "ingredient_pair_id": "ING-378 * ING-038",
+    "ingredient_pair_name": "Hydrolyzed Bovine Hide Collagen Peptides * Ascorbic acid, Vitamin C",
+    "ingredient_A_id": "ING-378",
+    "ingredient_A_name": "Hydrolyzed Bovine Hide Collagen Peptides",
+    "ingredient_B_id": "ING-038",
+    "ingredient_B_name": "Ascorbic acid, Vitamin C",
+    "polarity": "positive",
+    "evidence_text": "Collagen/protein peptide co-use with vitamin C is associated with collagen-synthesis and soft-tissue/tendon-repair biomarker support. This rule expands the existing collagen peptides plus vitamin C extra-effect to the specific collagen/protein collagen-form simple ingredient.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6204628/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9267994/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF198",
+    "ingredient_pair_id": "ING-379 * ING-038",
+    "ingredient_pair_name": "Fermented Eggshell Membrane Collagen * Ascorbic acid, Vitamin C",
+    "ingredient_A_id": "ING-379",
+    "ingredient_A_name": "Fermented Eggshell Membrane Collagen",
+    "ingredient_B_id": "ING-038",
+    "ingredient_B_name": "Ascorbic acid, Vitamin C",
+    "polarity": "positive",
+    "evidence_text": "Collagen/protein peptide co-use with vitamin C is associated with collagen-synthesis and soft-tissue/tendon-repair biomarker support. This rule expands the existing collagen peptides plus vitamin C extra-effect to the specific collagen/protein collagen-form simple ingredient.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6204628/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9267994/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF199",
+    "ingredient_pair_id": "ING-380 * ING-038",
+    "ingredient_pair_name": "Chicken Bone Broth Protein Concentrate * Ascorbic acid, Vitamin C",
+    "ingredient_A_id": "ING-380",
+    "ingredient_A_name": "Chicken Bone Broth Protein Concentrate",
+    "ingredient_B_id": "ING-038",
+    "ingredient_B_name": "Ascorbic acid, Vitamin C",
+    "polarity": "positive",
+    "evidence_text": "Collagen/protein peptide co-use with vitamin C is associated with collagen-synthesis and soft-tissue/tendon-repair biomarker support. This rule expands the existing collagen peptides plus vitamin C extra-effect to the specific collagen/protein collagen-form simple ingredient.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6204628/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9267994/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF200",
+    "ingredient_pair_id": "ING-381 * ING-038",
+    "ingredient_pair_name": "Hydrolyzed Fish Collagen Peptides * Ascorbic acid, Vitamin C",
+    "ingredient_A_id": "ING-381",
+    "ingredient_A_name": "Hydrolyzed Fish Collagen Peptides",
+    "ingredient_B_id": "ING-038",
+    "ingredient_B_name": "Ascorbic acid, Vitamin C",
+    "polarity": "positive",
+    "evidence_text": "Collagen/protein peptide co-use with vitamin C is associated with collagen-synthesis and soft-tissue/tendon-repair biomarker support. This rule expands the existing collagen peptides plus vitamin C extra-effect to the specific collagen/protein collagen-form simple ingredient.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6204628/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9267994/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF201",
+    "ingredient_pair_id": "ING-382 * ING-198",
+    "ingredient_pair_name": "Bacillus coagulans (SNZ-1969 or IDCC1201) * whey protein",
+    "ingredient_A_id": "ING-382",
+    "ingredient_A_name": "Bacillus coagulans (SNZ-1969 or IDCC1201)",
+    "ingredient_B_id": "ING-198",
+    "ingredient_B_name": "whey protein",
+    "polarity": "positive",
+    "evidence_text": "Bacillus coagulans strains have been studied for improving protein digestion, amino-acid absorption, and protein utilization. This supports a narrow Bacillus-coagulans-specific positive extra-effect candidate for postprandial amino-acid appearance or exercise-recovery related outcomes, but extrapolation across strains and protein sources should be conservative.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/35249118/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10844538/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF202",
+    "ingredient_pair_id": "ING-382 * ING-330",
+    "ingredient_pair_name": "Bacillus coagulans (SNZ-1969 or IDCC1201) * Brown rice protein",
+    "ingredient_A_id": "ING-382",
+    "ingredient_A_name": "Bacillus coagulans (SNZ-1969 or IDCC1201)",
+    "ingredient_B_id": "ING-330",
+    "ingredient_B_name": "Brown rice protein",
+    "polarity": "positive",
+    "evidence_text": "Bacillus coagulans strains have been studied for improving protein digestion, amino-acid absorption, and protein utilization. This supports a narrow Bacillus-coagulans-specific positive extra-effect candidate for postprandial amino-acid appearance or exercise-recovery related outcomes, but extrapolation across strains and protein sources should be conservative.",
+    "Confidence": "low",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/35249118/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10844538/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF203",
+    "ingredient_pair_id": "ING-382 * ING-347",
+    "ingredient_pair_name": "Bacillus coagulans (SNZ-1969 or IDCC1201) * Hemp protein",
+    "ingredient_A_id": "ING-382",
+    "ingredient_A_name": "Bacillus coagulans (SNZ-1969 or IDCC1201)",
+    "ingredient_B_id": "ING-347",
+    "ingredient_B_name": "Hemp protein",
+    "polarity": "positive",
+    "evidence_text": "Bacillus coagulans strains have been studied for improving protein digestion, amino-acid absorption, and protein utilization. This supports a narrow Bacillus-coagulans-specific positive extra-effect candidate for postprandial amino-acid appearance or exercise-recovery related outcomes, but extrapolation across strains and protein sources should be conservative.",
+    "Confidence": "low",
+    "source_url": [
+      "https://pubmed.ncbi.nlm.nih.gov/35249118/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC10844538/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  }
+]
