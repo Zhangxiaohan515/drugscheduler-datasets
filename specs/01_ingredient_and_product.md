@@ -10,7 +10,10 @@ Collect a recommender's (biohacker's) supplement/drug stack, then:
 Many famous biohackers are not yet in the dataset — follow this logic to extend.
 
 ## Source priority (changed from original — candidate-first)
-1. **DSLD candidate** (`dsld-1/2.jsonl`) — first stop for a supplement's ingredients + CUI. 92k products. **DSLD gives a recall starting point only, never trust it blindly: ** (a) its ingredient lists often contain excipients and mis-parsed entries; (b) keyword matching against it produces false  positives (e.g. a "Men's" product matching a "Women's" record, a "Vitamin D" query matching a calcium tablet). Always verify the actual ingredients via web search, and only attach a `dsld_label_id` to a product when the product name matches precisely.
+1. **DSLD candidate** (`dsld-1/2.jsonl`) — first stop for a supplement's ingredients + CUI. 92k products.
+   **DSLD gives a recall starting point only, never trust it blindly: **
+   (a) its ingredient lists often contain excipients and mis-parsed entries;
+   (b) keyword matching against it produces false  positives (e.g. a "Men's" product matching a "Women's" record, a "Vitamin D" query matching a calcium tablet). Always verify the actual ingredients via web search, and only attach a `dsld_label_id` to a product when the product name matches precisely.
 2. **NDC candidates** (`drug-ndc-slim*`, `ndc-drug-map*`) — for drugs.
 3. **Biohacker list pages** (fetchable, primary recall for "who takes what"):
    - fastlifehacks.com (Ferriss, Huberman, Attia, Rogan, Patrick, Sinclair, B. Johnson)
