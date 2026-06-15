@@ -34,7 +34,7 @@ simple_ingredient_id, simple_ingredient_name, reference_url, Notes, Functionalit
   Momentous) are two distinct products, even if the ingredient is the same.
 - **One row per ingredient** in a product (multi-ingredient product → multiple
   rows sharing the same `canonical_product_id`).
-- **Current max:** `PROD-279`. New products continue from PROD-280 (re-verify live).
+- **Current max:** `PROD-300`. New products continue from PROD-301 (re-verify live).
 - **setting_type** comes from the supplement's food/time context:
   - soft: `meal_preferred, wake_empty_preferred, bed_empty_preferred, gap_preferred, flexible` (tune gamma/eta)
   - hard: `meal_required, wake_empty_required, bed_empty_required, gap_required, special_time_required` (tune alpha_meal/alpha_gap)
@@ -46,7 +46,7 @@ simple_ingredient_id, simple_ingredient_name, reference_url, Notes, Functionalit
 Fields: `ingredient_id, ingredient_name, category/common_names, supp.ai source id`
 - **Dedup first:** check each candidate ingredient against existing 374 rows
   (programmatic normalize-and-compare, not by eye) before assigning a new ID.
-- **Current max:** `ING-390`. New ingredients continue from ING-391 (re-verify live).
+- **Current max:** `ING-395`. New ingredients continue from ING-396 (re-verify live).
 - **CUI matching:** match name (and synonyms) against `cui_metadata.json`.
   - exact / synonym hit → fill `supp.ai source id`.
   - **no match → OMIT the field entirely** (do not write null/empty).
