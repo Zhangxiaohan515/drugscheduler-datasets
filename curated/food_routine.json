@@ -1,0 +1,1964 @@
+[
+  {
+    "time": "Monday-breakfast",
+    "recipe_id": "Biohacker-001",
+    "recipe": "bulletproof coffee; scrambled eggs with spinach and avocado",
+    "map to food list": [
+      "coffee",
+      "butter",
+      "MCT oil",
+      "egg",
+      "spinach",
+      "avocado"
+    ],
+    "map to food id": [
+      "FOOD-022",
+      "FOOD-101",
+      "FOOD-102",
+      "FOOD-038",
+      "FOOD-061",
+      "FOOD-025"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Monday-lunch",
+    "recipe_id": "Biohacker-002",
+    "recipe": "grilled chicken salad with mixed greens; cherry tomatoes; cucumber; olive oil; balsamic vinegar",
+    "map to food list": [
+      "chicken",
+      "spinach",
+      "arugula",
+      "kale",
+      "tomato",
+      "cucumber",
+      "extra virgin olive oil",
+      "balsamic vinegar"
+    ],
+    "map to food id": [
+      "FOOD-040",
+      "FOOD-061",
+      "FOOD-067",
+      "FOOD-014",
+      "FOOD-082",
+      "FOOD-123",
+      "FOOD-026",
+      "FOOD-150"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Monday-Snack",
+    "recipe_id": "Biohacker-003",
+    "recipe": "green apple; protein cocktail",
+    "map to food list": [
+      "apple",
+      "protein powder"
+    ],
+    "map to food id": [
+      "FOOD-058",
+      "FOOD-051"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Monday-dinner",
+    "recipe_id": "Biohacker-004",
+    "recipe": "grass-fed beef stir-fry with mixed vegetables (bell peppers, onions, broccoli); cauliflower rice",
+    "map to food list": [
+      "beef",
+      "bell pepper",
+      "onion",
+      "broccoli",
+      "cauliflower"
+    ],
+    "map to food id": [
+      "FOOD-042",
+      "FOOD-008",
+      "FOOD-121",
+      "FOOD-009",
+      "FOOD-013"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Tuesday-breakfast",
+    "recipe_id": "Biohacker-005",
+    "recipe": "cauliflower pancakes; yoghurt",
+    "map to food list": [
+      "cauliflower",
+      "yogurt"
+    ],
+    "map to food id": [
+      "FOOD-013",
+      "FOOD-017"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Tuesday-lunch",
+    "recipe_id": "Biohacker-006",
+    "recipe": "chicken stew in coconut milk and zucchini noodles",
+    "map to food list": [
+      "chicken",
+      "coconut milk",
+      "zucchini"
+    ],
+    "map to food id": [
+      "FOOD-040",
+      "FOOD-109",
+      "FOOD-125"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Tuesday-Snack",
+    "recipe_id": "Biohacker-007",
+    "recipe": "pudding with a sprinkle of chia seeds",
+    "map to food list": [
+      "chia seeds"
+    ],
+    "map to food id": [
+      "FOOD-030"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Tuesday-dinner",
+    "recipe_id": "Biohacker-008",
+    "recipe": "quinoa bowl with black beans, corn, avocado and salsa",
+    "map to food list": [
+      "quinoa",
+      "beans",
+      "corn",
+      "avocado",
+      "salsa"
+    ],
+    "map to food id": [
+      "FOOD-054",
+      "FOOD-050",
+      "FOOD-124",
+      "FOOD-025",
+      "FOOD-159"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Wednesday-breakfast",
+    "recipe_id": "Biohacker-009",
+    "recipe": "smoothie with kale, spinach, banana, almond milk, and a scoop of protein powder",
+    "map to food list": [
+      "kale",
+      "spinach",
+      "banana",
+      "almond milk",
+      "protein powder"
+    ],
+    "map to food id": [
+      "FOOD-014",
+      "FOOD-061",
+      "FOOD-126",
+      "FOOD-016B",
+      "FOOD-051"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Wednesday-lunch",
+    "recipe_id": "Biohacker-010",
+    "recipe": "Turkey and avocado wrap with whole-grain tortilla, lettuce, and tomatoes",
+    "map to food list": [
+      "turkey",
+      "avocado",
+      "whole-grain tortilla",
+      "lettuce",
+      "tomato"
+    ],
+    "map to food id": [
+      "FOOD-041",
+      "FOOD-025",
+      "FOOD-110",
+      "FOOD-063",
+      "FOOD-082"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Wednesday-Snack",
+    "recipe_id": "Biohacker-011",
+    "recipe": "Hard-boiled egg",
+    "map to food list": [
+      "egg"
+    ],
+    "map to food id": [
+      "FOOD-038"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Wednesday-dinner",
+    "recipe_id": "Biohacker-012",
+    "recipe": "Baked chicken thighs with roasted sweet potatoes and Brussels sprouts; juice",
+    "map to food list": [
+      "chicken thigh",
+      "sweet potato",
+      "Brussels sprouts",
+      "orange juice"
+    ],
+    "map to food id": [
+      "FOOD-108",
+      "FOOD-059",
+      "FOOD-010",
+      "FOOD-015"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Thursday-breakfast",
+    "recipe_id": "Biohacker-013",
+    "recipe": "Eggs and avocado with baked yams",
+    "map to food list": [
+      "egg",
+      "avocado",
+      "sweet potato"
+    ],
+    "map to food id": [
+      "FOOD-038",
+      "FOOD-025",
+      "FOOD-059"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Thursday-lunch",
+    "recipe_id": "Biohacker-014",
+    "recipe": "Vegetable soup with a side of mixed green salad",
+    "map to food list": [
+      "spinach",
+      "arugula",
+      "kale",
+      "onion",
+      "carrots",
+      "baked potato",
+      "cabbage",
+      "zucchini",
+      "corn"
+    ],
+    "map to food id": [
+      "FOOD-061",
+      "FOOD-067",
+      "FOOD-014",
+      "FOOD-121",
+      "FOOD-079",
+      "FOOD-085",
+      "FOOD-011",
+      "FOOD-125",
+      "FOOD-124"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Thursday-Snack",
+    "recipe_id": "Biohacker-015",
+    "recipe": "Protein bar",
+    "map to food list": [
+      "protein powder"
+    ],
+    "map to food id": [
+      "FOOD-051"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Thursday-dinner",
+    "recipe_id": "Biohacker-016",
+    "recipe": "Pork steak with salad",
+    "map to food list": [
+      "pork",
+      "spinach",
+      "arugula",
+      "kale"
+    ],
+    "map to food id": [
+      "FOOD-097",
+      "FOOD-061",
+      "FOOD-067",
+      "FOOD-014"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Friday-breakfast",
+    "recipe_id": "Biohacker-017",
+    "recipe": "Greek yogurt with granola, flaxseeds, and sliced strawberries",
+    "map to food list": [
+      "Greek yogurt",
+      "granola",
+      "flax seeds",
+      "strawberry"
+    ],
+    "map to food id": [
+      "FOOD-018",
+      "FOOD-111",
+      "FOOD-031",
+      "FOOD-005"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Friday-lunch",
+    "recipe_id": "Biohacker-018",
+    "recipe": "Baby carrots with tzatziki sauce",
+    "map to food list": [
+      "carrots",
+      "tzatziki sauce"
+    ],
+    "map to food id": [
+      "FOOD-079",
+      "FOOD-151"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Friday-Snack",
+    "recipe_id": "Biohacker-019",
+    "recipe": "Fruit smoothie",
+    "map to food list": [
+      "banana smoothie"
+    ],
+    "map to food id": [
+      "FOOD-163"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Friday-dinner",
+    "recipe_id": "Biohacker-020",
+    "recipe": "Grass-fed beef burger (lettuce wrap instead of a bun);  with a side of roasted vegetables; fresh juice",
+    "map to food list": [
+      "beef",
+      "lettuce",
+      "spinach",
+      "cabbage",
+      "orange juice"
+    ],
+    "map to food id": [
+      "FOOD-042",
+      "FOOD-063",
+      "FOOD-061",
+      "FOOD-011",
+      "FOOD-015"
+    ],
+    "recommender": "Olia Chernova",
+    "URL": [
+      "https://www.biohackers.world/blog/biohacking-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "First meal",
+    "recipe_id": "Biohacker-021",
+    "recipe": "Super Veggie",
+    "map to food list": [
+      "lentils",
+      "broccoli",
+      "cauliflower",
+      "maitake mushrooms",
+      "hemp seeds",
+      "ginger root"
+    ],
+    "map to food id": [
+      "FOOD-048",
+      "FOOD-009",
+      "FOOD-013",
+      "FOOD-128",
+      "FOOD-032",
+      "FOOD-158"
+    ],
+    "recommender": "Bryan Johnson",
+    "URL": [
+      "https://honehealth.com/edge/bryan-johnson-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Second meal",
+    "recipe_id": "Biohacker-022",
+    "recipe": "Nutty Pudding",
+    "map to food list": [
+      "macadamia nut milk",
+      "macadamia nuts",
+      "walnuts",
+      "chia seeds",
+      "flax seeds",
+      "brazil nut",
+      "dark chocolate",
+      "sunflower lecithin",
+      "cinnamon",
+      "blueberry",
+      "strawberry",
+      "raspberry",
+      "cherries",
+      "pomegranate"
+    ],
+    "map to food id": [
+      "FOOD-131",
+      "FOOD-130",
+      "FOOD-028",
+      "FOOD-030",
+      "FOOD-031",
+      "FOOD-132",
+      "FOOD-024",
+      "FOOD-133",
+      "FOOD-134",
+      "FOOD-006",
+      "FOOD-005",
+      "FOOD-007",
+      "FOOD-135",
+      "FOOD-078"
+    ],
+    "recommender": "Bryan Johnson",
+    "URL": [
+      "https://honehealth.com/edge/bryan-johnson-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Third meal 1",
+    "recipe_id": "Biohacker-023",
+    "recipe": "Roasted Cabbage Steaks and Sweet Potato Mash",
+    "map to food list": [
+      "red cabbage",
+      "sweet potato",
+      "pomegranate"
+    ],
+    "map to food id": [
+      "FOOD-012",
+      "FOOD-059",
+      "FOOD-078"
+    ],
+    "recommender": "Bryan Johnson",
+    "URL": [
+      "https://honehealth.com/edge/bryan-johnson-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Third meal 2",
+    "recipe_id": "Biohacker-024",
+    "recipe": "Chickpea Curry Over Greens",
+    "map to food list": [
+      "chickpeas",
+      "spinach",
+      "arugula",
+      "kale",
+      "lime",
+      "bell pepper",
+      "pumpkin"
+    ],
+    "map to food id": [
+      "FOOD-049",
+      "FOOD-061",
+      "FOOD-067",
+      "FOOD-014",
+      "FOOD-004",
+      "FOOD-008",
+      "FOOD-080"
+    ],
+    "recommender": "Bryan Johnson",
+    "URL": [
+      "https://honehealth.com/edge/bryan-johnson-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Third meal 3",
+    "recipe_id": "Biohacker-025",
+    "recipe": "Blood Orange and Fennel Salad",
+    "map to food list": [
+      "orange",
+      "fennel bulb",
+      "onion",
+      "pomegranate",
+      "mint leaves"
+    ],
+    "map to food id": [
+      "FOOD-001",
+      "FOOD-136",
+      "FOOD-121",
+      "FOOD-078",
+      "FOOD-137"
+    ],
+    "recommender": "Bryan Johnson",
+    "URL": [
+      "https://honehealth.com/edge/bryan-johnson-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Third meal 4",
+    "recipe_id": "Biohacker-026",
+    "recipe": "Roasted Bok Choy and Japanese Sweet Potato",
+    "map to food list": [
+      "bok choy",
+      "sweet potato",
+      "walnuts",
+      "almonds"
+    ],
+    "map to food id": [
+      "FOOD-068",
+      "FOOD-059",
+      "FOOD-028",
+      "FOOD-029"
+    ],
+    "recommender": "Bryan Johnson",
+    "URL": [
+      "https://honehealth.com/edge/bryan-johnson-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Third meal 5",
+    "recipe_id": "Biohacker-027",
+    "recipe": "Sweet Potato and Mushroom Toast",
+    "map to food list": [
+      "sweet potato",
+      "mushrooms",
+      "avocado",
+      "arugula"
+    ],
+    "map to food id": [
+      "FOOD-059",
+      "FOOD-127",
+      "FOOD-025",
+      "FOOD-067"
+    ],
+    "recommender": "Bryan Johnson",
+    "URL": [
+      "https://honehealth.com/edge/bryan-johnson-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Third meal 6",
+    "recipe_id": "Biohacker-028",
+    "recipe": "Beet Poke",
+    "map to food list": [
+      "red beetroot",
+      "avocado",
+      "mango",
+      "radish",
+      "black sesame seeds",
+      "spinach",
+      "arugula",
+      "kale"
+    ],
+    "map to food id": [
+      "FOOD-138",
+      "FOOD-025",
+      "FOOD-083",
+      "FOOD-139",
+      "FOOD-140",
+      "FOOD-061",
+      "FOOD-067",
+      "FOOD-014"
+    ],
+    "recommender": "Bryan Johnson",
+    "URL": [
+      "https://honehealth.com/edge/bryan-johnson-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Third meal 7",
+    "recipe_id": "Biohacker-029",
+    "recipe": "Collard Green Wrap and Red Pepper Dip",
+    "map to food list": [
+      "collard greens",
+      "carrots",
+      "cucumber",
+      "bell pepper"
+    ],
+    "map to food id": [
+      "FOOD-114",
+      "FOOD-079",
+      "FOOD-123",
+      "FOOD-008"
+    ],
+    "recommender": "Bryan Johnson",
+    "URL": [
+      "https://honehealth.com/edge/bryan-johnson-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Third meal 8",
+    "recipe_id": "Biohacker-030",
+    "recipe": "Buddha Bowl",
+    "map to food list": [
+      "beans",
+      "asparagus",
+      "carrots",
+      "avocado",
+      "sweet potato",
+      "lemon",
+      "walnuts",
+      "almonds",
+      "kale"
+    ],
+    "map to food id": [
+      "FOOD-050",
+      "FOOD-141",
+      "FOOD-079",
+      "FOOD-025",
+      "FOOD-059",
+      "FOOD-003",
+      "FOOD-028",
+      "FOOD-029",
+      "FOOD-014"
+    ],
+    "recommender": "Bryan Johnson",
+    "URL": [
+      "https://honehealth.com/edge/bryan-johnson-diet/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Week1-breakfast",
+    "recipe_id": "Biohacker-031",
+    "recipe": "bulletproof coffee with brain octane oil",
+    "map to food list": [
+      "coffee",
+      "butter",
+      "MCT oil"
+    ],
+    "map to food id": [
+      "FOOD-022",
+      "FOOD-101",
+      "FOOD-102"
+    ],
+    "recommender": "Dave Asprey",
+    "URL": [
+      "https://totalshape.com/supplements/dave-asprey-supplements-list/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Week1-lunch",
+    "recipe_id": "Biohacker-032",
+    "recipe": "paleo steak bowl or slow cooker pot roast with brussels sprouts",
+    "map to food list": [
+      "beef",
+      "brussels sprouts"
+    ],
+    "map to food id": [
+      "FOOD-042",
+      "FOOD-010"
+    ],
+    "recommender": "Dave Asprey",
+    "URL": [
+      "https://totalshape.com/supplements/dave-asprey-supplements-list/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Week1-dinner",
+    "recipe_id": "Biohacker-033",
+    "recipe": "low-carb thai salad with grilled steak or sushi sandwich wraps",
+    "map to food list": [
+      "lettuce",
+      "beef",
+      "lime",
+      "salmon",
+      "avocado"
+    ],
+    "map to food id": [
+      "FOOD-063",
+      "FOOD-042",
+      "FOOD-004",
+      "FOOD-036",
+      "FOOD-025"
+    ],
+    "recommender": "Dave Asprey",
+    "URL": [
+      "https://totalshape.com/supplements/dave-asprey-supplements-list/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Week2-breakfast",
+    "recipe_id": "Biohacker-034",
+    "recipe": "bulletproof coffee with brain octane oil and grass-fed unsalted butter",
+    "map to food list": [
+      "coffee",
+      "MCT oil",
+      "butter"
+    ],
+    "map to food id": [
+      "FOOD-022",
+      "FOOD-102",
+      "FOOD-101"
+    ],
+    "recommender": "Dave Asprey",
+    "URL": [
+      "https://totalshape.com/supplements/dave-asprey-supplements-list/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Week2-lunch",
+    "recipe_id": "Biohacker-035",
+    "recipe": "hearty green soup with coconut oil, or sweet potato skins with rosemary ground beef and avocado",
+    "map to food list": [
+      "spinach",
+      "kale",
+      "coconut oil",
+      "sweet potato",
+      "beef",
+      "avocado"
+    ],
+    "map to food id": [
+      "FOOD-061",
+      "FOOD-014",
+      "FOOD-039",
+      "FOOD-059",
+      "FOOD-042",
+      "FOOD-025"
+    ],
+    "recommender": "Dave Asprey",
+    "URL": [
+      "https://totalshape.com/supplements/dave-asprey-supplements-list/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Week2-dinner",
+    "recipe_id": "Biohacker-036",
+    "recipe": "bacon and spinach frittata, or spaghetti squash with meat sauce",
+    "map to food list": [
+      "bacon",
+      "egg",
+      "spinach",
+      "spaghetti squash",
+      "beef"
+    ],
+    "map to food id": [
+      "FOOD-164",
+      "FOOD-038",
+      "FOOD-061",
+      "FOOD-165",
+      "FOOD-042"
+    ],
+    "recommender": "Dave Asprey",
+    "URL": [
+      "https://totalshape.com/supplements/dave-asprey-supplements-list/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Week3-breakfast",
+    "recipe_id": "Biohacker-037",
+    "recipe": "bulletproof coffee or breakfast buddha bowl",
+    "map to food list": [
+      "coffee",
+      "MCT oil",
+      "butter",
+      "egg",
+      "avocado"
+    ],
+    "map to food id": [
+      "FOOD-022",
+      "FOOD-102",
+      "FOOD-101",
+      "FOOD-038",
+      "FOOD-025"
+    ],
+    "recommender": "Dave Asprey",
+    "URL": [
+      "https://totalshape.com/supplements/dave-asprey-supplements-list/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Week3-lunch",
+    "recipe_id": "Biohacker-038",
+    "recipe": "spicy asian meatballs with thai vinaigrette dipping sauce, or low-carb thai salad with grilled steak",
+    "map to food list": [
+      "beef",
+      "lettuce",
+      "lime"
+    ],
+    "map to food id": [
+      "FOOD-042",
+      "FOOD-063",
+      "FOOD-004"
+    ],
+    "recommender": "Dave Asprey",
+    "URL": [
+      "https://totalshape.com/supplements/dave-asprey-supplements-list/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Week3-dinner",
+    "recipe_id": "Biohacker-039",
+    "recipe": "oven-baked ribs with paleo coleslaw, or keto hamburger salad with sweet potato fries",
+    "map to food list": [
+      "pork",
+      "cabbage",
+      "beef",
+      "lettuce",
+      "sweet potato"
+    ],
+    "map to food id": [
+      "FOOD-097",
+      "FOOD-011",
+      "FOOD-042",
+      "FOOD-063",
+      "FOOD-059"
+    ],
+    "recommender": "Dave Asprey",
+    "URL": [
+      "https://totalshape.com/supplements/dave-asprey-supplements-list/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Week4-breakfast",
+    "recipe_id": "Biohacker-040",
+    "recipe": "bulletproof coffee or keto chocolate noatmeal",
+    "map to food list": [
+      "coffee",
+      "MCT oil",
+      "butter",
+      "dark chocolate",
+      "coconut"
+    ],
+    "map to food id": [
+      "FOOD-022",
+      "FOOD-102",
+      "FOOD-101",
+      "FOOD-024",
+      "FOOD-100"
+    ],
+    "recommender": "Dave Asprey",
+    "URL": [
+      "https://totalshape.com/supplements/dave-asprey-supplements-list/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Week4-lunch",
+    "recipe_id": "Biohacker-041",
+    "recipe": "creamy keto chicken soup, or sweet potato curry with cilantro lime cauliflower rice",
+    "map to food list": [
+      "chicken",
+      "sweet potato",
+      "cauliflower",
+      "lime"
+    ],
+    "map to food id": [
+      "FOOD-040",
+      "FOOD-059",
+      "FOOD-013",
+      "FOOD-004"
+    ],
+    "recommender": "Dave Asprey",
+    "URL": [
+      "https://totalshape.com/supplements/dave-asprey-supplements-list/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Week4-dinner",
+    "recipe_id": "Biohacker-042",
+    "recipe": "keto slow mexican shredded beef, or chicken keto ramen",
+    "map to food list": [
+      "beef",
+      "chicken",
+      "ramen"
+    ],
+    "map to food id": [
+      "FOOD-042",
+      "FOOD-040",
+      "FOOD-156"
+    ],
+    "recommender": "Dave Asprey",
+    "URL": [
+      "https://totalshape.com/supplements/dave-asprey-supplements-list/"
+    ],
+    "Note": "biohacker"
+  },
+  {
+    "time": "Breakfast idea 1",
+    "recipe_id": "Non-biohacker-001",
+    "recipe": "smoked cod kedgeree",
+    "map to food list": [
+      "fish",
+      "white rice",
+      "egg",
+      "green peas",
+      "onion",
+      "butter"
+    ],
+    "map to food id": [
+      "FOOD-043",
+      "FOOD-084",
+      "FOOD-038",
+      "FOOD-129",
+      "FOOD-121",
+      "FOOD-101"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/19-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 2",
+    "recipe_id": "Non-biohacker-002",
+    "recipe": "baked avocado eggs",
+    "map to food list": [
+      "avocado",
+      "egg",
+      "bread",
+      "pork",
+      "tomato"
+    ],
+    "map to food id": [
+      "FOOD-025",
+      "FOOD-038",
+      "FOOD-142",
+      "FOOD-097",
+      "FOOD-082"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/20-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 3",
+    "recipe_id": "Non-biohacker-003",
+    "recipe": "pea omelette with crispy bacon and tomatoes",
+    "map to food list": [
+      "egg",
+      "pork",
+      "green peas",
+      "tomato"
+    ],
+    "map to food id": [
+      "FOOD-038",
+      "FOOD-097",
+      "FOOD-129",
+      "FOOD-082"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/21-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 4",
+    "recipe_id": "Non-biohacker-004",
+    "recipe": "banana and malt breakfast shake",
+    "map to food list": [
+      "banana",
+      "malt",
+      "soy milk"
+    ],
+    "map to food id": [
+      "FOOD-126",
+      "FOOD-144",
+      "FOOD-016A"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/22-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 5",
+    "recipe_id": "Non-biohacker-005",
+    "recipe": "ricotta omelettes with bacon, hot-smoked salmon and zucchini",
+    "map to food list": [
+      "egg",
+      "cheese",
+      "salmon",
+      "pork",
+      "zucchini"
+    ],
+    "map to food id": [
+      "FOOD-038",
+      "FOOD-020",
+      "FOOD-036",
+      "FOOD-097",
+      "FOOD-125"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/23-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 6",
+    "recipe_id": "Non-biohacker-006",
+    "recipe": "peperonata baked eggs with tapenade toasts",
+    "map to food list": [
+      "egg",
+      "bell pepper",
+      "tomato",
+      "onion",
+      "olive",
+      "bread",
+      "fresh basil"
+    ],
+    "map to food id": [
+      "FOOD-038",
+      "FOOD-008",
+      "FOOD-082",
+      "FOOD-121",
+      "FOOD-027",
+      "FOOD-142",
+      "FOOD-153"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/24-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 7",
+    "recipe_id": "Non-biohacker-007",
+    "recipe": "smoked salmon french toast",
+    "map to food list": [
+      "salmon",
+      "bread",
+      "egg",
+      "cheese"
+    ],
+    "map to food id": [
+      "FOOD-036",
+      "FOOD-142",
+      "FOOD-038",
+      "FOOD-020"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/25-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 8",
+    "recipe_id": "Non-biohacker-008",
+    "recipe": "persian baked eggs with lentils",
+    "map to food list": [
+      "egg",
+      "lentils",
+      "tomato",
+      "pistachio",
+      "bread"
+    ],
+    "map to food id": [
+      "FOOD-038",
+      "FOOD-048",
+      "FOOD-082",
+      "FOOD-160",
+      "FOOD-142"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/26-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 9",
+    "recipe_id": "Non-biohacker-009",
+    "recipe": "hot-smoked salmon scrambled eggs",
+    "map to food list": [
+      "egg",
+      "salmon",
+      "Greek yogurt",
+      "spinach",
+      "bread",
+      "lemon"
+    ],
+    "map to food id": [
+      "FOOD-038",
+      "FOOD-036",
+      "FOOD-018",
+      "FOOD-061",
+      "FOOD-142",
+      "FOOD-003"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/27-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 10",
+    "recipe_id": "Non-biohacker-010",
+    "recipe": "all-in-one breakfast bake",
+    "map to food list": [
+      "pork",
+      "egg",
+      "pork",
+      "baked potato",
+      "tomato"
+    ],
+    "map to food id": [
+      "FOOD-097",
+      "FOOD-038",
+      "FOOD-097",
+      "FOOD-085",
+      "FOOD-082"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/28-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 11",
+    "recipe_id": "Non-biohacker-011",
+    "recipe": "mexican bean and sweet potato bowl",
+    "map to food list": [
+      "sweet potato",
+      "beans",
+      "egg",
+      "avocado",
+      "arugula"
+    ],
+    "map to food id": [
+      "FOOD-059",
+      "FOOD-050",
+      "FOOD-038",
+      "FOOD-025",
+      "FOOD-067"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/29-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 12",
+    "recipe_id": "Non-biohacker-012",
+    "recipe": "egg and bacon bagels",
+    "map to food list": [
+      "bread",
+      "egg",
+      "pork",
+      "avocado",
+      "tomato",
+      "spinach"
+    ],
+    "map to food id": [
+      "FOOD-142",
+      "FOOD-038",
+      "FOOD-097",
+      "FOOD-025",
+      "FOOD-082",
+      "FOOD-061"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/30-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 13",
+    "recipe_id": "Non-biohacker-013",
+    "recipe": "quick boston baked beans",
+    "map to food list": [
+      "beans",
+      "tomato",
+      "onion",
+      "bread"
+    ],
+    "map to food id": [
+      "FOOD-050",
+      "FOOD-082",
+      "FOOD-121",
+      "FOOD-142"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/31-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 14",
+    "recipe_id": "Non-biohacker-014",
+    "recipe": "one-pan brekky",
+    "map to food list": [
+      "egg",
+      "pork",
+      "pork",
+      "mushrooms",
+      "tomato"
+    ],
+    "map to food id": [
+      "FOOD-038",
+      "FOOD-097",
+      "FOOD-097",
+      "FOOD-127",
+      "FOOD-082"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/32-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 15",
+    "recipe_id": "Non-biohacker-015",
+    "recipe": "arabian buttered eggs with mint and lemon",
+    "map to food list": [
+      "egg",
+      "bread",
+      "onion",
+      "lemon"
+    ],
+    "map to food id": [
+      "FOOD-038",
+      "FOOD-142",
+      "FOOD-121",
+      "FOOD-003"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/33-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 16",
+    "recipe_id": "Non-biohacker-016",
+    "recipe": "avocado quinoa brekkie bowl",
+    "map to food list": [
+      "quinoa",
+      "egg",
+      "avocado",
+      "corn",
+      "tomato"
+    ],
+    "map to food id": [
+      "FOOD-054",
+      "FOOD-038",
+      "FOOD-025",
+      "FOOD-124",
+      "FOOD-082"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/34-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 17",
+    "recipe_id": "Non-biohacker-017",
+    "recipe": "baked ricotta with avocado and tomatoes dressing",
+    "map to food list": [
+      "cheese",
+      "avocado",
+      "tomato",
+      "bread"
+    ],
+    "map to food id": [
+      "FOOD-020",
+      "FOOD-025",
+      "FOOD-082",
+      "FOOD-142"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/35-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 18",
+    "recipe_id": "Non-biohacker-018",
+    "recipe": "green eggs and ham wraps",
+    "map to food list": [
+      "tortilla",
+      "pork",
+      "egg",
+      "arugula"
+    ],
+    "map to food id": [
+      "FOOD-143",
+      "FOOD-097",
+      "FOOD-038",
+      "FOOD-067"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/36-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Breakfast idea 19",
+    "recipe_id": "Non-biohacker-019",
+    "recipe": "spicy avocado toasted muffin with shaved ham and spinach",
+    "map to food list": [
+      "bread",
+      "avocado",
+      "pork",
+      "spinach",
+      "tomato"
+    ],
+    "map to food id": [
+      "FOOD-142",
+      "FOOD-025",
+      "FOOD-097",
+      "FOOD-061",
+      "FOOD-082"
+    ],
+    "recommender": "high fat and high protein",
+    "URL": [
+      "https://www.taste.com.au/quick-easy/galleries/37-protein-packed-breakfast-ideas/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Lunch idea 1",
+    "recipe_id": "Non-biohacker-020",
+    "recipe": "Chicken Quesadilla",
+    "map to food list": [
+      "chicken",
+      "cheese",
+      "tortilla",
+      "avocado",
+      "tomato"
+    ],
+    "map to food id": [
+      "FOOD-040",
+      "FOOD-020",
+      "FOOD-143",
+      "FOOD-025",
+      "FOOD-082"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/easyrecipes/comments/1hvofnv/what_are_people_eating_at_lunchtime_on_a_work_day/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Lunch idea 2",
+    "recipe_id": "Non-biohacker-021",
+    "recipe": "Chicken Rice Bowl",
+    "map to food list": [
+      "chicken",
+      "white rice",
+      "green beans",
+      "broccoli",
+      "cabbage",
+      "lime"
+    ],
+    "map to food id": [
+      "FOOD-040",
+      "FOOD-084",
+      "FOOD-161",
+      "FOOD-009",
+      "FOOD-011",
+      "FOOD-004"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/easyrecipes/comments/2hvofnv/what_are_people_eating_at_lunchtime_on_a_work_day/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Lunch idea 3",
+    "recipe_id": "Non-biohacker-022",
+    "recipe": "Butter Steak Bites",
+    "map to food list": [
+      "beef",
+      "butter"
+    ],
+    "map to food id": [
+      "FOOD-042",
+      "FOOD-101"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/easyrecipes/comments/3hvofnv/what_are_people_eating_at_lunchtime_on_a_work_day/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Lunch idea 4",
+    "recipe_id": "Non-biohacker-023",
+    "recipe": "Big Bowl of Chickpea Salad",
+    "map to food list": [
+      "chickpeas",
+      "broccoli",
+      "cabbage",
+      "spinach"
+    ],
+    "map to food id": [
+      "FOOD-049",
+      "FOOD-009",
+      "FOOD-011",
+      "FOOD-061"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/easyrecipes/comments/4hvofnv/what_are_people_eating_at_lunchtime_on_a_work_day/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Lunch idea 5",
+    "recipe_id": "Non-biohacker-024",
+    "recipe": "quick chicken wrap",
+    "map to food list": [
+      "tortilla",
+      "chicken",
+      "lettuce",
+      "tomato"
+    ],
+    "map to food id": [
+      "FOOD-143",
+      "FOOD-040",
+      "FOOD-063",
+      "FOOD-082"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/easyrecipes/comments/5hvofnv/what_are_people_eating_at_lunchtime_on_a_work_day/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Lunch idea 6",
+    "recipe_id": "Non-biohacker-025",
+    "recipe": "Taco-style Meat and Bean Burrito",
+    "map to food list": [
+      "tortilla",
+      "white rice",
+      "beans",
+      "cheese",
+      "chicken"
+    ],
+    "map to food id": [
+      "FOOD-143",
+      "FOOD-084",
+      "FOOD-050",
+      "FOOD-020",
+      "FOOD-040"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/easyrecipes/comments/6hvofnv/what_are_people_eating_at_lunchtime_on_a_work_day/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Lunch idea 7",
+    "recipe_id": "Non-biohacker-026",
+    "recipe": "hummus and veggie wrap",
+    "map to food list": [
+      "tortilla",
+      "hummus",
+      "bell pepper",
+      "mushrooms",
+      "lettuce",
+      "tomato",
+      "onion"
+    ],
+    "map to food id": [
+      "FOOD-143",
+      "FOOD-145",
+      "FOOD-008",
+      "FOOD-127",
+      "FOOD-063",
+      "FOOD-082",
+      "FOOD-121"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/easyrecipes/comments/7hvofnv/what_are_people_eating_at_lunchtime_on_a_work_day/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Lunch idea 8",
+    "recipe_id": "Non-biohacker-027",
+    "recipe": "steak lunch",
+    "map to food list": [
+      "beef",
+      "broccoli"
+    ],
+    "map to food id": [
+      "FOOD-042",
+      "FOOD-009"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/easyrecipes/comments/8hvofnv/what_are_people_eating_at_lunchtime_on_a_work_day/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Lunch idea 9",
+    "recipe_id": "Non-biohacker-028",
+    "recipe": "peanut butter and apple sauce",
+    "map to food list": [
+      "whole wheat bread",
+      "peanut butter",
+      "apple sauce"
+    ],
+    "map to food id": [
+      "FOOD-057",
+      "FOOD-035",
+      "FOOD-162"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/easyrecipes/comments/9hvofnv/what_are_people_eating_at_lunchtime_on_a_work_day/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Lunch idea 10",
+    "recipe_id": "Non-biohacker-029",
+    "recipe": "sardine rice and greens bowl",
+    "map to food list": [
+      "sardines with bones",
+      "white rice",
+      "beans",
+      "spinach"
+    ],
+    "map to food id": [
+      "FOOD-113",
+      "FOOD-084",
+      "FOOD-050",
+      "FOOD-061"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/easyrecipes/comments/10hvofnv/what_are_people_eating_at_lunchtime_on_a_work_day/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Lunch idea 11",
+    "recipe_id": "Non-biohacker-030",
+    "recipe": "fries and chicken wings",
+    "map to food list": [
+      "French fries",
+      "chicken"
+    ],
+    "map to food id": [
+      "FOOD-086",
+      "FOOD-040"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/easyrecipes/comments/11hvofnv/what_are_people_eating_at_lunchtime_on_a_work_day/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Lunch idea 12",
+    "recipe_id": "Non-biohacker-043",
+    "recipe": "dal and rice platter",
+    "map to food list": [
+      "white rice",
+      "lentils",
+      "baked potato",
+      "eggplant",
+      "egg",
+      "lime"
+    ],
+    "map to food id": [
+      "FOOD-084",
+      "FOOD-048",
+      "FOOD-085",
+      "FOOD-146",
+      "FOOD-038",
+      "FOOD-004"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/easyrecipes/comments/12hvofnv/what_are_people_eating_at_lunchtime_on_a_work_day/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Dinner idea 1",
+    "recipe_id": "Non-biohacker-031",
+    "recipe": "Pure Pan-seared Steak",
+    "map to food list": [
+      "beef"
+    ],
+    "map to food id": [
+      "FOOD-042"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/healthycuisine/comments/1sla91e/my_dinner/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Dinner idea 2",
+    "recipe_id": "Non-biohacker-032",
+    "recipe": "fries with meat and tomatoes",
+    "map to food list": [
+      "French fries",
+      "tofu",
+      "cucumber",
+      "tomato",
+      "ketchup"
+    ],
+    "map to food id": [
+      "FOOD-086",
+      "FOOD-045",
+      "FOOD-123",
+      "FOOD-082",
+      "FOOD-147"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/DinnerTonight/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Dinner idea 3",
+    "recipe_id": "Non-biohacker-033",
+    "recipe": "baked olive and cheese french bread",
+    "map to food list": [
+      "bread",
+      "cheese",
+      "olive",
+      "zucchini"
+    ],
+    "map to food id": [
+      "FOOD-142",
+      "FOOD-020",
+      "FOOD-027",
+      "FOOD-125"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/DinnerTonight/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Dinner idea 4",
+    "recipe_id": "Non-biohacker-034",
+    "recipe": "Halal Chicken and Rice Power Bowl",
+    "map to food list": [
+      "white rice",
+      "chicken",
+      "beans",
+      "lettuce",
+      "tomato",
+      "onion",
+      "hot sauce",
+      "garlic sauce"
+    ],
+    "map to food id": [
+      "FOOD-084",
+      "FOOD-040",
+      "FOOD-050",
+      "FOOD-063",
+      "FOOD-082",
+      "FOOD-121",
+      "FOOD-148",
+      "FOOD-149"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/DinnerTonight/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Dinner idea 5",
+    "recipe_id": "Non-biohacker-035",
+    "recipe": "Baked chicken thigh with rice and bread",
+    "map to food list": [
+      "white rice",
+      "chicken thigh",
+      "cucumber",
+      "tomato",
+      "salsa"
+    ],
+    "map to food id": [
+      "FOOD-084",
+      "FOOD-108",
+      "FOOD-123",
+      "FOOD-082",
+      "FOOD-159"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/DinnerTonight/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Dinner idea 6",
+    "recipe_id": "Non-biohacker-036",
+    "recipe": "Creamy Shrimp Pasta and Ribeye",
+    "map to food list": [
+      "beef",
+      "seafood",
+      "white pasta",
+      "heavy cream",
+      "butter",
+      "bread"
+    ],
+    "map to food id": [
+      "FOOD-042",
+      "FOOD-044",
+      "FOOD-091",
+      "FOOD-103",
+      "FOOD-101",
+      "FOOD-142"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/DinnerTonight/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Dinner idea 7",
+    "recipe_id": "Non-biohacker-037",
+    "recipe": "Fried chicken instant ramen",
+    "map to food list": [
+      "ramen",
+      "chicken",
+      "garlic"
+    ],
+    "map to food id": [
+      "FOOD-156",
+      "FOOD-040",
+      "FOOD-157"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/DinnerTonight/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Dinner idea 8",
+    "recipe_id": "Non-biohacker-038",
+    "recipe": "Roast Chicken with Wild Rice Mushroom Pilaf",
+    "map to food list": [
+      "brown rice",
+      "mushrooms",
+      "chicken",
+      "lemon"
+    ],
+    "map to food id": [
+      "FOOD-055",
+      "FOOD-127",
+      "FOOD-040",
+      "FOOD-003"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/DinnerTonight/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Dinner idea 9",
+    "recipe_id": "Non-biohacker-039",
+    "recipe": "Fried Chicken with Pesto Penne and Salad",
+    "map to food list": [
+      "white pasta",
+      "pesto",
+      "chicken",
+      "tomato",
+      "lettuce",
+      "yellow mustard"
+    ],
+    "map to food id": [
+      "FOOD-091",
+      "FOOD-152",
+      "FOOD-040",
+      "FOOD-082",
+      "FOOD-063",
+      "FOOD-154"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/DinnerTonight/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Dinner idea 10",
+    "recipe_id": "Non-biohacker-040",
+    "recipe": "Pork Loin Chop with Baked Potato and Veg",
+    "map to food list": [
+      "pork",
+      "baked potato",
+      "heavy cream",
+      "broccoli",
+      "cauliflower"
+    ],
+    "map to food id": [
+      "FOOD-097",
+      "FOOD-085",
+      "FOOD-103",
+      "FOOD-009",
+      "FOOD-013"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/DinnerTonight/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Dinner idea 11",
+    "recipe_id": "Non-biohacker-041",
+    "recipe": "Savoury Rice and Chicken Fillets",
+    "map to food list": [
+      "white rice",
+      "chicken"
+    ],
+    "map to food id": [
+      "FOOD-084",
+      "FOOD-040"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/DinnerTonight/"
+    ],
+    "Note": "non-biohacker"
+  },
+  {
+    "time": "Dinner idea 12",
+    "recipe_id": "Non-biohacker-042",
+    "recipe": "Sweet Fire Chicken",
+    "map to food list": [
+      "white rice",
+      "chicken",
+      "pineapple",
+      "bell pepper",
+      "onion",
+      "sweet sauce"
+    ],
+    "map to food id": [
+      "FOOD-084",
+      "FOOD-040",
+      "FOOD-098",
+      "FOOD-008",
+      "FOOD-121",
+      "FOOD-155"
+    ],
+    "recommender": null,
+    "URL": [
+      "https://www.reddit.com/r/DinnerTonight/"
+    ],
+    "Note": "non-biohacker"
+  }
+]
