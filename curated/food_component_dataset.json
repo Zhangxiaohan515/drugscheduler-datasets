@@ -4026,5 +4026,29 @@
     "source_url": [
       "https://fdc.nal.usda.gov/"
     ]
-  }
+  },
+  {
+  "component_id": "FOODC_PROTEIN",
+  "component_name": "High-protein meal",
+  "food_id": "FOOD-036",
+  "food_name": "salmon",
+  "food_category": "protein, seafood, healthy fat",
+  "Notes": "dietary; biohacker",
+  "source_url": [
+    "https://fdc.nal.usda.gov/",
+    "https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/"
+  ]
+},
+{
+  "component_id": "FOODC_PROTEIN",
+  "component_name": "High-protein meal",
+  "food_id": "FOOD-112",
+  "food_name": "canned salmon with bones",
+  "food_category": "protein, seafood, canned fish with bones",
+  "Notes": "dietary; biohacker",
+  "source_url": [
+    "https://fdc.nal.usda.gov/",
+    "https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/"
+  ]
+}
 ]
