@@ -234,22 +234,22 @@
     "ingredient_name": "Cobalamin, Vitamin B12"
   },
   {
-      "mechanism_id": "MID-B12",
-      "mechanism_name": "Cobalamin / Vitamin B12 family",
-      "ingredient_id": "ING-002",
-      "ingredient_name": "Methylcobalamin, Vitamin B12"
+    "mechanism_id": "MID-B12",
+    "mechanism_name": "Cobalamin / Vitamin B12 family",
+    "ingredient_id": "ING-002",
+    "ingredient_name": "Methylcobalamin, Vitamin B12"
   },
   {
-      "mechanism_id": "MID-B12",
-      "mechanism_name": "Cobalamin / Vitamin B12 family",
-      "ingredient_id": "ING-309",
-      "ingredient_name": "Cyanocobalamin, Vitamin B12"
+    "mechanism_id": "MID-B12",
+    "mechanism_name": "Cobalamin / Vitamin B12 family",
+    "ingredient_id": "ING-309",
+    "ingredient_name": "Cyanocobalamin, Vitamin B12"
   },
   {
-      "mechanism_id": "MID-B12",
-      "mechanism_name": "Cobalamin / Vitamin B12 family",
-      "ingredient_id": "ING-351",
-      "ingredient_name": "Hydroxocobalamin, Vitamin B12"
+    "mechanism_id": "MID-B12",
+    "mechanism_name": "Cobalamin / Vitamin B12 family",
+    "ingredient_id": "ING-351",
+    "ingredient_name": "Hydroxocobalamin, Vitamin B12"
   },
   {
     "mechanism_id": "MID-B6",
@@ -1176,10 +1176,10 @@
     "ingredient_name": "Secoisolariciresinol diglucosider lignan"
   },
   {
-  "mechanism_id": "MID-BACILLUS-COAGULANS",
-  "mechanism_name": "Bacillus coagulans / Weizmannia coagulans protein-digestion probiotic",
-  "ingredient_id": "ING-382",
-  "ingredient_name": "Bacillus coagulans (SNZ-1969 or IDCC1201)"
+    "mechanism_id": "MID-BACILLUS-COAGULANS",
+    "mechanism_name": "Bacillus coagulans / Weizmannia coagulans protein-digestion probiotic",
+    "ingredient_id": "ING-382",
+    "ingredient_name": "Bacillus coagulans (SNZ-1969 or IDCC1201)"
   },
   {
     "mechanism_id": "MID-PROBIOTIC-GENERAL",
@@ -1193,7 +1193,7 @@
     "ingredient_id": "ING-223",
     "ingredient_name": "lactic acid bacteria"
   },
-{
+  {
     "mechanism_id": "MID-PROBIOTIC-GENERAL",
     "mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
     "ingredient_id": "ING-446",
@@ -2500,7 +2500,7 @@
     "mechanism_name": "Phenylalanine",
     "ingredient_id": "ING-414",
     "ingredient_name": "DL-Phenylalanine"
-  }, 
+  },
   {
     "mechanism_id": "MID-METHIONINE",
     "mechanism_name": "Methionine",
@@ -2526,130 +2526,130 @@
     "ingredient_name": "Atorvastatin"
   },
   {
-      "mechanism_id": "MID-COLLAGEN",
-      "mechanism_name": "Collagen peptides",
-      "ingredient_id": "ING-378",
-      "ingredient_name": "Hydrolyzed Bovine Hide Collagen Peptides"
+    "mechanism_id": "MID-COLLAGEN",
+    "mechanism_name": "Collagen peptides",
+    "ingredient_id": "ING-378",
+    "ingredient_name": "Hydrolyzed Bovine Hide Collagen Peptides"
   },
   {
-      "mechanism_id": "MID-COLLAGEN",
-      "mechanism_name": "Collagen peptides",
-      "ingredient_id": "ING-379",
-      "ingredient_name": "Fermented Eggshell Membrane Collagen"
+    "mechanism_id": "MID-COLLAGEN",
+    "mechanism_name": "Collagen peptides",
+    "ingredient_id": "ING-379",
+    "ingredient_name": "Fermented Eggshell Membrane Collagen"
   },
   {
-      "mechanism_id": "MID-COLLAGEN",
-      "mechanism_name": "Collagen peptides",
-      "ingredient_id": "ING-380",
-      "ingredient_name": "Chicken Bone Broth Protein Concentrate"
+    "mechanism_id": "MID-COLLAGEN",
+    "mechanism_name": "Collagen peptides",
+    "ingredient_id": "ING-380",
+    "ingredient_name": "Chicken Bone Broth Protein Concentrate"
   },
   {
-      "mechanism_id": "MID-COLLAGEN",
-      "mechanism_name": "Collagen peptides",
-      "ingredient_id": "ING-381",
-      "ingredient_name": "Hydrolyzed Fish Collagen Peptides"
+    "mechanism_id": "MID-COLLAGEN",
+    "mechanism_name": "Collagen peptides",
+    "ingredient_id": "ING-381",
+    "ingredient_name": "Hydrolyzed Fish Collagen Peptides"
   },
   {
-      "mechanism_id": "MID-COLLAGEN",
-      "mechanism_name": "Collagen peptides",
-      "ingredient_id": "ING-424",
-      "ingredient_name": "Marine Collagen"
+    "mechanism_id": "MID-COLLAGEN",
+    "mechanism_name": "Collagen peptides",
+    "ingredient_id": "ING-424",
+    "ingredient_name": "Marine Collagen"
   },
   {
-      "mechanism_id": "MID-COLLAGEN",
-      "mechanism_name": "Collagen peptides",
-      "ingredient_id": "ING-425",
-      "ingredient_name": "Hydrolyzed Chicken Collagen"
+    "mechanism_id": "MID-COLLAGEN",
+    "mechanism_name": "Collagen peptides",
+    "ingredient_id": "ING-425",
+    "ingredient_name": "Hydrolyzed Chicken Collagen"
   },
   {
-      "mechanism_id": "MID-COLLAGEN",
-      "mechanism_name": "Collagen peptides",
-      "ingredient_id": "ING-426",
-      "ingredient_name": "Beef Bone Broth"
+    "mechanism_id": "MID-COLLAGEN",
+    "mechanism_name": "Collagen peptides",
+    "ingredient_id": "ING-426",
+    "ingredient_name": "Beef Bone Broth"
   },
   {
-      "mechanism_id": "MID-COLLAGEN",
-      "mechanism_name": "Collagen peptides",
-      "ingredient_id": "ING-427",
-      "ingredient_name": "Eggshell Membrane"
+    "mechanism_id": "MID-COLLAGEN",
+    "mechanism_name": "Collagen peptides",
+    "ingredient_id": "ING-427",
+    "ingredient_name": "Eggshell Membrane"
   },
   {
-      "mechanism_id": "MID-PROBIOTIC-STRAIN",
-      "mechanism_name": "Specific probiotic strain/species",
-      "ingredient_id": "ING-382",
-      "ingredient_name": "Bacillus coagulans (SNZ-1969 or IDCC1201)"
+    "mechanism_id": "MID-PROBIOTIC-STRAIN",
+    "mechanism_name": "Specific probiotic strain/species",
+    "ingredient_id": "ING-382",
+    "ingredient_name": "Bacillus coagulans (SNZ-1969 or IDCC1201)"
   },
   {
-      "mechanism_id": "MID-PROBIOTIC-GENERAL",
-      "mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
-      "ingredient_id": "ING-382",
-      "ingredient_name": "Bacillus coagulans (SNZ-1969 or IDCC1201)"
+    "mechanism_id": "MID-PROBIOTIC-GENERAL",
+    "mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+    "ingredient_id": "ING-382",
+    "ingredient_name": "Bacillus coagulans (SNZ-1969 or IDCC1201)"
   },
   {
-      "mechanism_id": "MID-CA",
-      "mechanism_name": "Calcium",
-      "ingredient_id": "ING-383",
-      "ingredient_name": "Calcium citrate"
+    "mechanism_id": "MID-CA",
+    "mechanism_name": "Calcium",
+    "ingredient_id": "ING-383",
+    "ingredient_name": "Calcium citrate"
   },
   {
-      "mechanism_id": "MID-ANTHOCYANINS",
-      "mechanism_name": "Anthocyanins (generic polyphenol pool)",
-      "ingredient_id": "ING-384",
-      "ingredient_name": "acai berry"
+    "mechanism_id": "MID-ANTHOCYANINS",
+    "mechanism_name": "Anthocyanins (generic polyphenol pool)",
+    "ingredient_id": "ING-384",
+    "ingredient_name": "acai berry"
   },
   {
-      "mechanism_id": "MID-FOOD-MATRIX-POWDER",
-      "mechanism_name": "Whole food / fruit-vegetable powder matrix",
-      "ingredient_id": "ING-384",
-      "ingredient_name": "acai berry"
+    "mechanism_id": "MID-FOOD-MATRIX-POWDER",
+    "mechanism_name": "Whole food / fruit-vegetable powder matrix",
+    "ingredient_id": "ING-384",
+    "ingredient_name": "acai berry"
   },
   {
-      "mechanism_id": "MID-ASCORBATE",
-      "mechanism_name": "Ascorbate / Vitamin C",
-      "ingredient_id": "ING-385",
-      "ingredient_name": "acerola fruit"
+    "mechanism_id": "MID-ASCORBATE",
+    "mechanism_name": "Ascorbate / Vitamin C",
+    "ingredient_id": "ING-385",
+    "ingredient_name": "acerola fruit"
   },
   {
-      "mechanism_id": "MID-FOOD-MATRIX-POWDER",
-      "mechanism_name": "Whole food / fruit-vegetable powder matrix",
-      "ingredient_id": "ING-385",
-      "ingredient_name": "acerola fruit"
+    "mechanism_id": "MID-FOOD-MATRIX-POWDER",
+    "mechanism_name": "Whole food / fruit-vegetable powder matrix",
+    "ingredient_id": "ING-385",
+    "ingredient_name": "acerola fruit"
   },
   {
-      "mechanism_id": "MID-CHAMOMILE",
-      "mechanism_name": "Chamomile extract / Matricaria chamomilla flavonoid matrix",
-      "ingredient_id": "ING-386",
-      "ingredient_name": "Chamomile extract"
+    "mechanism_id": "MID-CHAMOMILE",
+    "mechanism_name": "Chamomile extract / Matricaria chamomilla flavonoid matrix",
+    "ingredient_id": "ING-386",
+    "ingredient_name": "Chamomile extract"
   },
   {
-      "mechanism_id": "MID-APIGENIN",
-      "mechanism_name": "Apigenin",
-      "ingredient_id": "ING-386",
-      "ingredient_name": "Chamomile extract"
+    "mechanism_id": "MID-APIGENIN",
+    "mechanism_name": "Apigenin",
+    "ingredient_id": "ING-386",
+    "ingredient_name": "Chamomile extract"
   },
   {
-      "mechanism_id": "MID-PYCNOGENOL",
-      "mechanism_name": "Pycnogenol / French maritime pine bark procyanidin extract",
-      "ingredient_id": "ING-387",
-      "ingredient_name": "Pycnogenol extract"
+    "mechanism_id": "MID-PYCNOGENOL",
+    "mechanism_name": "Pycnogenol / French maritime pine bark procyanidin extract",
+    "ingredient_id": "ING-387",
+    "ingredient_name": "Pycnogenol extract"
   },
   {
-      "mechanism_id": "MID-MALATE",
-      "mechanism_name": "Malate / malic acid",
-      "ingredient_id": "ING-388",
-      "ingredient_name": "Malic Acid"
+    "mechanism_id": "MID-MALATE",
+    "mechanism_name": "Malate / malic acid",
+    "ingredient_id": "ING-388",
+    "ingredient_name": "Malic Acid"
   },
   {
-      "mechanism_id": "MID-OXALOACETATE",
-      "mechanism_name": "Oxaloacetate",
-      "ingredient_id": "ING-389",
-      "ingredient_name": "Oxaloacetate"
+    "mechanism_id": "MID-OXALOACETATE",
+    "mechanism_name": "Oxaloacetate",
+    "ingredient_id": "ING-389",
+    "ingredient_name": "Oxaloacetate"
   },
   {
-      "mechanism_id": "MID-D-RIBOSE",
-      "mechanism_name": "D-ribose / ribose phosphate precursor",
-      "ingredient_id": "ING-390",
-      "ingredient_name": "D-Ribose Powder"
+    "mechanism_id": "MID-D-RIBOSE",
+    "mechanism_name": "D-ribose / ribose phosphate precursor",
+    "ingredient_id": "ING-390",
+    "ingredient_name": "D-Ribose Powder"
   },
   {
     "mechanism_id": "MID-RACETAM-CLASS",
@@ -2699,22 +2699,604 @@
     "ingredient_id": "ING-413",
     "ingredient_name": "Yohimbine"
   },
-{
-  "mechanism_id": "MID-ADSORBENT-BINDER",
-  "mechanism_name": "Adsorbent binder / activated charcoal or clay",
-  "ingredient_id": "ING-396",
-  "ingredient_name": "Activated Charcoal"
-},
-{
-  "mechanism_id": "MID-ADSORBENT-BINDER",
-  "mechanism_name": "Adsorbent binder / activated charcoal or clay",
-  "ingredient_id": "ING-421",
-  "ingredient_name": "Bentonite Clay"
-},
-{
-  "mechanism_id": "MID-PSYLLIUM",
-  "mechanism_name": "Psyllium husk soluble fiber",
-  "ingredient_id": "ING-394",
-  "ingredient_name": "Psyllium Husk"
-}
+  {
+    "mechanism_id": "MID-ADSORBENT-BINDER",
+    "mechanism_name": "Adsorbent binder / activated charcoal or clay",
+    "ingredient_id": "ING-396",
+    "ingredient_name": "Activated Charcoal"
+  },
+  {
+    "mechanism_id": "MID-ADSORBENT-BINDER",
+    "mechanism_name": "Adsorbent binder / activated charcoal or clay",
+    "ingredient_id": "ING-421",
+    "ingredient_name": "Bentonite Clay"
+  },
+  {
+    "mechanism_id": "MID-PSYLLIUM",
+    "mechanism_name": "Psyllium husk soluble fiber",
+    "ingredient_id": "ING-394",
+    "ingredient_name": "Psyllium Husk"
+  },
+  {
+    "mechanism_id": "MID-NIGELLA-THYMOQUINONE",
+    "mechanism_name": "Black cumin seed / Nigella sativa thymoquinone",
+    "ingredient_id": "ING-461",
+    "ingredient_name": "Black Cumin Seed Oil"
+  },
+  {
+    "mechanism_id": "MID-SPM",
+    "mechanism_name": "Specialized pro-resolving mediators (SPMs)",
+    "ingredient_id": "ING-462",
+    "ingredient_name": "Pro-resolving mediators (SPMs)"
+  },
+  {
+    "mechanism_id": "MID-OLIVE-POLYPHENOLS",
+    "mechanism_name": "Olive fruit polyphenols / hydroxytyrosol-rich extract",
+    "ingredient_id": "ING-463",
+    "ingredient_name": "Olive Fruit Extract / Olive polyphenols"
+  },
+  {
+    "mechanism_id": "MID-BETA-GLUCAN",
+    "mechanism_name": "Beta-glucan",
+    "ingredient_id": "ING-464",
+    "ingredient_name": "BetaVia M Complete (microalgal beta-1,3-glucan)"
+  },
+  {
+    "mechanism_id": "MID-SERINE",
+    "mechanism_name": "Serine",
+    "ingredient_id": "ING-465",
+    "ingredient_name": "L-serine"
+  },
+  {
+    "mechanism_id": "MID-CURCUMINOIDS",
+    "mechanism_name": "Curcumin / curcuminoids",
+    "ingredient_id": "ING-466",
+    "ingredient_name": "Turmeric root extract / Curcuma longa"
+  },
+  {
+    "mechanism_id": "MID-TURMERIC-VOLATILE-OILS",
+    "mechanism_name": "Turmeric volatile oils",
+    "ingredient_id": "ING-467",
+    "ingredient_name": "Turmeric volatile oils"
+  },
+  {
+    "mechanism_id": "MID-TURMERIN",
+    "mechanism_name": "Turmerin protein fraction",
+    "ingredient_id": "ING-468",
+    "ingredient_name": "Turmerin protein"
+  },
+  {
+    "mechanism_id": "MID-XOS",
+    "mechanism_name": "Xylo-oligosaccharides / XOS prebiotic fiber",
+    "ingredient_id": "ING-469",
+    "ingredient_name": "Xylo-oligosaccharides (XOS)"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-GENERAL",
+    "mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+    "ingredient_id": "ING-470",
+    "ingredient_name": "Pediococcus acidilactici"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-STRAIN",
+    "mechanism_name": "Specific probiotic strain/species",
+    "ingredient_id": "ING-470",
+    "ingredient_name": "Pediococcus acidilactici"
+  },
+  {
+    "mechanism_id": "MID-LICORICE",
+    "mechanism_name": "Licorice root glycyrrhizin/flavonoid matrix",
+    "ingredient_id": "ING-471",
+    "ingredient_name": "Licorice root extract"
+  },
+  {
+    "mechanism_id": "MID-ANISE",
+    "mechanism_name": "Anise seed extract",
+    "ingredient_id": "ING-472",
+    "ingredient_name": "Anise seed extract"
+  },
+  {
+    "mechanism_id": "MID-FENNEL",
+    "mechanism_name": "Fennel seed extract",
+    "ingredient_id": "ING-473",
+    "ingredient_name": "Fennel seed extract"
+  },
+  {
+    "mechanism_id": "MID-THYME",
+    "mechanism_name": "Thyme polyphenol / volatile oil extract",
+    "ingredient_id": "ING-474",
+    "ingredient_name": "Thyme Leaf Extract"
+  },
+  {
+    "mechanism_id": "MID-CLOVE",
+    "mechanism_name": "Clove eugenol/polyphenol extract",
+    "ingredient_id": "ING-475",
+    "ingredient_name": "Clove extract"
+  },
+  {
+    "mechanism_id": "MID-BLACK-WALNUT",
+    "mechanism_name": "Black walnut hull extract",
+    "ingredient_id": "ING-476",
+    "ingredient_name": "Black walnut hull extract"
+  },
+  {
+    "mechanism_id": "MID-WORMWOOD",
+    "mechanism_name": "Wormwood / Artemisia bitter herb extract",
+    "ingredient_id": "ING-477",
+    "ingredient_name": "Wormwood herb extract / Artemisia"
+  },
+  {
+    "mechanism_id": "MID-PAU-DARCO",
+    "mechanism_name": "Pau d'Arco bark extract",
+    "ingredient_id": "ING-478",
+    "ingredient_name": "Pau d'Arco bark extract"
+  },
+  {
+    "mechanism_id": "MID-LACTOFERRIN",
+    "mechanism_name": "Lactoferrin",
+    "ingredient_id": "ING-479",
+    "ingredient_name": "Lactoferrin"
+  },
+  {
+    "mechanism_id": "MID-BOVINE-LIVER",
+    "mechanism_name": "Bovine liver nutrient matrix",
+    "ingredient_id": "ING-480",
+    "ingredient_name": "American Grass-Fed Liver (Bovine)"
+  },
+  {
+    "mechanism_id": "MID-ASTRAGIN",
+    "mechanism_name": "AstraGin absorption-enhancer blend",
+    "ingredient_id": "ING-481",
+    "ingredient_name": "AstraGin"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-GENERAL",
+    "mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+    "ingredient_id": "ING-482",
+    "ingredient_name": "Bifidobacterium longum ES1 (CECT 7347)"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-STRAIN",
+    "mechanism_name": "Specific probiotic strain/species",
+    "ingredient_id": "ING-482",
+    "ingredient_name": "Bifidobacterium longum ES1 (CECT 7347)"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-GENERAL",
+    "mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+    "ingredient_id": "ING-483",
+    "ingredient_name": "Bifidobacterium lactis BPL1 (CECT 8145)"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-STRAIN",
+    "mechanism_name": "Specific probiotic strain/species",
+    "ingredient_id": "ING-483",
+    "ingredient_name": "Bifidobacterium lactis BPL1 (CECT 8145)"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-GENERAL",
+    "mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+    "ingredient_id": "ING-484",
+    "ingredient_name": "Lactobacillus rhamnosus (CECT 8361)"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-STRAIN",
+    "mechanism_name": "Specific probiotic strain/species",
+    "ingredient_id": "ING-484",
+    "ingredient_name": "Lactobacillus rhamnosus (CECT 8361)"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-GENERAL",
+    "mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+    "ingredient_id": "ING-485",
+    "ingredient_name": "Lactobacillus rhamnosus (CNCM I-4036)"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-STRAIN",
+    "mechanism_name": "Specific probiotic strain/species",
+    "ingredient_id": "ING-485",
+    "ingredient_name": "Lactobacillus rhamnosus (CNCM I-4036)"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-GENERAL",
+    "mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+    "ingredient_id": "ING-486",
+    "ingredient_name": "Lactobacillus casei (CECT 9104)"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-STRAIN",
+    "mechanism_name": "Specific probiotic strain/species",
+    "ingredient_id": "ING-486",
+    "ingredient_name": "Lactobacillus casei (CECT 9104)"
+  },
+  {
+    "mechanism_id": "MID-PEA-PALMITOYLETHANOLAMIDE",
+    "mechanism_name": "Palmitoylethanolamide (PEA)",
+    "ingredient_id": "ING-487",
+    "ingredient_name": "Palmitoylethanolamide (PEA)"
+  },
+  {
+    "mechanism_id": "MID-MCHC",
+    "mechanism_name": "Microcrystalline hydroxyapatite concentrate",
+    "ingredient_id": "ING-488",
+    "ingredient_name": "Microcrystalline hydroxyapatite concentrate (MCHC)"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-GENERAL",
+    "mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+    "ingredient_id": "ING-489",
+    "ingredient_name": "Bacillus indicus, HU36"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-STRAIN",
+    "mechanism_name": "Specific probiotic strain/species",
+    "ingredient_id": "ING-489",
+    "ingredient_name": "Bacillus indicus, HU36"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-GENERAL",
+    "mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+    "ingredient_id": "ING-490",
+    "ingredient_name": "Bacillus subtilis, HU58"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-STRAIN",
+    "mechanism_name": "Specific probiotic strain/species",
+    "ingredient_id": "ING-490",
+    "ingredient_name": "Bacillus subtilis, HU58"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-GENERAL",
+    "mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+    "ingredient_id": "ING-491",
+    "ingredient_name": "Bacillus coagulans, SC-208"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-STRAIN",
+    "mechanism_name": "Specific probiotic strain/species",
+    "ingredient_id": "ING-491",
+    "ingredient_name": "Bacillus coagulans, SC-208"
+  },
+  {
+    "mechanism_id": "MID-BACILLUS-COAGULANS",
+    "mechanism_name": "Bacillus coagulans / Weizmannia coagulans protein-digestion probiotic",
+    "ingredient_id": "ING-491",
+    "ingredient_name": "Bacillus coagulans, SC-208"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-GENERAL",
+    "mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+    "ingredient_id": "ING-492",
+    "ingredient_name": "Bacillus licheniformis, SL-307"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-STRAIN",
+    "mechanism_name": "Specific probiotic strain/species",
+    "ingredient_id": "ING-492",
+    "ingredient_name": "Bacillus licheniformis, SL-307"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-GENERAL",
+    "mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+    "ingredient_id": "ING-493",
+    "ingredient_name": "Bacillus clausii, SC-109"
+  },
+  {
+    "mechanism_id": "MID-PROBIOTIC-STRAIN",
+    "mechanism_name": "Specific probiotic strain/species",
+    "ingredient_id": "ING-493",
+    "ingredient_name": "Bacillus clausii, SC-109"
+  },
+  {
+    "mechanism_id": "MID-SILICON",
+    "mechanism_name": "Silicon",
+    "ingredient_id": "ING-494",
+    "ingredient_name": "Silicon"
+  },
+  {
+    "mechanism_id": "MID-NICKEL",
+    "mechanism_name": "Nickel",
+    "ingredient_id": "ING-495",
+    "ingredient_name": "Nickel"
+  },
+  {
+    "mechanism_id": "MID-STRONTIUM",
+    "mechanism_name": "Strontium",
+    "ingredient_id": "ING-496",
+    "ingredient_name": "Strontium"
+  },
+  {
+    "mechanism_id": "MID-STRONTIUM",
+    "mechanism_name": "Strontium",
+    "ingredient_id": "ING-497",
+    "ingredient_name": "Strontium citrate"
+  },
+  {
+    "mechanism_id": "MID-HOLY-BASIL",
+    "mechanism_name": "Holy basil / Tulsi",
+    "ingredient_id": "ING-499",
+    "ingredient_name": "Holy Basil / Tulsi"
+  },
+  {
+    "mechanism_id": "MID-GOTU-KOLA",
+    "mechanism_name": "Gotu Kola triterpenes",
+    "ingredient_id": "ING-500",
+    "ingredient_name": "Gotu Kola extract"
+  },
+  {
+    "mechanism_id": "MID-D2",
+    "mechanism_name": "Ergocalciferol / Vitamin D2",
+    "ingredient_id": "ING-501",
+    "ingredient_name": "Ergocalciferol, Vitamin D2"
+  },
+  {
+    "mechanism_id": "MID-FOOD-MATRIX-POWDER",
+    "mechanism_name": "Whole food / fruit-vegetable powder matrix",
+    "ingredient_id": "ING-502",
+    "ingredient_name": "Organic Fruit & Veggie Blend (Organic Cauliflower, Organic Spinach, Organic Carrot, Organic Beet, Organic Tomato, Organic Blueberry, Organic Cranberry, Organic Cherry, Organic Raspberry and Organic Strawberry)"
+  },
+  {
+    "mechanism_id": "MID-ECHINACEA",
+    "mechanism_name": "Echinacea purpurea extract",
+    "ingredient_id": "ING-503",
+    "ingredient_name": "Echinacea purpurea extract"
+  },
+  {
+    "mechanism_id": "MID-COFFEA-ARABICA",
+    "mechanism_name": "Coffea arabica extract",
+    "ingredient_id": "ING-504",
+    "ingredient_name": "Coffea arabica extract"
+  },
+  {
+    "mechanism_id": "MID-ARTICHOKE",
+    "mechanism_name": "Artichoke leaf extract (cynarin / cholagogue)",
+    "ingredient_id": "ING-505",
+    "ingredient_name": "Artichoke extract (Cynara scolymus)"
+  },
+  {
+    "mechanism_id": "MID-ALFALFA",
+    "mechanism_name": "Alfalfa extract",
+    "ingredient_id": "ING-507",
+    "ingredient_name": "Alfalfa extract"
+  },
+  {
+    "mechanism_id": "MID-BURDOCK",
+    "mechanism_name": "Burdock root extract",
+    "ingredient_id": "ING-508",
+    "ingredient_name": "Burdock root extract"
+  },
+  {
+    "mechanism_id": "MID-CELERY-SEED",
+    "mechanism_name": "Celery seed extract",
+    "ingredient_id": "ING-509",
+    "ingredient_name": "Celery seed extract"
+  },
+  {
+    "mechanism_id": "MID-INULIN",
+    "mechanism_name": "Inulin / chicory inulin",
+    "ingredient_id": "ING-510",
+    "ingredient_name": "Chicory (Cichorium intybus)"
+  },
+  {
+    "mechanism_id": "MID-FEVERFEW",
+    "mechanism_name": "Feverfew parthenolide matrix",
+    "ingredient_id": "ING-511",
+    "ingredient_name": "Feverfew extract"
+  },
+  {
+    "mechanism_id": "MID-GINGER",
+    "mechanism_name": "Ginger root",
+    "ingredient_id": "ING-512",
+    "ingredient_name": "Ginger (Zingiber officinale)"
+  },
+  {
+    "mechanism_id": "MID-JUJUBE",
+    "mechanism_name": "Jujube extract",
+    "ingredient_id": "ING-513",
+    "ingredient_name": "Jujube extract"
+  },
+  {
+    "mechanism_id": "MID-YARROW",
+    "mechanism_name": "Yarrow extract",
+    "ingredient_id": "ING-514",
+    "ingredient_name": "Yarrow extract"
+  },
+  {
+    "mechanism_id": "MID-YELLOW-DOCK",
+    "mechanism_name": "Yellow dock extract",
+    "ingredient_id": "ING-515",
+    "ingredient_name": "Yellow Dock extract"
+  },
+  {
+    "mechanism_id": "MID-TUDCA",
+    "mechanism_name": "Tauroursodeoxycholic acid / TUDCA",
+    "ingredient_id": "ING-516",
+    "ingredient_name": "Tauroursodeoxycholic Acid (TUDCA)"
+  },
+  {
+    "mechanism_id": "MID-ARTICHOKE",
+    "mechanism_name": "Artichoke leaf extract (cynarin / cholagogue)",
+    "ingredient_id": "ING-517",
+    "ingredient_name": "Artichoke (Cynara scolymus)"
+  },
+  {
+    "mechanism_id": "MID-CHANCAPIEDRA",
+    "mechanism_name": "Chanca piedra extract",
+    "ingredient_id": "ING-518",
+    "ingredient_name": "Chanca Piedra extract"
+  },
+  {
+    "mechanism_id": "MID-DANDELION",
+    "mechanism_name": "Dandelion root/leaf extract",
+    "ingredient_id": "ING-519",
+    "ingredient_name": "Dandelion root/leaf extract"
+  },
+  {
+    "mechanism_id": "MID-PIPERINE",
+    "mechanism_name": "Piperine",
+    "ingredient_id": "ING-520",
+    "ingredient_name": "Black Pepper (Piper nigrum)"
+  },
+  {
+    "mechanism_id": "MID-SHILAJIT",
+    "mechanism_name": "Shilajit / fulvic acid complex",
+    "ingredient_id": "ING-521",
+    "ingredient_name": "PrimaVie Shilajit Fulvic Acid Complex"
+  },
+  {
+    "mechanism_id": "MID-BERGAMOT-POLYPHENOLS",
+    "mechanism_name": "Bergamot polyphenols / phytosome",
+    "ingredient_id": "ING-522",
+    "ingredient_name": "Bergamot Phytosome"
+  },
+  {
+    "mechanism_id": "MID-GINSENG-GINSENOSIDES",
+    "mechanism_name": "Ginseng ginsenosides",
+    "ingredient_id": "ING-523",
+    "ingredient_name": "American Ginseng Root Extract Panax quinquefolius"
+  },
+  {
+    "mechanism_id": "MID-ELEUTHERO",
+    "mechanism_name": "Eleutherococcus senticosus extract",
+    "ingredient_id": "ING-524",
+    "ingredient_name": "Eleutherococcus senticosus root extract"
+  },
+  {
+    "mechanism_id": "MID-OLIVE-POLYPHENOLS",
+    "mechanism_name": "Olive fruit polyphenols / hydroxytyrosol-rich extract",
+    "ingredient_id": "ING-525",
+    "ingredient_name": "Olive extract"
+  },
+  {
+    "mechanism_id": "MID-CLA",
+    "mechanism_name": "Conjugated linoleic acid",
+    "ingredient_id": "ING-526",
+    "ingredient_name": "Conjugated Linoleic Acid (CLA)"
+  },
+  {
+    "mechanism_id": "MID-POSTBIOTIC",
+    "mechanism_name": "Postbiotic / Slimbiotics",
+    "ingredient_id": "ING-527",
+    "ingredient_name": "Slimbiotics Postbiotic"
+  },
+  {
+    "mechanism_id": "MID-BOVINE-BONE-MARROW",
+    "mechanism_name": "Bovine bone marrow nutrient matrix",
+    "ingredient_id": "ING-528",
+    "ingredient_name": "Bovine bone marrow"
+  },
+  {
+    "mechanism_id": "MID-BOVINE-SUET",
+    "mechanism_name": "Bovine suet lipid matrix",
+    "ingredient_id": "ING-529",
+    "ingredient_name": "Bovine suet"
+  },
+  {
+    "mechanism_id": "MID-PROTEIN-UNSPECIFIED",
+    "mechanism_name": "Protein (unspecified)",
+    "ingredient_id": "ING-530",
+    "ingredient_name": "Protein (unspecified)"
+  },
+  {
+    "mechanism_id": "MID-VITE",
+    "mechanism_name": "Alpha-tocopherol / Vitamin E",
+    "ingredient_id": "ING-531",
+    "ingredient_name": "Vitamin E Isomers"
+  },
+  {
+    "mechanism_id": "MID-FULVIC-ACID",
+    "mechanism_name": "Fulvic Acid",
+    "ingredient_id": "ING-440",
+    "ingredient_name": "Fulvic Acid"
+  },
+  {
+    "mechanism_id": "MID-BOSWELLIA",
+    "mechanism_name": "Boswellia",
+    "ingredient_id": "ING-441",
+    "ingredient_name": "Boswellia"
+  },
+  {
+    "mechanism_id": "MID-CHERRY-POWDER",
+    "mechanism_name": "Cherry Powder",
+    "ingredient_id": "ING-445",
+    "ingredient_name": "Cherry Powder"
+  },
+  {
+    "mechanism_id": "MID-BEEF-HEART",
+    "mechanism_name": "Beef Heart",
+    "ingredient_id": "ING-453",
+    "ingredient_name": "Beef Heart"
+  },
+  {
+    "mechanism_id": "MID-BEEF-KIDNEY",
+    "mechanism_name": "Beef Kidney",
+    "ingredient_id": "ING-454",
+    "ingredient_name": "Beef Kidney"
+  },
+  {
+    "mechanism_id": "MID-BEEF-PANCREAS",
+    "mechanism_name": "Beef Pancreas",
+    "ingredient_id": "ING-455",
+    "ingredient_name": "Beef Pancreas"
+  },
+  {
+    "mechanism_id": "MID-BEEF-SPLEEN",
+    "mechanism_name": "Beef Spleen",
+    "ingredient_id": "ING-456",
+    "ingredient_name": "Beef Spleen"
+  },
+  {
+    "mechanism_id": "MID-TERMINALIA-CHEBULA",
+    "mechanism_name": "Terminalia chebula",
+    "ingredient_id": "ING-457",
+    "ingredient_name": "Terminalia chebula"
+  },
+  {
+    "mechanism_id": "MID-CELASTRUS-PANICULATUS",
+    "mechanism_name": "Celastrus paniculatus",
+    "ingredient_id": "ING-458",
+    "ingredient_name": "Celastrus paniculatus"
+  },
+  {
+    "mechanism_id": "MID-GYMNEMA",
+    "mechanism_name": "Gymnema",
+    "ingredient_id": "ING-459",
+    "ingredient_name": "Gymnema"
+  },
+  {
+    "mechanism_id": "MID-FENUGREEK",
+    "mechanism_name": "Fenugreek",
+    "ingredient_id": "ING-460",
+    "ingredient_name": "Fenugreek"
+  },
+  {
+    "mechanism_id": "MID-BOTANICAL-ANTIMICROBIAL",
+    "mechanism_name": "Concentrated antimicrobial botanical extracts",
+    "ingredient_id": "ING-475",
+    "ingredient_name": "Clove extract"
+  },
+  {
+    "mechanism_id": "MID-BOTANICAL-ANTIMICROBIAL",
+    "mechanism_name": "Concentrated antimicrobial botanical extracts",
+    "ingredient_id": "ING-474",
+    "ingredient_name": "Thyme Leaf Extract"
+  },
+  {
+    "mechanism_id": "MID-BOTANICAL-ANTIMICROBIAL",
+    "mechanism_name": "Concentrated antimicrobial botanical extracts",
+    "ingredient_id": "ING-476",
+    "ingredient_name": "Black walnut hull extract"
+  },
+  {
+    "mechanism_id": "MID-BOTANICAL-ANTIMICROBIAL",
+    "mechanism_name": "Concentrated antimicrobial botanical extracts",
+    "ingredient_id": "ING-477",
+    "ingredient_name": "Wormwood herb extract / Artemisia"
+  },
+  {
+    "mechanism_id": "MID-BOTANICAL-ANTIMICROBIAL",
+    "mechanism_name": "Concentrated antimicrobial botanical extracts",
+    "ingredient_id": "ING-478",
+    "ingredient_name": "Pau d'Arco bark extract"
+  }
 ]
