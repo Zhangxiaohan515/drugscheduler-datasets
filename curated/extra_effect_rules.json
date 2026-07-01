@@ -225,38 +225,6 @@
     "If undefined, then features. Different cases description.": null
   },
   {
-    "effect_rule_id": "EFF162",
-    "ingredient_pair_id": "ING-305 * ING-031",
-    "ingredient_pair_name": "Zinc picolinate * Copper",
-    "ingredient_A_id": "ING-305",
-    "ingredient_A_name": "Zinc picolinate",
-    "ingredient_B_id": "ING-031",
-    "ingredient_B_name": "Copper",
-    "polarity": "negative",
-    "evidence_text": "High zinc intake is associated with copper-deficiency-related outcomes such as anemia, neutropenia, and neurologic problems, particularly with chronic high-dose zinc supplementation without copper co-supplementation.",
-    "Confidence": "medium",
-    "source_url": [
-      "https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/"
-    ],
-    "If undefined, then features. Different cases description.": null
-  },
-  {
-    "effect_rule_id": "EFF163",
-    "ingredient_pair_id": "ING-304 * ING-031",
-    "ingredient_pair_name": "Zinc citrate * Copper",
-    "ingredient_A_id": "ING-304",
-    "ingredient_A_name": "Zinc citrate",
-    "ingredient_B_id": "ING-031",
-    "ingredient_B_name": "Copper",
-    "polarity": "negative",
-    "evidence_text": "High zinc intake is associated with copper-deficiency-related outcomes such as anemia, neutropenia, and neurologic problems, particularly with chronic high-dose zinc supplementation without copper co-supplementation.",
-    "Confidence": "medium",
-    "source_url": [
-      "https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/"
-    ],
-    "If undefined, then features. Different cases description.": null
-  },
-  {
     "effect_rule_id": "EFF016",
     "ingredient_pair_id": "ING-038 * ING-153",
     "ingredient_pair_name": "Ascorbic acid, Vitamin C * Iron",
@@ -3381,6 +3349,38 @@
     }
   },
   {
+    "effect_rule_id": "EFF162",
+    "ingredient_pair_id": "ING-305 * ING-031",
+    "ingredient_pair_name": "Zinc picolinate * Copper",
+    "ingredient_A_id": "ING-305",
+    "ingredient_A_name": "Zinc picolinate",
+    "ingredient_B_id": "ING-031",
+    "ingredient_B_name": "Copper",
+    "polarity": "negative",
+    "evidence_text": "High zinc intake is associated with copper-deficiency-related outcomes such as anemia, neutropenia, and neurologic problems, particularly with chronic high-dose zinc supplementation without copper co-supplementation.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF163",
+    "ingredient_pair_id": "ING-304 * ING-031",
+    "ingredient_pair_name": "Zinc citrate * Copper",
+    "ingredient_A_id": "ING-304",
+    "ingredient_A_name": "Zinc citrate",
+    "ingredient_B_id": "ING-031",
+    "ingredient_B_name": "Copper",
+    "polarity": "negative",
+    "evidence_text": "High zinc intake is associated with copper-deficiency-related outcomes such as anemia, neutropenia, and neurologic problems, particularly with chronic high-dose zinc supplementation without copper co-supplementation.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
     "effect_rule_id": "EFF164",
     "ingredient_pair_id": "ING-377 * ING-025",
     "ingredient_pair_name": "Atorvastatin * Coenzyme Q10 / Ubiquinone",
@@ -4114,7 +4114,7 @@
     ],
     "If undefined, then features. Different cases description.": null
   },
- {
+  {
     "effect_rule_id": "EFF208",
     "ingredient_pair_id": "ING-410 * ING-273",
     "ingredient_pair_name": "Kava * Trazodone",
@@ -4300,5 +4300,801 @@
       "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/nattokinase"
     ],
     "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF219",
+    "ingredient_pair_id": "ING-470 * ING-469",
+    "ingredient_pair_name": "Pediococcus acidilactici * Xylo-oligosaccharides (XOS)",
+    "ingredient_A_id": "ING-470",
+    "ingredient_A_name": "Pediococcus acidilactici",
+    "ingredient_B_id": "ING-469",
+    "ingredient_B_name": "Xylo-oligosaccharides (XOS)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF221",
+    "ingredient_pair_id": "ING-470 * ING-510",
+    "ingredient_pair_name": "Pediococcus acidilactici * Chicory (Cichorium intybus)",
+    "ingredient_A_id": "ING-470",
+    "ingredient_A_name": "Pediococcus acidilactici",
+    "ingredient_B_id": "ING-510",
+    "ingredient_B_name": "Chicory (Cichorium intybus)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF222",
+    "ingredient_pair_id": "ING-470 * ING-464",
+    "ingredient_pair_name": "Pediococcus acidilactici * BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "ingredient_A_id": "ING-470",
+    "ingredient_A_name": "Pediococcus acidilactici",
+    "ingredient_B_id": "ING-464",
+    "ingredient_B_name": "BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF223",
+    "ingredient_pair_id": "ING-482 * ING-469",
+    "ingredient_pair_name": "Bifidobacterium longum ES1 (CECT 7347) * Xylo-oligosaccharides (XOS)",
+    "ingredient_A_id": "ING-482",
+    "ingredient_A_name": "Bifidobacterium longum ES1 (CECT 7347)",
+    "ingredient_B_id": "ING-469",
+    "ingredient_B_name": "Xylo-oligosaccharides (XOS)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF225",
+    "ingredient_pair_id": "ING-482 * ING-510",
+    "ingredient_pair_name": "Bifidobacterium longum ES1 (CECT 7347) * Chicory (Cichorium intybus)",
+    "ingredient_A_id": "ING-482",
+    "ingredient_A_name": "Bifidobacterium longum ES1 (CECT 7347)",
+    "ingredient_B_id": "ING-510",
+    "ingredient_B_name": "Chicory (Cichorium intybus)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF226",
+    "ingredient_pair_id": "ING-482 * ING-464",
+    "ingredient_pair_name": "Bifidobacterium longum ES1 (CECT 7347) * BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "ingredient_A_id": "ING-482",
+    "ingredient_A_name": "Bifidobacterium longum ES1 (CECT 7347)",
+    "ingredient_B_id": "ING-464",
+    "ingredient_B_name": "BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF227",
+    "ingredient_pair_id": "ING-483 * ING-469",
+    "ingredient_pair_name": "Bifidobacterium lactis BPL1 (CECT 8145) * Xylo-oligosaccharides (XOS)",
+    "ingredient_A_id": "ING-483",
+    "ingredient_A_name": "Bifidobacterium lactis BPL1 (CECT 8145)",
+    "ingredient_B_id": "ING-469",
+    "ingredient_B_name": "Xylo-oligosaccharides (XOS)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF229",
+    "ingredient_pair_id": "ING-483 * ING-510",
+    "ingredient_pair_name": "Bifidobacterium lactis BPL1 (CECT 8145) * Chicory (Cichorium intybus)",
+    "ingredient_A_id": "ING-483",
+    "ingredient_A_name": "Bifidobacterium lactis BPL1 (CECT 8145)",
+    "ingredient_B_id": "ING-510",
+    "ingredient_B_name": "Chicory (Cichorium intybus)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF230",
+    "ingredient_pair_id": "ING-483 * ING-464",
+    "ingredient_pair_name": "Bifidobacterium lactis BPL1 (CECT 8145) * BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "ingredient_A_id": "ING-483",
+    "ingredient_A_name": "Bifidobacterium lactis BPL1 (CECT 8145)",
+    "ingredient_B_id": "ING-464",
+    "ingredient_B_name": "BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF231",
+    "ingredient_pair_id": "ING-484 * ING-469",
+    "ingredient_pair_name": "Lactobacillus rhamnosus (CECT 8361) * Xylo-oligosaccharides (XOS)",
+    "ingredient_A_id": "ING-484",
+    "ingredient_A_name": "Lactobacillus rhamnosus (CECT 8361)",
+    "ingredient_B_id": "ING-469",
+    "ingredient_B_name": "Xylo-oligosaccharides (XOS)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF233",
+    "ingredient_pair_id": "ING-484 * ING-510",
+    "ingredient_pair_name": "Lactobacillus rhamnosus (CECT 8361) * Chicory (Cichorium intybus)",
+    "ingredient_A_id": "ING-484",
+    "ingredient_A_name": "Lactobacillus rhamnosus (CECT 8361)",
+    "ingredient_B_id": "ING-510",
+    "ingredient_B_name": "Chicory (Cichorium intybus)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF234",
+    "ingredient_pair_id": "ING-484 * ING-464",
+    "ingredient_pair_name": "Lactobacillus rhamnosus (CECT 8361) * BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "ingredient_A_id": "ING-484",
+    "ingredient_A_name": "Lactobacillus rhamnosus (CECT 8361)",
+    "ingredient_B_id": "ING-464",
+    "ingredient_B_name": "BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF235",
+    "ingredient_pair_id": "ING-485 * ING-469",
+    "ingredient_pair_name": "Lactobacillus rhamnosus (CNCM I-4036) * Xylo-oligosaccharides (XOS)",
+    "ingredient_A_id": "ING-485",
+    "ingredient_A_name": "Lactobacillus rhamnosus (CNCM I-4036)",
+    "ingredient_B_id": "ING-469",
+    "ingredient_B_name": "Xylo-oligosaccharides (XOS)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF237",
+    "ingredient_pair_id": "ING-485 * ING-510",
+    "ingredient_pair_name": "Lactobacillus rhamnosus (CNCM I-4036) * Chicory (Cichorium intybus)",
+    "ingredient_A_id": "ING-485",
+    "ingredient_A_name": "Lactobacillus rhamnosus (CNCM I-4036)",
+    "ingredient_B_id": "ING-510",
+    "ingredient_B_name": "Chicory (Cichorium intybus)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF238",
+    "ingredient_pair_id": "ING-485 * ING-464",
+    "ingredient_pair_name": "Lactobacillus rhamnosus (CNCM I-4036) * BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "ingredient_A_id": "ING-485",
+    "ingredient_A_name": "Lactobacillus rhamnosus (CNCM I-4036)",
+    "ingredient_B_id": "ING-464",
+    "ingredient_B_name": "BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF239",
+    "ingredient_pair_id": "ING-486 * ING-469",
+    "ingredient_pair_name": "Lactobacillus casei (CECT 9104) * Xylo-oligosaccharides (XOS)",
+    "ingredient_A_id": "ING-486",
+    "ingredient_A_name": "Lactobacillus casei (CECT 9104)",
+    "ingredient_B_id": "ING-469",
+    "ingredient_B_name": "Xylo-oligosaccharides (XOS)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF241",
+    "ingredient_pair_id": "ING-486 * ING-510",
+    "ingredient_pair_name": "Lactobacillus casei (CECT 9104) * Chicory (Cichorium intybus)",
+    "ingredient_A_id": "ING-486",
+    "ingredient_A_name": "Lactobacillus casei (CECT 9104)",
+    "ingredient_B_id": "ING-510",
+    "ingredient_B_name": "Chicory (Cichorium intybus)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF242",
+    "ingredient_pair_id": "ING-486 * ING-464",
+    "ingredient_pair_name": "Lactobacillus casei (CECT 9104) * BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "ingredient_A_id": "ING-486",
+    "ingredient_A_name": "Lactobacillus casei (CECT 9104)",
+    "ingredient_B_id": "ING-464",
+    "ingredient_B_name": "BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF243",
+    "ingredient_pair_id": "ING-489 * ING-469",
+    "ingredient_pair_name": "Bacillus indicus, HU36 * Xylo-oligosaccharides (XOS)",
+    "ingredient_A_id": "ING-489",
+    "ingredient_A_name": "Bacillus indicus, HU36",
+    "ingredient_B_id": "ING-469",
+    "ingredient_B_name": "Xylo-oligosaccharides (XOS)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF245",
+    "ingredient_pair_id": "ING-489 * ING-510",
+    "ingredient_pair_name": "Bacillus indicus, HU36 * Chicory (Cichorium intybus)",
+    "ingredient_A_id": "ING-489",
+    "ingredient_A_name": "Bacillus indicus, HU36",
+    "ingredient_B_id": "ING-510",
+    "ingredient_B_name": "Chicory (Cichorium intybus)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF246",
+    "ingredient_pair_id": "ING-489 * ING-464",
+    "ingredient_pair_name": "Bacillus indicus, HU36 * BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "ingredient_A_id": "ING-489",
+    "ingredient_A_name": "Bacillus indicus, HU36",
+    "ingredient_B_id": "ING-464",
+    "ingredient_B_name": "BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF247",
+    "ingredient_pair_id": "ING-490 * ING-469",
+    "ingredient_pair_name": "Bacillus subtilis, HU58 * Xylo-oligosaccharides (XOS)",
+    "ingredient_A_id": "ING-490",
+    "ingredient_A_name": "Bacillus subtilis, HU58",
+    "ingredient_B_id": "ING-469",
+    "ingredient_B_name": "Xylo-oligosaccharides (XOS)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF249",
+    "ingredient_pair_id": "ING-490 * ING-510",
+    "ingredient_pair_name": "Bacillus subtilis, HU58 * Chicory (Cichorium intybus)",
+    "ingredient_A_id": "ING-490",
+    "ingredient_A_name": "Bacillus subtilis, HU58",
+    "ingredient_B_id": "ING-510",
+    "ingredient_B_name": "Chicory (Cichorium intybus)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF250",
+    "ingredient_pair_id": "ING-490 * ING-464",
+    "ingredient_pair_name": "Bacillus subtilis, HU58 * BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "ingredient_A_id": "ING-490",
+    "ingredient_A_name": "Bacillus subtilis, HU58",
+    "ingredient_B_id": "ING-464",
+    "ingredient_B_name": "BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF251",
+    "ingredient_pair_id": "ING-491 * ING-469",
+    "ingredient_pair_name": "Bacillus coagulans, SC-208 * Xylo-oligosaccharides (XOS)",
+    "ingredient_A_id": "ING-491",
+    "ingredient_A_name": "Bacillus coagulans, SC-208",
+    "ingredient_B_id": "ING-469",
+    "ingredient_B_name": "Xylo-oligosaccharides (XOS)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF253",
+    "ingredient_pair_id": "ING-491 * ING-510",
+    "ingredient_pair_name": "Bacillus coagulans, SC-208 * Chicory (Cichorium intybus)",
+    "ingredient_A_id": "ING-491",
+    "ingredient_A_name": "Bacillus coagulans, SC-208",
+    "ingredient_B_id": "ING-510",
+    "ingredient_B_name": "Chicory (Cichorium intybus)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF254",
+    "ingredient_pair_id": "ING-491 * ING-464",
+    "ingredient_pair_name": "Bacillus coagulans, SC-208 * BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "ingredient_A_id": "ING-491",
+    "ingredient_A_name": "Bacillus coagulans, SC-208",
+    "ingredient_B_id": "ING-464",
+    "ingredient_B_name": "BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF255",
+    "ingredient_pair_id": "ING-492 * ING-469",
+    "ingredient_pair_name": "Bacillus licheniformis, SL-307 * Xylo-oligosaccharides (XOS)",
+    "ingredient_A_id": "ING-492",
+    "ingredient_A_name": "Bacillus licheniformis, SL-307",
+    "ingredient_B_id": "ING-469",
+    "ingredient_B_name": "Xylo-oligosaccharides (XOS)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF257",
+    "ingredient_pair_id": "ING-492 * ING-510",
+    "ingredient_pair_name": "Bacillus licheniformis, SL-307 * Chicory (Cichorium intybus)",
+    "ingredient_A_id": "ING-492",
+    "ingredient_A_name": "Bacillus licheniformis, SL-307",
+    "ingredient_B_id": "ING-510",
+    "ingredient_B_name": "Chicory (Cichorium intybus)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF258",
+    "ingredient_pair_id": "ING-492 * ING-464",
+    "ingredient_pair_name": "Bacillus licheniformis, SL-307 * BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "ingredient_A_id": "ING-492",
+    "ingredient_A_name": "Bacillus licheniformis, SL-307",
+    "ingredient_B_id": "ING-464",
+    "ingredient_B_name": "BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF259",
+    "ingredient_pair_id": "ING-493 * ING-469",
+    "ingredient_pair_name": "Bacillus clausii, SC-109 * Xylo-oligosaccharides (XOS)",
+    "ingredient_A_id": "ING-493",
+    "ingredient_A_name": "Bacillus clausii, SC-109",
+    "ingredient_B_id": "ING-469",
+    "ingredient_B_name": "Xylo-oligosaccharides (XOS)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF261",
+    "ingredient_pair_id": "ING-493 * ING-510",
+    "ingredient_pair_name": "Bacillus clausii, SC-109 * Chicory (Cichorium intybus)",
+    "ingredient_A_id": "ING-493",
+    "ingredient_A_name": "Bacillus clausii, SC-109",
+    "ingredient_B_id": "ING-510",
+    "ingredient_B_name": "Chicory (Cichorium intybus)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF262",
+    "ingredient_pair_id": "ING-493 * ING-464",
+    "ingredient_pair_name": "Bacillus clausii, SC-109 * BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "ingredient_A_id": "ING-493",
+    "ingredient_A_name": "Bacillus clausii, SC-109",
+    "ingredient_B_id": "ING-464",
+    "ingredient_B_name": "BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "polarity": "positive",
+    "evidence_text": "Probiotic plus prebiotic/fiber co-use is a synbiotic-style candidate that may support gut microbiota, inflammatory, or metabolic outcomes; effects are strain-, substrate-, dose-, and tolerance-dependent.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF263",
+    "ingredient_pair_id": "ING-466 * ING-195",
+    "ingredient_pair_name": "Turmeric root extract / Curcuma longa * Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_A_id": "ING-466",
+    "ingredient_A_name": "Turmeric root extract / Curcuma longa",
+    "ingredient_B_id": "ING-195",
+    "ingredient_B_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "polarity": "negative",
+    "evidence_text": "Turmeric/curcumin concentrated extract is treated as a negative bleeding-burden screening candidate with aspirin only in bounded contexts: bleeding-risk users, anticoagulant/antiplatelet users, perioperative users, or high-dose extract use. This rule is not intended to generalize to culinary turmeric or ordinary food exposure.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://www.nccih.nih.gov/health/turmeric"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF264",
+    "ingredient_pair_id": "ING-466 * ING-205",
+    "ingredient_pair_name": "Turmeric root extract / Curcuma longa * Nattokinase",
+    "ingredient_A_id": "ING-466",
+    "ingredient_A_name": "Turmeric root extract / Curcuma longa",
+    "ingredient_B_id": "ING-205",
+    "ingredient_B_name": "Nattokinase",
+    "polarity": "negative",
+    "evidence_text": "This botanical/supplement has antiplatelet, fibrinolytic, or bleeding-risk concern in herb-drug safety logic; co-use with aspirin or nattokinase is a negative bleeding-burden candidate, especially for anticoagulant users, perioperative users, or bleeding-vulnerable users.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.nccih.nih.gov/health/turmeric",
+      "https://www.nccih.nih.gov/health/ginger",
+      "https://pubmed.ncbi.nlm.nih.gov/15277167/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF265",
+    "ingredient_pair_id": "ING-512 * ING-195",
+    "ingredient_pair_name": "Ginger (Zingiber officinale) * Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_A_id": "ING-512",
+    "ingredient_A_name": "Ginger (Zingiber officinale)",
+    "ingredient_B_id": "ING-195",
+    "ingredient_B_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "polarity": "negative",
+    "evidence_text": "This botanical/supplement has antiplatelet, fibrinolytic, or bleeding-risk concern in herb-drug safety logic; co-use with aspirin or nattokinase is a negative bleeding-burden candidate, especially for anticoagulant users, perioperative users, or bleeding-vulnerable users.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.nccih.nih.gov/health/turmeric",
+      "https://www.nccih.nih.gov/health/ginger",
+      "https://pubmed.ncbi.nlm.nih.gov/15277167/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF267",
+    "ingredient_pair_id": "ING-523 * ING-195",
+    "ingredient_pair_name": "American Ginseng Root Extract Panax quinquefolius * Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_A_id": "ING-523",
+    "ingredient_A_name": "American Ginseng Root Extract Panax quinquefolius",
+    "ingredient_B_id": "ING-195",
+    "ingredient_B_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "polarity": "negative",
+    "evidence_text": "American ginseng is treated as a low-medium bleeding-burden screening candidate with aspirin by ginseng-specific safety logic: ginseng sources note possible blood-clotting interference, so relevance is bounded to aspirin/antiplatelet users, perioperative users, and bleeding-vulnerable contexts.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.nccih.nih.gov/health/asian-ginseng",
+      "https://pubmed.ncbi.nlm.nih.gov/15277167/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF269",
+    "ingredient_pair_id": "ING-511 * ING-195",
+    "ingredient_pair_name": "Feverfew extract * Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_A_id": "ING-511",
+    "ingredient_A_name": "Feverfew extract",
+    "ingredient_B_id": "ING-195",
+    "ingredient_B_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "polarity": "negative",
+    "evidence_text": "Feverfew is treated as a low-medium bleeding-burden screening candidate with aspirin: feverfew-specific sources caution about slowed blood clotting and possible additive anticoagulant/antiplatelet effects. Scope is bleeding-risk, perioperative, or antiplatelet/anticoagulant users.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.nccih.nih.gov/health/feverfew",
+      "https://www.mskcc.org/cancer-care/integrative-medicine/herbs/feverfew"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF271",
+    "ingredient_pair_id": "ING-501 * ING-030",
+    "ingredient_pair_name": "Ergocalciferol, Vitamin D2 * Calcium",
+    "ingredient_A_id": "ING-501",
+    "ingredient_A_name": "Ergocalciferol, Vitamin D2",
+    "ingredient_B_id": "ING-030",
+    "ingredient_B_name": "Calcium",
+    "polarity": "positive",
+    "evidence_text": "Vitamin D2 is a vitamin D form; vitamin D plus calcium/magnesium-family adequacy is associated with bone/mineral metabolism support. This candidate inherits D3-family logic but should be reviewed separately for D2-specific handling.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6693398/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF272",
+    "ingredient_pair_id": "ING-501 * ING-383",
+    "ingredient_pair_name": "Ergocalciferol, Vitamin D2 * Calcium citrate",
+    "ingredient_A_id": "ING-501",
+    "ingredient_A_name": "Ergocalciferol, Vitamin D2",
+    "ingredient_B_id": "ING-383",
+    "ingredient_B_name": "Calcium citrate",
+    "polarity": "positive",
+    "evidence_text": "Vitamin D2 is a vitamin D form; vitamin D plus calcium/magnesium-family adequacy is associated with bone/mineral metabolism support. This candidate inherits D3-family logic but should be reviewed separately for D2-specific handling.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6693398/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF273",
+    "ingredient_pair_id": "ING-501 * ING-027",
+    "ingredient_pair_name": "Ergocalciferol, Vitamin D2 * Magnesium glycinate",
+    "ingredient_A_id": "ING-501",
+    "ingredient_A_name": "Ergocalciferol, Vitamin D2",
+    "ingredient_B_id": "ING-027",
+    "ingredient_B_name": "Magnesium glycinate",
+    "polarity": "positive",
+    "evidence_text": "Vitamin D2 is a vitamin D form; vitamin D plus calcium/magnesium-family adequacy is associated with bone/mineral metabolism support. This candidate inherits D3-family logic but should be reviewed separately for D2-specific handling.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6693398/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF274",
+    "ingredient_pair_id": "ING-501 * ING-156",
+    "ingredient_pair_name": "Ergocalciferol, Vitamin D2 * Magnesium citrate",
+    "ingredient_A_id": "ING-501",
+    "ingredient_A_name": "Ergocalciferol, Vitamin D2",
+    "ingredient_B_id": "ING-156",
+    "ingredient_B_name": "Magnesium citrate",
+    "polarity": "positive",
+    "evidence_text": "Vitamin D2 is a vitamin D form; vitamin D plus calcium/magnesium-family adequacy is associated with bone/mineral metabolism support. This candidate inherits D3-family logic but should be reviewed separately for D2-specific handling.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC6693398/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF277",
+    "ingredient_pair_id": "ING-531 * ING-038",
+    "ingredient_pair_name": "Vitamin E Isomers * Ascorbic acid, Vitamin C",
+    "ingredient_A_id": "ING-531",
+    "ingredient_A_name": "Vitamin E Isomers",
+    "ingredient_B_id": "ING-038",
+    "ingredient_B_name": "Ascorbic acid, Vitamin C",
+    "polarity": "positive",
+    "evidence_text": "Vitamin C can regenerate/recycle oxidized vitamin E antioxidant activity; vitamin E isomers should be reviewed for inheritance of vitamin C-vitamin E antioxidant support.",
+    "Confidence": "medium",
+    "source_url": [
+      "https://lpi.oregonstate.edu/mic/vitamins/vitamin-E",
+      "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF278",
+    "ingredient_pair_id": "ING-531 * ING-195",
+    "ingredient_pair_name": "Vitamin E Isomers * Acetylsalicylic Acid, Baby Aspirin",
+    "ingredient_A_id": "ING-531",
+    "ingredient_A_name": "Vitamin E Isomers",
+    "ingredient_B_id": "ING-195",
+    "ingredient_B_name": "Acetylsalicylic Acid, Baby Aspirin",
+    "polarity": "negative",
+    "evidence_text": "High-dose vitamin E isomers are treated as a low-medium bleeding-risk screening candidate with aspirin/antiplatelet therapy. The boundary is high-dose vitamin E exposure, bleeding-vulnerable users, perioperative users, or concurrent anticoagulant/antiplatelet context; ordinary dietary vitamin E is not the intended scope.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.medsafe.govt.nz/profs/PUArticles/June2022/Can-Vitamin-E-cause-bleeding.html"
+    ],
+    "If undefined, then features. Different cases description.": null
+  },
+  {
+    "effect_rule_id": "EFF279",
+    "ingredient_pair_id": "ING-471 * ING-194",
+    "ingredient_pair_name": "Licorice root extract * potassium",
+    "ingredient_A_id": "ING-471",
+    "ingredient_A_name": "Licorice root extract",
+    "ingredient_B_id": "ING-194",
+    "ingredient_B_name": "potassium",
+    "polarity": "undefined",
+    "evidence_text": "Licorice/glycyrrhizin can shift potassium and blood-pressure physiology; potassium co-use is context-dependent rather than a simple positive/negative scheduling pair.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "https://www.nccih.nih.gov/health/licorice-root"
+    ],
+    "If undefined, then features. Different cases description.": "Potentially positive if potassium-rich intake mitigates licorice-associated hypokalemia risk under monitoring; potentially negative or clinically unsafe if licorice is used in hypertensive, renal, diuretic, or electrolyte-vulnerable contexts. Needs human review."
+  },
+  {
+    "effect_rule_id": "EFF280",
+    "ingredient_pair_id": "ING-499 * ING-184",
+    "ingredient_pair_name": "Holy Basil / Tulsi * metformin",
+    "ingredient_A_id": "ING-499",
+    "ingredient_A_name": "Holy Basil / Tulsi",
+    "ingredient_B_id": "ING-184",
+    "ingredient_B_name": "metformin",
+    "polarity": "undefined",
+    "evidence_text": "Holy basil/tulsi may have glucose-lowering metabolic effects in some contexts; combined use with metformin could be beneficial for glycemic outcomes or risky for hypoglycemia-prone/fasting users.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "source_needs_primary_verification"
+    ],
+    "If undefined, then features. Different cases description.": "Conditional positive in insulin-resistant users under monitoring; conditional negative if fasting, low intake, or multi-agent glucose-lowering creates hypoglycemia risk."
+  },
+  {
+    "effect_rule_id": "EFF281",
+    "ingredient_pair_id": "ING-522 * ING-377",
+    "ingredient_pair_name": "Bergamot Phytosome * Atorvastatin",
+    "ingredient_A_id": "ING-522",
+    "ingredient_A_name": "Bergamot Phytosome",
+    "ingredient_B_id": "ING-377",
+    "ingredient_B_name": "Atorvastatin",
+    "polarity": "undefined",
+    "evidence_text": "Bergamot polyphenols and statin therapy may converge on lipid-lowering outcomes. This may be conditionally positive for lipid markers but could be clinically context-dependent in medication users.",
+    "Confidence": "low-medium",
+    "source_url": [
+      "source_needs_primary_verification"
+    ],
+    "If undefined, then features. Different cases description.": "Conditional positive for LDL/lipid outcomes under monitoring; review for medication interaction, tolerability, liver enzyme, and over-treatment contexts."
   }
 ]

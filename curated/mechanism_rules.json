@@ -2835,5 +2835,153 @@
   "evidence_scope": "dietary supplement safety reference / pharmacodynamic stimulant-burden inference",
   "scheduling_implication": "Avoid same-window caffeine and yohimbine, especially in stimulant-heavy schedules.",
   "source_urls":["https://www.opss.org/article/yohimbe-and-yohimbine-dietary-supplement-products"]
+},
+{
+  "rule_id": "MEC-217",
+  "from_id": "MID-XOS",
+  "from_mechanism_name": "Xylo-oligosaccharides / XOS prebiotic fiber",
+  "to_id": "MID-PROBIOTIC-GENERAL",
+  "to_mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+  "directionality": "directional",
+  "polarity": "positive",
+  "strength": "minor",
+  "mechanism_type": "prebiotic oligosaccharide substrate / microbiota support",
+  "evidence_text": "Xylo-oligosaccharides are prebiotic-type oligosaccharides used by gut microbes; same-day or same-window pairing with probiotic organisms is a plausible weak synbiotic support relation.",
+  "evidence_confidence": "medium",
+  "evidence_scope": "prebiotic/synbiotic class evidence; ingredient-specific review accepted by user",
+  "scheduling_implication": "Small positive compatibility rule for probiotic-compatible scheduling; do not overweight.",
+  "source_urls": [
+    "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/"
+  ]
+},
+{
+  "rule_id": "MEC-218",
+  "from_id": "MID-INULIN",
+  "from_mechanism_name": "Inulin / chicory inulin",
+  "to_id": "MID-PROBIOTIC-GENERAL",
+  "to_mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+  "directionality": "directional",
+  "polarity": "positive",
+  "strength": "minor",
+  "mechanism_type": "prebiotic inulin substrate / synbiotic support",
+  "evidence_text": "Inulin and chicory-derived inulin are prebiotic carbohydrates that can be paired with probiotic organisms as synbiotic support; outcome remains strain-, dose-, and tolerance-dependent.",
+  "evidence_confidence": "medium",
+  "evidence_scope": "inulin/probiotic synbiotic evidence inherited from existing extra-effect synbiotic logic",
+  "scheduling_implication": "Small positive same-day support rule; keep minor strength per user review.",
+  "source_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4648921/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9229734/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12086677/"
+  ]
+},
+{
+  "rule_id": "MEC-219",
+  "from_id": "MID-CA",
+  "from_mechanism_name": "Calcium",
+  "to_id": "MID-STRONTIUM",
+  "to_mechanism_name": "Strontium",
+  "directionality": "directional",
+  "polarity": "negative",
+  "strength": "moderate",
+  "mechanism_type": "divalent-cation absorption competition",
+  "evidence_text": "Calcium and strontium are chemically similar divalent cations; high calcium intake can reduce strontium uptake, supporting separation when strontium is intentionally supplemented.",
+  "evidence_confidence": "medium",
+  "evidence_scope": "mineral absorption competition; supplement-dose context",
+  "scheduling_implication": "Separate strontium citrate from calcium-rich meals or calcium supplements when strontium uptake is intended.",
+  "source_urls": [
+    "https://lpi.oregonstate.edu/mic/minerals/calcium"
+  ]
+},
+{
+  "rule_id": "MEC-220",
+  "from_id": "MID-D2",
+  "from_mechanism_name": "Ergocalciferol / Vitamin D2",
+  "to_id": "MID-CA",
+  "to_mechanism_name": "Calcium",
+  "directionality": "directional",
+  "polarity": "positive",
+  "strength": "major",
+  "mechanism_type": "vitamin-D-mediated calcium absorption",
+  "evidence_text": "Vitamin D2 is a vitamin D form; vitamin D promotes intestinal calcium absorption and supports calcium/phosphate homeostasis.",
+  "evidence_confidence": "high",
+  "evidence_scope": "authoritative vitamin D nutrient fact sheet; D2/D3 class inheritance",
+  "scheduling_implication": "Positive calcium co-use support; not necessarily same-minute but same-day or meal context is reasonable.",
+  "source_urls": [
+    "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/"
+  ]
+},
+{
+  "rule_id": "MEC-221",
+  "from_id": "MID-MG",
+  "from_mechanism_name": "Magnesium",
+  "to_id": "MID-D2",
+  "to_mechanism_name": "Ergocalciferol / Vitamin D2",
+  "directionality": "directional",
+  "polarity": "positive",
+  "strength": "moderate",
+  "mechanism_type": "magnesium-dependent vitamin D metabolism cofactor",
+  "evidence_text": "Magnesium supports enzymes involved in vitamin D metabolism. This D2 rule is inherited from the existing magnesium-to-vitamin-D3 processing rule and represents chronic processing support rather than a direct absorption interaction.",
+  "evidence_confidence": "medium",
+  "evidence_scope": "class inheritance from existing MID-MG -> MID-D3 rule; vitamin D metabolism cofactor literature",
+  "scheduling_implication": "Use as chronic processing support, not a hard same-window timing rule.",
+  "source_urls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6693398/"
+  ]
+},
+{
+  "rule_id": "MEC-222",
+  "from_id": "MID-OLIVE-POLYPHENOLS",
+  "from_mechanism_name": "Olive fruit polyphenols / hydroxytyrosol-rich extract",
+  "to_id": "MID-FE",
+  "to_mechanism_name": "Iron",
+  "directionality": "directional",
+  "polarity": "negative",
+  "strength": "minor",
+  "mechanism_type": "concentrated polyphenol-iron complexation / reduced non-heme iron absorption",
+  "evidence_text": "Concentrated olive polyphenol or hydroxytyrosol-rich extracts are polyphenol-dense products; polyphenol/tannin-rich matrices can reduce non-heme iron absorption via complexation. This rule is limited to concentrated olive polyphenol / hydroxytyrosol-rich extract and should not be generalized to olive oil or ordinary olive-containing foods.",
+  "evidence_confidence": "low-medium",
+  "evidence_scope": "polyphenol-class iron absorption evidence; constrained olive-extract extrapolation",
+  "scheduling_implication": "Soft-separate concentrated olive polyphenol or hydroxytyrosol-rich extract from iron supplementation if iron status matters.",
+  "source_urls": [
+    "https://lpi.oregonstate.edu/mic/minerals/iron"
+  ]
+},
+{
+  "rule_id": "MEC-223",
+  "from_id": "MID-BERGAMOT-POLYPHENOLS",
+  "from_mechanism_name": "Bergamot polyphenols / phytosome",
+  "to_id": "MID-FE",
+  "to_mechanism_name": "Iron",
+  "directionality": "directional",
+  "polarity": "negative",
+  "strength": "minor",
+  "mechanism_type": "polyphenol-iron complexation / reduced non-heme iron absorption",
+  "evidence_text": "Bergamot phytosome is a concentrated polyphenol product; class-level polyphenol/tannin logic supports a weak candidate for reduced non-heme iron absorption.",
+  "evidence_confidence": "low",
+  "evidence_scope": "polyphenol-class extrapolation; bergamot-specific timing evidence sparse",
+  "scheduling_implication": "Candidate soft separation from iron; likely low priority unless iron deficiency is relevant.",
+  "source_urls": [
+    "https://lpi.oregonstate.edu/mic/minerals/iron"
+  ]
+},
+{
+  "rule_id": "MEC-224",
+  "from_id": "MID-BOTANICAL-ANTIMICROBIAL",
+  "from_mechanism_name": "Concentrated antimicrobial botanical extracts",
+  "to_id": "MID-PROBIOTIC-GENERAL",
+  "to_mechanism_name": "Gut microbiota / probiotic-general metabolic capacity",
+  "directionality": "directional",
+  "polarity": "negative",
+  "strength": "minor",
+  "mechanism_type": "botanical antimicrobial activity against probiotic organisms",
+  "evidence_text": "Concentrated antimicrobial botanical extracts such as clove, thyme, black walnut hull, wormwood/Artemisia, and pau d'Arco contain antimicrobial-leaning phytochemicals. Because probiotic products depend on live or viability-linked organisms, same-window co-dosing may reduce compatibility. This family rule is limited to concentrated antimicrobial botanical extracts and should not be generalized to ordinary culinary herb exposure.",
+  "evidence_confidence": "low-medium",
+  "evidence_scope": "botanical antimicrobial class extrapolation; family-level consolidation to avoid rule explosion",
+  "scheduling_implication": "Soft-separate concentrated antimicrobial botanical extracts from probiotic products; lower weight than antibiotic or berberine-style rules.",
+  "source_urls": [
+    "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC12011810/"
+  ]
 }
 ]

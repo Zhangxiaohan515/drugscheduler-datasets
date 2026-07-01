@@ -225,7 +225,7 @@
     "target_ingredient_name": "Levothyroxine",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Calcium binds thyroid hormone (levothyroxine and desiccated thyroid) in the gut and markedly reduces absorption, risking treatment failure; guidelines require at least a 4-hour separation.",
     "source_url": [
@@ -241,7 +241,7 @@
     "target_ingredient_name": "Armour Thyroid / desiccated thyroid",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Calcium binds thyroid hormone (levothyroxine and desiccated thyroid) in the gut and markedly reduces absorption, risking treatment failure; guidelines require at least a 4-hour separation.",
     "source_url": [
@@ -622,7 +622,7 @@
     "target_ingredient_name": "Levothyroxine",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Thyroid hormone must be taken on an empty stomach; protein-rich food significantly delays and reduces its absorption, so dosing is separated from meals.",
     "source_url": [
@@ -637,7 +637,7 @@
     "target_ingredient_name": "Armour Thyroid / desiccated thyroid",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Thyroid hormone must be taken on an empty stomach; protein-rich food significantly delays and reduces its absorption, so dosing is separated from meals.",
     "source_url": [
@@ -652,7 +652,7 @@
     "target_ingredient_name": "Mucuna pruriens / L-Dopa",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Dietary protein yields large neutral amino acids that competitively block levodopa transport across the gut and blood-brain barrier, reducing its effect; levodopa is dosed away from protein meals.",
     "source_url": [
@@ -712,7 +712,7 @@
     "target_ingredient_name": "Levothyroxine",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Dietary fiber reduces thyroid hormone (levothyroxine/desiccated thyroid) absorption; because this is narrow-therapeutic-index replacement therapy, the dose is separated from high-fiber meals.",
     "source_url": [
@@ -728,7 +728,7 @@
     "target_ingredient_name": "Armour Thyroid / desiccated thyroid",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Dietary fiber reduces thyroid hormone (levothyroxine/desiccated thyroid) absorption; because this is narrow-therapeutic-index replacement therapy, the dose is separated from high-fiber meals.",
     "source_url": [
@@ -1064,7 +1064,7 @@
     "target_ingredient_name": "Rapamycin / Sirolimus",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Grapefruit furanocoumarins irreversibly inhibit intestinal CYP3A4, sharply raising levels of CYP3A4 substrates such as sirolimus toward toxic concentrations; the combination is avoided.",
     "source_url": [
@@ -1080,7 +1080,7 @@
     "target_ingredient_name": "Monacolin K, Red Yeast Rice",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Red yeast rice contains monacolin K (lovastatin); grapefruit CYP3A4 inhibition can raise its levels several-fold and increase myopathy risk, so co-intake is avoided.",
     "source_url": [
@@ -1096,7 +1096,7 @@
     "target_ingredient_name": "Atorvastatin",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Grapefruit raises atorvastatin exposure by roughly 80% via CYP3A4 inhibition, increasing muscle-toxicity risk; avoidance is advised.",
     "source_url": [
@@ -1111,7 +1111,7 @@
     "target_ingredient_name": "Trazodone",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Trazodone is a CYP3A4 substrate; grapefruit can raise its plasma levels and sedative effect, so concurrent intake is discouraged.",
     "source_url": [
@@ -1358,7 +1358,7 @@
       "https://pmc.ncbi.nlm.nih.gov/articles/PMC8002057/"
     ]
   },
- {
+  {
     "rule_id": "FCIR-119",
     "food_component_id": "FOODC_POLYPHENOL_TANNIN",
     "food_component_name": "Polyphenols / tannins-rich food or drink",
@@ -1366,7 +1366,7 @@
     "target_ingredient_name": "Levothyroxine",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Coffee and polyphenols reduce thyroid hormone absorption (about 25-35% for coffee); because this is narrow-therapeutic-index replacement therapy, dosing is separated from coffee.",
     "source_url": [
@@ -1381,7 +1381,7 @@
     "target_ingredient_name": "Armour Thyroid / desiccated thyroid",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Coffee and polyphenols reduce thyroid hormone absorption (about 25-35% for coffee); because this is narrow-therapeutic-index replacement therapy, dosing is separated from coffee.",
     "source_url": [
@@ -2021,7 +2021,7 @@
     "target_ingredient_name": "Acarbose",
     "polarity": "positive",
     "rule_type": "hard",
-    "score": null,
+    "score": 0.2,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Acarbose should be taken with the first bite of each main meal; its glucose-lowering effect depends on being present with meal carbohydrates in the gut.",
     "source_url": [
@@ -2401,7 +2401,7 @@
     "target_ingredient_name": "metformin",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Alcohol and metformin both raise blood lactate and alcohol blocks lactate clearance, increasing the risk of potentially fatal lactic acidosis; excessive alcohol is contraindicated.",
     "source_url": [
@@ -2417,7 +2417,7 @@
     "target_ingredient_name": "Acetylsalicylic Acid, Baby Aspirin",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Alcohol can increase the risk of stomach bleeding caused by aspirin; classify as a hard avoid rule for aspirin-containing regimens.",
     "source_url": [
@@ -2432,7 +2432,7 @@
     "target_ingredient_name": "Trazodone",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Alcohol increases trazodone nervous-system side effects such as dizziness, drowsiness, and impaired judgment; classify as a hard avoid rule.",
     "source_url": [
@@ -2447,7 +2447,7 @@
     "target_ingredient_name": "Pregabalin",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Alcohol increases pregabalin nervous-system side effects such as dizziness, drowsiness, and impaired judgment; classify as a hard avoid rule.",
     "source_url": [
@@ -3181,7 +3181,7 @@
     "target_ingredient_name": "Methylene blue",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Methylene blue is a potent monoamine-oxidase inhibitor; combined with a tyramine-rich aged/fermented food it blocks tyramine breakdown and can precipitate a hypertensive crisis. This is a hard contraindication-level timing constraint.",
     "source_url": [
@@ -4158,7 +4158,7 @@
     "target_ingredient_name": "Phenibut",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Phenibut is a GABA-B agonist; combined with alcohol it causes potentiated, potentially dangerous CNS and respiratory depression and sedation. Concurrent alcohol intake must be avoided.",
     "source_url": [
@@ -4173,7 +4173,7 @@
     "target_ingredient_name": "Kava",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Kavalactones cause sedation and carry hepatotoxicity risk; alcohol adds to both the CNS depression and the burden on the liver, so the combination is contraindicated.",
     "source_url": [
@@ -4406,7 +4406,7 @@
       "https://www.ncbi.nlm.nih.gov/books/NBK499877/"
     ]
   },
-{
+  {
     "rule_id": "FCIR-354",
     "food_component_id": "FOODC_VITAMIN_C",
     "food_component_name": "Vitamin C / ascorbic acid-rich food",
@@ -4750,7 +4750,7 @@
       "https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/"
     ]
   },
-   {
+  {
     "rule_id": "FCIR-389",
     "food_component_id": "FOODC_GLUCOSINOLATE",
     "food_component_name": "Glucosinolates / cruciferous vegetable bioactives",
@@ -4790,7 +4790,7 @@
     "target_ingredient_name": "velvet bean extract",
     "polarity": "negative",
     "rule_type": "hard",
-    "score": null,
+    "score": -1,
     "parameter_effect": "alpha_adjust",
     "evidence_text": "Dietary protein yields large neutral amino acids that competitively block levodopa transport across the gut and blood-brain barrier, reducing its effect; levodopa is dosed away from protein meals.",
     "source_url": [
@@ -5016,6 +5016,340 @@
     "source_url": [
       "https://www.drugs.com/npp/turmeric.html",
       "https://www.nccih.nih.gov/health/turmeric"
+    ]
+  },
+  {
+    "rule_id": "FCIR-407",
+    "food_component_id": "FOODC_FERMENTED_OR_PROBIOTIC",
+    "food_component_name": "Fermented or probiotic food",
+    "target_ingredient_id": "ING-470",
+    "target_ingredient_name": "Pediococcus acidilactici",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Taking live probiotic organisms with a meal/food matrix may buffer gastric acid and support survival to the gut; use as the same soft food-matrix preference already applied to other probiotic strains.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/probiotics/faq-20058065"
+    ]
+  },
+  {
+    "rule_id": "FCIR-408",
+    "food_component_id": "FOODC_FERMENTED_OR_PROBIOTIC",
+    "food_component_name": "Fermented or probiotic food",
+    "target_ingredient_id": "ING-482",
+    "target_ingredient_name": "Bifidobacterium longum ES1 (CECT 7347)",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Taking live probiotic organisms with a meal/food matrix may buffer gastric acid and support survival to the gut; use as the same soft food-matrix preference already applied to other probiotic strains.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/probiotics/faq-20058065"
+    ]
+  },
+  {
+    "rule_id": "FCIR-409",
+    "food_component_id": "FOODC_FERMENTED_OR_PROBIOTIC",
+    "food_component_name": "Fermented or probiotic food",
+    "target_ingredient_id": "ING-483",
+    "target_ingredient_name": "Bifidobacterium lactis BPL1 (CECT 8145)",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Taking live probiotic organisms with a meal/food matrix may buffer gastric acid and support survival to the gut; use as the same soft food-matrix preference already applied to other probiotic strains.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/probiotics/faq-20058065"
+    ]
+  },
+  {
+    "rule_id": "FCIR-410",
+    "food_component_id": "FOODC_FERMENTED_OR_PROBIOTIC",
+    "food_component_name": "Fermented or probiotic food",
+    "target_ingredient_id": "ING-484",
+    "target_ingredient_name": "Lactobacillus rhamnosus (CECT 8361)",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Taking live probiotic organisms with a meal/food matrix may buffer gastric acid and support survival to the gut; use as the same soft food-matrix preference already applied to other probiotic strains.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/probiotics/faq-20058065"
+    ]
+  },
+  {
+    "rule_id": "FCIR-411",
+    "food_component_id": "FOODC_FERMENTED_OR_PROBIOTIC",
+    "food_component_name": "Fermented or probiotic food",
+    "target_ingredient_id": "ING-485",
+    "target_ingredient_name": "Lactobacillus rhamnosus (CNCM I-4036)",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Taking live probiotic organisms with a meal/food matrix may buffer gastric acid and support survival to the gut; use as the same soft food-matrix preference already applied to other probiotic strains.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/probiotics/faq-20058065"
+    ]
+  },
+  {
+    "rule_id": "FCIR-412",
+    "food_component_id": "FOODC_FERMENTED_OR_PROBIOTIC",
+    "food_component_name": "Fermented or probiotic food",
+    "target_ingredient_id": "ING-486",
+    "target_ingredient_name": "Lactobacillus casei (CECT 9104)",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Taking live probiotic organisms with a meal/food matrix may buffer gastric acid and support survival to the gut; use as the same soft food-matrix preference already applied to other probiotic strains.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/probiotics/faq-20058065"
+    ]
+  },
+  {
+    "rule_id": "FCIR-413",
+    "food_component_id": "FOODC_FERMENTED_OR_PROBIOTIC",
+    "food_component_name": "Fermented or probiotic food",
+    "target_ingredient_id": "ING-489",
+    "target_ingredient_name": "Bacillus indicus, HU36",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Taking live probiotic organisms with a meal/food matrix may buffer gastric acid and support survival to the gut; use as the same soft food-matrix preference already applied to other probiotic strains.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/probiotics/faq-20058065"
+    ]
+  },
+  {
+    "rule_id": "FCIR-414",
+    "food_component_id": "FOODC_FERMENTED_OR_PROBIOTIC",
+    "food_component_name": "Fermented or probiotic food",
+    "target_ingredient_id": "ING-490",
+    "target_ingredient_name": "Bacillus subtilis, HU58",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Taking live probiotic organisms with a meal/food matrix may buffer gastric acid and support survival to the gut; use as the same soft food-matrix preference already applied to other probiotic strains.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/probiotics/faq-20058065"
+    ]
+  },
+  {
+    "rule_id": "FCIR-415",
+    "food_component_id": "FOODC_FERMENTED_OR_PROBIOTIC",
+    "food_component_name": "Fermented or probiotic food",
+    "target_ingredient_id": "ING-491",
+    "target_ingredient_name": "Bacillus coagulans, SC-208",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Taking live probiotic organisms with a meal/food matrix may buffer gastric acid and support survival to the gut; use as the same soft food-matrix preference already applied to other probiotic strains.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/probiotics/faq-20058065"
+    ]
+  },
+  {
+    "rule_id": "FCIR-416",
+    "food_component_id": "FOODC_FERMENTED_OR_PROBIOTIC",
+    "food_component_name": "Fermented or probiotic food",
+    "target_ingredient_id": "ING-492",
+    "target_ingredient_name": "Bacillus licheniformis, SL-307",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Taking live probiotic organisms with a meal/food matrix may buffer gastric acid and support survival to the gut; use as the same soft food-matrix preference already applied to other probiotic strains.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/probiotics/faq-20058065"
+    ]
+  },
+  {
+    "rule_id": "FCIR-417",
+    "food_component_id": "FOODC_FERMENTED_OR_PROBIOTIC",
+    "food_component_name": "Fermented or probiotic food",
+    "target_ingredient_id": "ING-493",
+    "target_ingredient_name": "Bacillus clausii, SC-109",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Taking live probiotic organisms with a meal/food matrix may buffer gastric acid and support survival to the gut; use as the same soft food-matrix preference already applied to other probiotic strains.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/",
+      "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/probiotics/faq-20058065"
+    ]
+  },
+  {
+    "rule_id": "FCIR-418",
+    "food_component_id": "FOODC_FAT",
+    "food_component_name": "Fat-containing",
+    "target_ingredient_id": "ING-462",
+    "target_ingredient_name": "Pro-resolving mediators (SPMs)",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Lipophilic or fat-soluble ingredient candidate: dietary fat stimulates bile release and micelle formation, which can improve absorption of fat-soluble vitamins, lipophilic polyphenols, fatty-acid-derived mediators, or lipid-formulated ingredients. Kept soft because formulation matters.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "https://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals"
+    ]
+  },
+  {
+    "rule_id": "FCIR-419",
+    "food_component_id": "FOODC_FAT",
+    "food_component_name": "Fat-containing",
+    "target_ingredient_id": "ING-466",
+    "target_ingredient_name": "Turmeric root extract / Curcuma longa",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Lipophilic or fat-soluble ingredient candidate: dietary fat stimulates bile release and micelle formation, which can improve absorption of fat-soluble vitamins, lipophilic polyphenols, fatty-acid-derived mediators, or lipid-formulated ingredients. Kept soft because formulation matters.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "https://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals"
+    ]
+  },
+  {
+    "rule_id": "FCIR-420",
+    "food_component_id": "FOODC_FAT",
+    "food_component_name": "Fat-containing",
+    "target_ingredient_id": "ING-467",
+    "target_ingredient_name": "Turmeric volatile oils",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Lipophilic or fat-soluble ingredient candidate: dietary fat stimulates bile release and micelle formation, which can improve absorption of fat-soluble vitamins, lipophilic polyphenols, fatty-acid-derived mediators, or lipid-formulated ingredients. Kept soft because formulation matters.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "https://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals"
+    ]
+  },
+  {
+    "rule_id": "FCIR-421",
+    "food_component_id": "FOODC_FAT",
+    "food_component_name": "Fat-containing",
+    "target_ingredient_id": "ING-487",
+    "target_ingredient_name": "Palmitoylethanolamide (PEA)",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Lipophilic or fat-soluble ingredient candidate: dietary fat stimulates bile release and micelle formation, which can improve absorption of fat-soluble vitamins, lipophilic polyphenols, fatty-acid-derived mediators, or lipid-formulated ingredients. Kept soft because formulation matters.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "https://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals"
+    ]
+  },
+  {
+    "rule_id": "FCIR-422",
+    "food_component_id": "FOODC_FAT",
+    "food_component_name": "Fat-containing",
+    "target_ingredient_id": "ING-501",
+    "target_ingredient_name": "Ergocalciferol, Vitamin D2",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Lipophilic or fat-soluble ingredient candidate: dietary fat stimulates bile release and micelle formation, which can improve absorption of fat-soluble vitamins, lipophilic polyphenols, fatty-acid-derived mediators, or lipid-formulated ingredients. Kept soft because formulation matters.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "https://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals"
+    ]
+  },
+  {
+    "rule_id": "FCIR-423",
+    "food_component_id": "FOODC_FAT",
+    "food_component_name": "Fat-containing",
+    "target_ingredient_id": "ING-522",
+    "target_ingredient_name": "Bergamot Phytosome",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Lipophilic or fat-soluble ingredient candidate: dietary fat stimulates bile release and micelle formation, which can improve absorption of fat-soluble vitamins, lipophilic polyphenols, fatty-acid-derived mediators, or lipid-formulated ingredients. Kept soft because formulation matters.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "https://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals"
+    ]
+  },
+  {
+    "rule_id": "FCIR-424",
+    "food_component_id": "FOODC_FAT",
+    "food_component_name": "Fat-containing",
+    "target_ingredient_id": "ING-526",
+    "target_ingredient_name": "Conjugated Linoleic Acid (CLA)",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Lipophilic or fat-soluble ingredient candidate: dietary fat stimulates bile release and micelle formation, which can improve absorption of fat-soluble vitamins, lipophilic polyphenols, fatty-acid-derived mediators, or lipid-formulated ingredients. Kept soft because formulation matters.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "https://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals"
+    ]
+  },
+  {
+    "rule_id": "FCIR-426",
+    "food_component_id": "FOODC_FAT",
+    "food_component_name": "Fat-containing",
+    "target_ingredient_id": "ING-531",
+    "target_ingredient_name": "Vitamin E Isomers",
+    "polarity": "positive",
+    "rule_type": "soft",
+    "score": 0.2,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Lipophilic or fat-soluble ingredient candidate: dietary fat stimulates bile release and micelle formation, which can improve absorption of fat-soluble vitamins, lipophilic polyphenols, fatty-acid-derived mediators, or lipid-formulated ingredients. Kept soft because formulation matters.",
+    "source_url": [
+      "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+      "https://lpi.oregonstate.edu/mic/dietary-factors/phytochemicals"
+    ]
+  },
+  {
+    "rule_id": "FCIR-428",
+    "food_component_id": "FOODC_CALCIUM",
+    "food_component_name": "Calcium-rich food",
+    "target_ingredient_id": "ING-496",
+    "target_ingredient_name": "Strontium",
+    "polarity": "negative",
+    "rule_type": "soft",
+    "score": -1,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Calcium-rich meals may compete with strontium absorption because calcium and strontium are chemically similar divalent cations; separate if intentional strontium uptake is desired.",
+    "source_url": [
+      "https://lpi.oregonstate.edu/mic/minerals/calcium"
+    ]
+  },
+  {
+    "rule_id": "FCIR-429",
+    "food_component_id": "FOODC_CALCIUM",
+    "food_component_name": "Calcium-rich food",
+    "target_ingredient_id": "ING-497",
+    "target_ingredient_name": "Strontium citrate",
+    "polarity": "negative",
+    "rule_type": "soft",
+    "score": -1,
+    "parameter_effect": "gamma_adjust",
+    "evidence_text": "Calcium-rich meals may compete with strontium absorption because calcium and strontium are chemically similar divalent cations; separate if intentional strontium uptake is desired.",
+    "source_url": [
+      "https://lpi.oregonstate.edu/mic/minerals/calcium"
     ]
   }
 ]

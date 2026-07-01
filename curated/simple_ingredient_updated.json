@@ -2423,5 +2423,345 @@
     "ingredient_id": "ING-461",
     "ingredient_name": "Black Cumin Seed Oil",
     "category/common_names": "Oil(Nigella sativa; thymoquinone; immune)"
+  },
+  {
+    "ingredient_id": "ING-462",
+    "ingredient_name": "Pro-resolving mediators (SPMs)",
+    "category/common_names": "Longevity(fatty-acid-derived; SPMs / pro-resolving mediators)"
+  },
+  {
+    "ingredient_id": "ING-463",
+    "ingredient_name": "Olive Fruit Extract / Olive polyphenols",
+    "category/common_names": "Botanicals(polyphenol; olive fruit extract / hydroxytyrosol-rich)"
+  },
+  {
+    "ingredient_id": "ING-464",
+    "ingredient_name": "BetaVia M Complete (microalgal beta-1,3-glucan)",
+    "category/common_names": "Gut Health(fiber/immune; microalgal beta-glucan)"
+  },
+  {
+    "ingredient_id": "ING-465",
+    "ingredient_name": "L-serine",
+    "category/common_names": "Essential(amino acid; L-serine)"
+  },
+  {
+    "ingredient_id": "ING-466",
+    "ingredient_name": "Turmeric root extract / Curcuma longa",
+    "category/common_names": "Botanicals(turmeric matrix; Curcuma longa root extract)"
+  },
+  {
+    "ingredient_id": "ING-467",
+    "ingredient_name": "Turmeric volatile oils",
+    "category/common_names": "Botanicals(turmeric matrix; volatile oil fraction)"
+  },
+  {
+    "ingredient_id": "ING-468",
+    "ingredient_name": "Turmerin protein",
+    "category/common_names": "Botanicals(turmeric matrix; turmerin protein fraction)"
+  },
+  {
+    "ingredient_id": "ING-469",
+    "ingredient_name": "Xylo-oligosaccharides (XOS)",
+    "category/common_names": "Gut Health"
+  },
+  {
+    "ingredient_id": "ING-470",
+    "ingredient_name": "Pediococcus acidilactici",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-471",
+    "ingredient_name": "Licorice root extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-472",
+    "ingredient_name": "Anise seed extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-473",
+    "ingredient_name": "Fennel seed extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-474",
+    "ingredient_name": "Thyme Leaf Extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-475",
+    "ingredient_name": "Clove extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-476",
+    "ingredient_name": "Black walnut hull extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-477",
+    "ingredient_name": "Wormwood herb extract / Artemisia",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-478",
+    "ingredient_name": "Pau d'Arco bark extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-479",
+    "ingredient_name": "Lactoferrin",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-480",
+    "ingredient_name": "American Grass-Fed Liver (Bovine)",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-481",
+    "ingredient_name": "AstraGin",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-482",
+    "ingredient_name": "Bifidobacterium longum ES1 (CECT 7347)",
+    "category/common_names": "Gut Health"
+  },
+  {
+    "ingredient_id": "ING-483",
+    "ingredient_name": "Bifidobacterium lactis BPL1 (CECT 8145)",
+    "category/common_names": "Gut Health"
+  },
+  {
+    "ingredient_id": "ING-484",
+    "ingredient_name": "Lactobacillus rhamnosus (CECT 8361)",
+    "category/common_names": "Gut Health"
+  },
+  {
+    "ingredient_id": "ING-485",
+    "ingredient_name": "Lactobacillus rhamnosus (CNCM I-4036)",
+    "category/common_names": "Gut Health"
+  },
+  {
+    "ingredient_id": "ING-486",
+    "ingredient_name": "Lactobacillus casei (CECT 9104)",
+    "category/common_names": "Gut Health"
+  },
+  {
+    "ingredient_id": "ING-487",
+    "ingredient_name": "Palmitoylethanolamide (PEA)",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-488",
+    "ingredient_name": "Microcrystalline hydroxyapatite concentrate (MCHC)",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-489",
+    "ingredient_name": "Bacillus indicus, HU36",
+    "category/common_names": "Gut Health"
+  },
+  {
+    "ingredient_id": "ING-490",
+    "ingredient_name": "Bacillus subtilis, HU58",
+    "category/common_names": "Gut Health"
+  },
+  {
+    "ingredient_id": "ING-491",
+    "ingredient_name": "Bacillus coagulans, SC-208",
+    "category/common_names": "Gut Health"
+  },
+  {
+    "ingredient_id": "ING-492",
+    "ingredient_name": "Bacillus licheniformis, SL-307",
+    "category/common_names": "Gut Health"
+  },
+  {
+    "ingredient_id": "ING-493",
+    "ingredient_name": "Bacillus clausii, SC-109",
+    "category/common_names": "Gut Health"
+  },
+  {
+    "ingredient_id": "ING-494",
+    "ingredient_name": "Silicon",
+    "category/common_names": "Essential(mineral/vitamin)"
+  },
+  {
+    "ingredient_id": "ING-495",
+    "ingredient_name": "Nickel",
+    "category/common_names": "Essential(mineral/vitamin;)"
+  },
+  {
+    "ingredient_id": "ING-496",
+    "ingredient_name": "Strontium",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-497",
+    "ingredient_name": "Strontium citrate",
+    "category/common_names": "Essential(mineral/vitamin; )"
+  },
+  {
+    "ingredient_id": "ING-499",
+    "ingredient_name": "Holy Basil / Tulsi",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-500",
+    "ingredient_name": "Gotu Kola extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-501",
+    "ingredient_name": "Ergocalciferol, Vitamin D2",
+    "category/common_names": "Essential(mineral/vitamin)"
+  },
+  {
+    "ingredient_id": "ING-502",
+    "ingredient_name": "Organic Fruit & Veggie Blend (Organic Cauliflower, Organic Spinach, Organic Carrot, Organic Beet, Organic Tomato, Organic Blueberry, Organic Cranberry, Organic Cherry, Organic Raspberry and Organic Strawberry)",
+    "category/common_names": "Longevity"
+  },
+  {
+    "ingredient_id": "ING-503",
+    "ingredient_name": "Echinacea purpurea extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-504",
+    "ingredient_name": "Coffea arabica extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-505",
+    "ingredient_name": "Artichoke extract (Cynara scolymus)",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-507",
+    "ingredient_name": "Alfalfa extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-508",
+    "ingredient_name": "Burdock root extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-509",
+    "ingredient_name": "Celery seed extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-510",
+    "ingredient_name": "Chicory (Cichorium intybus)",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-511",
+    "ingredient_name": "Feverfew extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-512",
+    "ingredient_name": "Ginger (Zingiber officinale)",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-513",
+    "ingredient_name": "Jujube extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-514",
+    "ingredient_name": "Yarrow extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-515",
+    "ingredient_name": "Yellow Dock extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-516",
+    "ingredient_name": "Tauroursodeoxycholic Acid (TUDCA)",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-517",
+    "ingredient_name": "Artichoke (Cynara scolymus)",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-518",
+    "ingredient_name": "Chanca Piedra extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-519",
+    "ingredient_name": "Dandelion root/leaf extract",
+    "category/common_names": "Nootropics"
+  },
+  {
+    "ingredient_id": "ING-520",
+    "ingredient_name": "Black Pepper (Piper nigrum)",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-521",
+    "ingredient_name": "PrimaVie Shilajit Fulvic Acid Complex",
+    "category/common_names": "Longevity"
+  },
+  {
+    "ingredient_id": "ING-522",
+    "ingredient_name": "Bergamot Phytosome",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-523",
+    "ingredient_name": "American Ginseng Root Extract Panax quinquefolius",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-524",
+    "ingredient_name": "Eleutherococcus senticosus root extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-525",
+    "ingredient_name": "Olive extract",
+    "category/common_names": "Botanicals"
+  },
+  {
+    "ingredient_id": "ING-526",
+    "ingredient_name": "Conjugated Linoleic Acid (CLA)",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-527",
+    "ingredient_name": "Slimbiotics Postbiotic",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-528",
+    "ingredient_name": "Bovine bone marrow",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-529",
+    "ingredient_name": "Bovine suet",
+    "category/common_names": "Other"
+  },
+  {
+    "ingredient_id": "ING-530",
+    "ingredient_name": "Protein (unspecified)",
+    "category/common_names": "Performance(protein; unspecified protein source)"
+  },
+  {
+    "ingredient_id": "ING-531",
+    "ingredient_name": "Vitamin E Isomers",
+    "category/common_names": "Essential(mineral/vitamin;)"
   }
 ]
