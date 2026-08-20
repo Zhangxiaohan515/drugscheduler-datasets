@@ -1,0 +1,27 @@
+{
+  "multivitamin": {
+    "setting_type": "meal_preferred",
+    "special_time": null,
+    "functionality": "essential nutrients"
+  },
+  "mineral": {
+    "setting_type": "meal_preferred",
+    "special_time": null,
+    "functionality": "essential nutrients"
+  },
+  "probiotic": {
+    "setting_type": "wake_empty_preferred",
+    "special_time": null,
+    "functionality": "gut health"
+  },
+  "nootropic": {
+    "setting_type": "special_time_required",
+    "special_time": "before_4pm",
+    "functionality": "cognitive support"
+  },
+  "sleep_support": {
+    "setting_type": "bed_empty_preferred",
+    "special_time": null,
+    "functionality": "sleep support"
+  }
+}

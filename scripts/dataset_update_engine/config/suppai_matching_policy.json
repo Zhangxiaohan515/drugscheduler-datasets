@@ -1,0 +1,5 @@
+{
+  "auto_match": "normalized_preferred_name_exact_only",
+  "review_match": "normalized_synonym_or_tradename_exact_only",
+  "semantic_similarity": "disabled"
+}

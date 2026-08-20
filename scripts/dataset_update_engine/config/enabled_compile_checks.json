@@ -1,0 +1,14 @@
+{
+  "daily": {
+    "enabled": true,
+    "description": "Validate against the current daily aggregation pipeline inputs and setting_type rules."
+  },
+  "weekly": {
+    "enabled": false,
+    "description": "Reserved for future weekly aggregation validation."
+  },
+  "removal_analysis": {
+    "enabled": false,
+    "description": "Reserved for future removal-analysis validation."
+  }
+}
