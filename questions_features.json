@@ -1,0 +1,714 @@
+[
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "low-nutritional-reserve users / restrictive-diet pattern users",
+      "persona_tag": "low-reserve diet users",
+      "typical_profiles": [
+        "vegetarian/vegan users",
+        "low egg/meat intake users",
+        "poor diet-quality users",
+        "long-term restrictive eaters"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "life-stage high-demand users",
+      "persona_tag": "prenatal or postpartum high-demand users / 孕期或产后高需求人群",
+      "typical_profiles": [
+        "pregnancy",
+        "planning pregnancy",
+        "lactating women",
+        "postpartum breastfeeding users"
+      ],
+      "module_category": "Module 2 — Life-Stage & Metabolic Demand Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "high metabolic-demand users",
+      "persona_tag": "high-load users / 高负荷需求人群",
+      "typical_profiles": [
+        "fertility-planning users",
+        "high-demand users",
+        "recovery-state users",
+        "users under increased nutritional demand"
+      ],
+      "module_category": "Module 2 — Life-Stage & Metabolic Demand Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "metabolic-vulnerability users",
+      "persona_tag": "metabolism-sensitive users / 代谢敏感人群",
+      "typical_profiles": [
+        "users with prior abnormal routine lab findings",
+        "users with suspected methylation-related vulnerability",
+        "users requiring monitored nutrient balance"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "cardiometabolic-risk users / subclinical metabolic-risk users",
+      "persona_tag": "subclinical metabolic-risk users / 体检指标异常（亚临床代谢风险）人群",
+      "typical_profiles": [
+        "users with borderline lipid/glucose/vascular-risk markers",
+        "sedentary users",
+        "central-obesity users",
+        "metabolic-risk users"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "supplement-stacking users / high-dose supplement users",
+      "persona_tag": "aggressive stack users / 激进补剂叠加人群",
+      "typical_profiles": [
+        "biohacker-style users",
+        "high-dose methylation-stack users",
+        "unmonitored supplement users"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "hepatic-vulnerability users",
+      "persona_tag": "liver-sensitive users / 肝脏负担敏感人群",
+      "typical_profiles": [
+        "fatty-liver tendency users",
+        "chronic liver vulnerability users",
+        "metabolic syndrome background"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "unbalanced supplementation users / high-dose single-supplement users",
+      "persona_tag": "unbalanced supplement users / 单一补充失衡人群",
+      "typical_profiles": [
+        "high-dose folate users",
+        "isolated-nutrient supplement users",
+        "unmonitored supplement users"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "older adults with reduced nutritional reserve",
+      "persona_tag": "aging low-reserve users / 老年低储备人群",
+      "typical_profiles": [
+        "elderly users",
+        "older adults with reduced dietary intake",
+        "older adults with anemia-related history"
+      ],
+      "module_category": "Module 2 — Life-Stage & Metabolic Demand Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "subclinical B12-deficiency-risk users / anemia-background users",
+      "persona_tag": "hidden low-reserve users / 隐性营养储备不足人群",
+      "typical_profiles": [
+        "users with unexplained fatigue",
+        "users with anemia history",
+        "users with pernicious anemia history"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "absorption-barrier users",
+      "persona_tag": "poor-absorption users / 吸收能力较弱人群",
+      "typical_profiles": [
+        "GI disease users",
+        "post-bariatric users",
+        "chronic digestive disorder users",
+        "impaired nutrient absorption users"
+      ],
+      "module_category": "Module 4 — Anatomical Alteration & Absorption/Elimination-Barrier Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "delayed-detection neurologic-risk users",
+      "persona_tag": "hidden neurologic-risk users / 神经风险不易察觉人群",
+      "typical_profiles": [
+        "users with unexplained numbness or tingling",
+        "gait instability",
+        "memory decline",
+        "cognitive complaints"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "high-dose supplement users",
+      "persona_tag": "high-dose supplement users / 高剂量补充剂使用人群",
+      "typical_profiles": [
+        "high-dose antioxidant users",
+        "unmonitored supplement users",
+        "biohacker-style supplement users"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "restrictive-dietary-pattern users / low-nutritional-reserve users",
+      "persona_tag": "low-reserve diet users / 营养底子较薄的人群",
+      "typical_profiles": [
+        "low leafy-green intake users",
+        "restrictive-diet users",
+        "poor diet-quality users"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "anticoagulant / antiplatelet medication users",
+      "persona_tag": "bleeding-medication users / 出血相关用药人群",
+      "typical_profiles": [
+        "warfarin users",
+        "DOAC users",
+        "aspirin users",
+        "clopidogrel users"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "bleeding-vulnerability users",
+      "persona_tag": "bleeding-prone users / 出血倾向人群",
+      "typical_profiles": [
+        "users with bleeding disorder history",
+        "easy bruising users",
+        "recurrent nosebleed users"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "perioperative-risk users",
+      "persona_tag": "pre-surgery users / 术前风险管理人群",
+      "typical_profiles": [
+        "users preparing for surgery",
+        "dental-procedure users",
+        "users asked to stop supplements before procedures"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "high-dose supplement users / supplement-stacking users",
+      "persona_tag": "high-dose antioxidant users / 高剂量抗氧化补充人群",
+      "typical_profiles": [
+        "high-dose vitamin E users",
+        "anti-aging supplement users",
+        "unmonitored supplement-stacking users"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "low-nutritional-reserve users / restrictive-dietary-pattern users",
+      "persona_tag": "low-reserve diet users / 营养底子较薄的人群",
+      "typical_profiles": [
+        "poor diet-quality users",
+        "restrictive-diet users",
+        "low fermented-food or low animal-food intake users"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "anticoagulant / antiplatelet medication users",
+      "persona_tag": "bleeding-medication users / 出血相关用药人群",
+      "typical_profiles": [
+        "warfarin users",
+        "DOAC users",
+        "aspirin users",
+        "clopidogrel users"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "bleeding-vulnerability users",
+      "persona_tag": "bleeding-prone users / 出血倾向人群",
+      "typical_profiles": [
+        "users with bleeding disorder history",
+        "easy bruising users",
+        "recurrent nosebleed users",
+        "perioperative-risk users"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "bone-and-vascular-risk users",
+      "persona_tag": "bone–vascular health users / 骨骼与血管健康关注人群",
+      "typical_profiles": [
+        "users concerned with bone density",
+        "users with vascular calcification concerns",
+        "cardiometabolic-risk users"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "anemia-background users / iron-repletion users",
+      "persona_tag": "blood-restoration users / 贫血或补血恢复人群",
+      "typical_profiles": [
+        "users with documented iron-deficiency anemia",
+        "users taking iron supplements",
+        "users monitoring ferritin or hemoglobin recovery"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "high-dose supplement users",
+      "persona_tag": "high-dose supplement users / 高剂量补充剂使用人群",
+      "typical_profiles": [
+        "users taking high-dose calcium ascorbate",
+        "users taking high-dose vitamin C/mineral-buffered products",
+        "unmonitored supplement users"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "cardiometabolic-risk users / lipid-risk users",
+      "persona_tag": "heart-metabolic-risk users / 心血管代谢风险人群",
+      "typical_profiles": [
+        "users with high cardiovascular risk",
+        "users with elevated triglycerides",
+        "users under lipid or cardiovascular risk monitoring"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "anticoagulant medication users",
+      "persona_tag": "bleeding-medication users / 出血相关用药人群",
+      "typical_profiles": [
+        "warfarin users",
+        "DOAC users",
+        "users taking prescribed blood thinners"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "bleeding-vulnerability users",
+      "persona_tag": "bleeding-prone users / 出血倾向人群",
+      "typical_profiles": [
+        "users with prior gastrointestinal bleeding",
+        "users with recurrent bleeding history",
+        "users with easy bruising or bleeding concerns"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "perioperative-risk users",
+      "persona_tag": "pre-surgery users / 术前风险管理人群",
+      "typical_profiles": [
+        "users preparing for surgery",
+        "users preparing for invasive dental procedures",
+        "users asked to pause blood-thinning agents or supplements"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "cardiometabolic-risk users / cardiovascular-risk users",
+      "persona_tag": "heart-risk users / 心血管风险人群",
+      "typical_profiles": [
+        "users with cardiovascular risk factors",
+        "users under lipid or heart-health monitoring",
+        "users with metabolic-risk background"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "anticoagulant medication users",
+      "persona_tag": "bleeding-medication users / 出血相关用药人群",
+      "typical_profiles": [
+        "warfarin users",
+        "DOAC users",
+        "users taking prescribed blood thinners"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "perioperative-risk users",
+      "persona_tag": "pre-surgery users / 术前风险管理人群",
+      "typical_profiles": [
+        "users preparing for surgery",
+        "users preparing for invasive dental procedures",
+        "users asked to pause blood-thinning agents or supplements"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "cardiometabolic-risk users / cardiovascular-risk users",
+      "persona_tag": "heart-risk users / 心血管风险人群",
+      "typical_profiles": [
+        "users with cardiovascular risk factors",
+        "users under lipid or heart-health monitoring",
+        "users with metabolic-risk background"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "anticoagulant medication users",
+      "persona_tag": "bleeding-medication users / 出血相关用药人群",
+      "typical_profiles": [
+        "warfarin users",
+        "DOAC users",
+        "users taking prescribed blood thinners"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "bleeding-vulnerability users",
+      "persona_tag": "bleeding-prone users / 出血倾向人群",
+      "typical_profiles": [
+        "users with prior bleeding events",
+        "easy-bruising users",
+        "recurrent nosebleeds",
+        "gastrointestinal bleeding history"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "stress-pattern users / behavioral stress-exposure users",
+      "persona_tag": "stress-sensitive users / 高压力敏感人群",
+      "typical_profiles": [
+        "users with high daily stress",
+        "students or workers under sustained pressure",
+        "users with tension or relaxation difficulty"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "sleep-pattern disturbance users",
+      "persona_tag": "difficulty-falling-asleep users / 入睡困难人群",
+      "typical_profiles": [
+        "users with trouble falling asleep",
+        "bedtime overthinking users",
+        "users with subjective poor sleep quality"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "sleep-pattern disturbance users",
+      "persona_tag": "poor-sleep users / 主观睡眠质量较差人群",
+      "typical_profiles": [
+        "users with poor sleep quality",
+        "users with frequent nighttime waking",
+        "users who feel sleep is non-restorative"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "circadian-disruption users",
+      "persona_tag": "rhythm-disrupted users / 作息节律紊乱人群",
+      "typical_profiles": [
+        "shift-work users",
+        "jet-lag-prone users",
+        "irregular bedtime users",
+        "late-night work/study users"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "sleep-recovery burden users",
+      "persona_tag": "daytime-fatigue users / 白天疲劳困倦人群",
+      "typical_profiles": [
+        "users with morning grogginess",
+        "users with daytime sleepiness",
+        "users with low daytime energy after poor sleep"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "pre-workout stimulant-exposure users",
+      "persona_tag": "high-caffeine pre-workout users / 高咖啡因训练前使用人群",
+      "typical_profiles": [
+        "users taking strong coffee, caffeine pills, or pre-workout products before training",
+        "users using caffeine acutely for performance boost"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "anaerobic-performance-demand users",
+      "persona_tag": "strength/power-training users / 力量或爆发型训练人群",
+      "typical_profiles": [
+        "strength-training users",
+        "sprint or short-burst exercise users",
+        "gym users focused on power output or repeated high-intensity sets"
+      ],
+      "module_category": "Module 2 — Life-Stage & Metabolic Demand Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "aerobic-performance-demand users",
+      "persona_tag": "endurance-training users / 有氧或耐力训练人群",
+      "typical_profiles": [
+        "runners",
+        "cyclists",
+        "aerobic-training users",
+        "users focused on sustained energy and endurance performance"
+      ],
+      "module_category": "Module 2 — Life-Stage & Metabolic Demand Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "functional-GI-symptom users",
+      "persona_tag": "sensitive-gut users / 肠胃敏感人群",
+      "typical_profiles": [
+        "users with recurrent bloating",
+        "abdominal discomfort",
+        "constipation/diarrhea tendency",
+        "inconsistent bowel habits"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "fermentable-fiber-sensitive users",
+      "persona_tag": "fiber-sensitive gas-prone users / 发酵性纤维敏感人群",
+      "typical_profiles": [
+        "users who easily get bloating or gas after beans, onions, garlic, fiber powders, prebiotics, or sugar alcohols",
+        "users with IBS-like symptoms"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "post-antibiotic gut-recovery users",
+      "persona_tag": "post-antibiotic gut-recovery users / 抗生素后肠道恢复人群",
+      "typical_profiles": [
+        "users who recently used antibiotics",
+        "users who noticed digestive instability after antibiotics",
+        "users trying to rebuild gut function after medication-related microbiome disruption"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "iron-status-vulnerable users",
+      "persona_tag": "iron-deficiency-risk users / 缺铁或贫血风险人群",
+      "typical_profiles": [
+        "users diagnosed with iron deficiency or anemia",
+        "users with low ferritin or low hemoglobin in recent lab tests",
+        "users currently taking iron supplements",
+        "users advised by clinicians to improve iron status"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "iron-status-vulnerable users",
+      "persona_tag": "iron-deficiency-risk users / 缺铁或贫血风险人群",
+      "typical_profiles": [
+        "users diagnosed with iron deficiency or anemia",
+        "users with low ferritin or low hemoglobin in recent lab tests",
+        "users advised by clinicians to improve iron status"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "environmental-metal-exposure users",
+      "persona_tag": "metal-exposure-risk users / 金属暴露风险人群",
+      "typical_profiles": [
+        "users with occupational metal exposure",
+        "users exposed to contaminated water or industrial environments",
+        "users living or working in settings with possible elevated manganese exposure"
+      ],
+      "module_category": "Module 1 — Exposome & Behavioral Exposure Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "iodine-deficiency-related thyroid-risk users",
+      "persona_tag": "iodine-deficiency thyroid-risk users / 碘缺乏相关甲状腺风险人群",
+      "typical_profiles": [
+        "users diagnosed with iodine deficiency",
+        "users told their thyroid dysfunction may be related to low iodine intake",
+        "users with low-iodine dietary patterns and thyroid-function concerns"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  },
+  {
+    "effect_rule_id": "...",
+    "feature": {
+      "feature_name": "autoimmune-thyroid-background users",
+      "persona_tag": "autoimmune-thyroid users / 自身免疫性甲状腺背景人群",
+      "typical_profiles": [
+        "users diagnosed with Hashimoto’s thyroiditis",
+        "users with positive thyroid antibodies such as TPOAb or TgAb",
+        "users told they have autoimmune thyroid disease"
+      ],
+      "module_category": "Module 3 — Pathophysiological & Pharmacological Background Axis"
+    },
+    "question_answer_rule_mapping": []
+  }
+]
