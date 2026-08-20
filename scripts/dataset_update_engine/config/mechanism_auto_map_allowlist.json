@@ -1,0 +1,39 @@
+{
+  "aliases": [
+    {
+      "alias": "botanical antimicrobial",
+      "mechanism_id": "MID-BOTANICAL-ANTIMICROBIAL",
+      "mechanism_name": "Concentrated antimicrobial botanical extracts"
+    },
+    {
+      "alias": "concentrated antimicrobial botanical extracts",
+      "mechanism_id": "MID-BOTANICAL-ANTIMICROBIAL",
+      "mechanism_name": "Concentrated antimicrobial botanical extracts"
+    },
+    {
+      "alias": "clove antimicrobial botanical",
+      "mechanism_id": "MID-BOTANICAL-ANTIMICROBIAL",
+      "mechanism_name": "Concentrated antimicrobial botanical extracts"
+    },
+    {
+      "alias": "thyme antimicrobial botanical",
+      "mechanism_id": "MID-BOTANICAL-ANTIMICROBIAL",
+      "mechanism_name": "Concentrated antimicrobial botanical extracts"
+    },
+    {
+      "alias": "black walnut antimicrobial botanical",
+      "mechanism_id": "MID-BOTANICAL-ANTIMICROBIAL",
+      "mechanism_name": "Concentrated antimicrobial botanical extracts"
+    },
+    {
+      "alias": "wormwood antimicrobial botanical",
+      "mechanism_id": "MID-BOTANICAL-ANTIMICROBIAL",
+      "mechanism_name": "Concentrated antimicrobial botanical extracts"
+    },
+    {
+      "alias": "pau d'arco antimicrobial botanical",
+      "mechanism_id": "MID-BOTANICAL-ANTIMICROBIAL",
+      "mechanism_name": "Concentrated antimicrobial botanical extracts"
+    }
+  ]
+}

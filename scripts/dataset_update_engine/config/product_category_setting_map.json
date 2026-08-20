@@ -1,0 +1,7 @@
+{
+  "multivitamin": "meal_preferred",
+  "mineral": "meal_preferred",
+  "probiotic": "wake_empty_preferred",
+  "nootropic": "special_time_required",
+  "sleep_support": "bed_empty_preferred"
+}

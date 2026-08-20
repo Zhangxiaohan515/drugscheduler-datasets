@@ -13138,7 +13138,6 @@
 {"dsld_label_id":20170,"supplement_name":"Calcium Pyruvate","brand_name":"Allergy Research Group","ingredients":[{"cui_id":"C3540037","preferred_name":"Calcium Supplement"}]}
 {"dsld_label_id":20172,"supplement_name":"Calm/Recharge","brand_name":"Allergy Research Group","ingredients":[{"cui_id":"C0017890","preferred_name":"Glycine"},{"cui_id":"C0024467","preferred_name":"Magnesium"},{"cui_id":"C0039350","preferred_name":"Taurine"},{"cui_id":"C0076380","preferred_name":"Theanine"},{"cui_id":"C2349136","preferred_name":"Vitamin C"},{"cui_id":"C3540037","preferred_name":"Calcium Supplement"}]}
 {"dsld_label_id":20173,"supplement_name":"Cat's Claw","brand_name":"Allergy Research Group","ingredients":[{"cui_id":"C0939876","preferred_name":"Cat's claw"}]}
-{"dsld_label_id":20175,"supplement_name":"Cellulose Powder","brand_name":"Allergy Research Group","ingredients":[]}
 {"dsld_label_id":20177,"supplement_name":"ChronoSet","brand_name":"Allergy Research Group","ingredients":[{"cui_id":"C0025219","preferred_name":"Melatonin"}]}
 {"dsld_label_id":20178,"supplement_name":"Coenzyme Q10 with Tocotrienols","brand_name":"Allergy Research Group","ingredients":[{"cui_id":"C0042874","preferred_name":"Vitamin E"},{"cui_id":"C0056077","preferred_name":"Coenzyme Q10"},{"cui_id":"C0949647","preferred_name":"Tocotrienols"},{"cui_id":"C0982374","preferred_name":"Rice Bran"},{"cui_id":"C2349136","preferred_name":"Vitamin C"},{"cui_id":"C3255108","preferred_name":"Tocopherols"}]}
 {"dsld_label_id":20180,"supplement_name":"Coenzyme Q10 50 mg with Vitamin C","brand_name":"Allergy Research Group","ingredients":[{"cui_id":"C0056077","preferred_name":"Coenzyme Q10"},{"cui_id":"C2349136","preferred_name":"Vitamin C"}]}
@@ -44217,7 +44216,6 @@
 {"dsld_label_id":191066,"supplement_name":"Vitamin D + K 2000","brand_name":"Moss Nutrition","ingredients":[{"cui_id":"C0042866","preferred_name":"Vitamin D"},{"cui_id":"C0078382","preferred_name":"Menaquinone 7"}]}
 {"dsld_label_id":191069,"supplement_name":"Vitamin D + K 5000","brand_name":"Moss Nutrition","ingredients":[{"cui_id":"C0042866","preferred_name":"Vitamin D"},{"cui_id":"C0078382","preferred_name":"Menaquinone 7"}]}
 {"dsld_label_id":191071,"supplement_name":"ZincEval Select","brand_name":"Moss Nutrition","ingredients":[{"cui_id":"C0149381","preferred_name":"Zinc Gluconate"}]}
-{"dsld_label_id":191075,"supplement_name":"Dietary Fiber Cellulose","brand_name":"NutriCology","ingredients":[]}
 {"dsld_label_id":191077,"supplement_name":"Ashwagandha Root","brand_name":"Gaia Herbs","ingredients":[{"cui_id":"C0001962","preferred_name":"Ethanol"}]}
 {"dsld_label_id":191078,"supplement_name":"Wild Crafted Resveratrol + 100 mg Trans-Resveratrol","brand_name":"Nature's Answer","ingredients":[{"cui_id":"C1094241","preferred_name":"Fallopia Japonica"}]}
 {"dsld_label_id":191079,"supplement_name":"Slow Motion Melatonin 1.2 mg","brand_name":"NutriCology","ingredients":[{"cui_id":"C0025219","preferred_name":"Melatonin"}]}
