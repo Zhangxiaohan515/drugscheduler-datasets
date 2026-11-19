@@ -1,0 +1,656 @@
+{
+  "users": 592,
+  "used_products": 1478,
+  "mapped_products": 1751,
+  "incomplete_nonstack_products": 97,
+  "incomplete_nonstack_product_details": [
+    {
+      "product_id": "MK-P001",
+      "missing_ingredient_ids": [
+        "ING-046"
+      ]
+    },
+    {
+      "product_id": "MK-P003",
+      "missing_ingredient_ids": [
+        "ING-019",
+        "ING-462"
+      ]
+    },
+    {
+      "product_id": "MK-P005",
+      "missing_ingredient_ids": [
+        "ING-043",
+        "ING-286"
+      ]
+    },
+    {
+      "product_id": "MK-P007",
+      "missing_ingredient_ids": [
+        "ING-058",
+        "ING-066"
+      ]
+    },
+    {
+      "product_id": "MK-P008",
+      "missing_ingredient_ids": [
+        "ING-092",
+        "ING-286",
+        "ING-464"
+      ]
+    },
+    {
+      "product_id": "MK-P009",
+      "missing_ingredient_ids": [
+        "ING-467",
+        "ING-468"
+      ]
+    },
+    {
+      "product_id": "MK-P010",
+      "missing_ingredient_ids": [
+        "ING-463"
+      ]
+    },
+    {
+      "product_id": "MK-P012",
+      "missing_ingredient_ids": [
+        "ING-046"
+      ]
+    },
+    {
+      "product_id": "MK-P013",
+      "missing_ingredient_ids": [
+        "ING-058",
+        "ING-098"
+      ]
+    },
+    {
+      "product_id": "PROD-018",
+      "missing_ingredient_ids": [
+        "ING-345",
+        "ING-346"
+      ]
+    },
+    {
+      "product_id": "PROD-026",
+      "missing_ingredient_ids": [
+        "ING-1241"
+      ]
+    },
+    {
+      "product_id": "PROD-027",
+      "missing_ingredient_ids": [
+        "ING-324"
+      ]
+    },
+    {
+      "product_id": "PROD-031",
+      "missing_ingredient_ids": [
+        "ING-343"
+      ]
+    },
+    {
+      "product_id": "PROD-053",
+      "missing_ingredient_ids": [
+        "ING-326"
+      ]
+    },
+    {
+      "product_id": "PROD-054",
+      "missing_ingredient_ids": [
+        "ING-135"
+      ]
+    },
+    {
+      "product_id": "PROD-056",
+      "missing_ingredient_ids": [
+        "ING-135",
+        "ING-144"
+      ]
+    },
+    {
+      "product_id": "PROD-057",
+      "missing_ingredient_ids": [
+        "ING-325"
+      ]
+    },
+    {
+      "product_id": "PROD-058",
+      "missing_ingredient_ids": [
+        "ING-360",
+        "ING-361",
+        "ING-362",
+        "ING-363",
+        "ING-364"
+      ]
+    },
+    {
+      "product_id": "PROD-061",
+      "missing_ingredient_ids": [
+        "ING-162"
+      ]
+    },
+    {
+      "product_id": "PROD-062",
+      "missing_ingredient_ids": [
+        "ING-210"
+      ]
+    },
+    {
+      "product_id": "PROD-079",
+      "missing_ingredient_ids": [
+        "ING-189",
+        "ING-190",
+        "ING-191"
+      ]
+    },
+    {
+      "product_id": "PROD-103",
+      "missing_ingredient_ids": [
+        "ING-250",
+        "ING-307"
+      ]
+    },
+    {
+      "product_id": "PROD-115",
+      "missing_ingredient_ids": [
+        "ING-162",
+        "ING-333",
+        "ING-334",
+        "ING-341"
+      ]
+    },
+    {
+      "product_id": "PROD-122",
+      "missing_ingredient_ids": [
+        "ING-187"
+      ]
+    },
+    {
+      "product_id": "PROD-125",
+      "missing_ingredient_ids": [
+        "ING-368",
+        "ING-369"
+      ]
+    },
+    {
+      "product_id": "PROD-137",
+      "missing_ingredient_ids": [
+        "ING-307"
+      ]
+    },
+    {
+      "product_id": "PROD-142",
+      "missing_ingredient_ids": [
+        "ING-176",
+        "ING-347",
+        "ING-348",
+        "ING-349",
+        "ING-350"
+      ]
+    },
+    {
+      "product_id": "PROD-143",
+      "missing_ingredient_ids": [
+        "ING-351",
+        "ING-354"
+      ]
+    },
+    {
+      "product_id": "PROD-152",
+      "missing_ingredient_ids": [
+        "ING-327"
+      ]
+    },
+    {
+      "product_id": "PROD-156",
+      "missing_ingredient_ids": [
+        "ING-310"
+      ]
+    },
+    {
+      "product_id": "PROD-179",
+      "missing_ingredient_ids": [
+        "ING-274"
+      ]
+    },
+    {
+      "product_id": "PROD-183",
+      "missing_ingredient_ids": [
+        "ING-258"
+      ]
+    },
+    {
+      "product_id": "PROD-184",
+      "missing_ingredient_ids": [
+        "ING-322"
+      ]
+    },
+    {
+      "product_id": "PROD-188",
+      "missing_ingredient_ids": [
+        "ING-162",
+        "ING-248",
+        "ING-249",
+        "ING-250"
+      ]
+    },
+    {
+      "product_id": "PROD-194",
+      "missing_ingredient_ids": [
+        "ING-273"
+      ]
+    },
+    {
+      "product_id": "PROD-204",
+      "missing_ingredient_ids": [
+        "ING-370"
+      ]
+    },
+    {
+      "product_id": "PROD-250",
+      "missing_ingredient_ids": [
+        "ING-377"
+      ]
+    },
+    {
+      "product_id": "PROD-256",
+      "missing_ingredient_ids": [
+        "ING-241",
+        "ING-243"
+      ]
+    },
+    {
+      "product_id": "PROD-259",
+      "missing_ingredient_ids": [
+        "ING-379"
+      ]
+    },
+    {
+      "product_id": "PROD-266",
+      "missing_ingredient_ids": [
+        "ING-098"
+      ]
+    },
+    {
+      "product_id": "PROD-275",
+      "missing_ingredient_ids": [
+        "ING-261",
+        "ING-263"
+      ]
+    },
+    {
+      "product_id": "PROD-277",
+      "missing_ingredient_ids": [
+        "ING-388"
+      ]
+    },
+    {
+      "product_id": "PROD-278",
+      "missing_ingredient_ids": [
+        "ING-389"
+      ]
+    },
+    {
+      "product_id": "PROD-279",
+      "missing_ingredient_ids": [
+        "ING-390"
+      ]
+    },
+    {
+      "product_id": "PROD-299",
+      "missing_ingredient_ids": [
+        "ING-395"
+      ]
+    },
+    {
+      "product_id": "PROD-302",
+      "missing_ingredient_ids": [
+        "ING-379",
+        "ING-426"
+      ]
+    },
+    {
+      "product_id": "PROD-309",
+      "missing_ingredient_ids": [
+        "ING-429"
+      ]
+    },
+    {
+      "product_id": "PROD-317",
+      "missing_ingredient_ids": [
+        "ING-261",
+        "ING-263"
+      ]
+    },
+    {
+      "product_id": "PROD-318",
+      "missing_ingredient_ids": [
+        "ING-213"
+      ]
+    },
+    {
+      "product_id": "PROD-330",
+      "missing_ingredient_ids": [
+        "ING-390"
+      ]
+    },
+    {
+      "product_id": "PROD-334",
+      "missing_ingredient_ids": [
+        "ING-046"
+      ]
+    },
+    {
+      "product_id": "PROD-336",
+      "missing_ingredient_ids": [
+        "ING-449"
+      ]
+    },
+    {
+      "product_id": "PROD-337",
+      "missing_ingredient_ids": [
+        "ING-447",
+        "ING-449",
+        "ING-450"
+      ]
+    },
+    {
+      "product_id": "PROD-338",
+      "missing_ingredient_ids": [
+        "ING-447",
+        "ING-449"
+      ]
+    },
+    {
+      "product_id": "PROD-341",
+      "missing_ingredient_ids": [
+        "ING-396"
+      ]
+    },
+    {
+      "product_id": "PROD-351",
+      "missing_ingredient_ids": [
+        "ING-410"
+      ]
+    },
+    {
+      "product_id": "PROD-352",
+      "missing_ingredient_ids": [
+        "ING-411"
+      ]
+    },
+    {
+      "product_id": "PROD-365",
+      "missing_ingredient_ids": [
+        "ING-416"
+      ]
+    },
+    {
+      "product_id": "PROD-367",
+      "missing_ingredient_ids": [
+        "ING-414"
+      ]
+    },
+    {
+      "product_id": "PROD-385",
+      "missing_ingredient_ids": [
+        "ING-451"
+      ]
+    },
+    {
+      "product_id": "PROD-393",
+      "missing_ingredient_ids": [
+        "ING-419"
+      ]
+    },
+    {
+      "product_id": "PROD-394",
+      "missing_ingredient_ids": [
+        "ING-410"
+      ]
+    },
+    {
+      "product_id": "PROD-395",
+      "missing_ingredient_ids": [
+        "ING-414",
+        "ING-458"
+      ]
+    },
+    {
+      "product_id": "PROD-396",
+      "missing_ingredient_ids": [
+        "ING-459"
+      ]
+    },
+    {
+      "product_id": "PROD-405",
+      "missing_ingredient_ids": [
+        "ING-376"
+      ]
+    },
+    {
+      "product_id": "PROD-408",
+      "missing_ingredient_ids": [
+        "ING-472",
+        "ING-475",
+        "ING-477",
+        "ING-478"
+      ]
+    },
+    {
+      "product_id": "PROD-413",
+      "missing_ingredient_ids": [
+        "ING-481"
+      ]
+    },
+    {
+      "product_id": "PROD-415",
+      "missing_ingredient_ids": [
+        "ING-189"
+      ]
+    },
+    {
+      "product_id": "PROD-417",
+      "missing_ingredient_ids": [
+        "ING-484",
+        "ING-485"
+      ]
+    },
+    {
+      "product_id": "PROD-420",
+      "missing_ingredient_ids": [
+        "ING-488"
+      ]
+    },
+    {
+      "product_id": "PROD-423",
+      "missing_ingredient_ids": [
+        "ING-496"
+      ]
+    },
+    {
+      "product_id": "PROD-426",
+      "missing_ingredient_ids": [
+        "ING-531"
+      ]
+    },
+    {
+      "product_id": "PROD-437",
+      "missing_ingredient_ids": [
+        "ING-263"
+      ]
+    },
+    {
+      "product_id": "PROD-438",
+      "missing_ingredient_ids": [
+        "ING-481"
+      ]
+    },
+    {
+      "product_id": "PROD-440",
+      "missing_ingredient_ids": [
+        "ING-503"
+      ]
+    },
+    {
+      "product_id": "PROD-443",
+      "missing_ingredient_ids": [
+        "ING-504"
+      ]
+    },
+    {
+      "product_id": "PROD-447",
+      "missing_ingredient_ids": [
+        "ING-263"
+      ]
+    },
+    {
+      "product_id": "PROD-449",
+      "missing_ingredient_ids": [
+        "ING-475",
+        "ING-509",
+        "ING-511",
+        "ING-513",
+        "ING-515",
+        "ING-518"
+      ]
+    },
+    {
+      "product_id": "PROD-456",
+      "missing_ingredient_ids": [
+        "ING-522"
+      ]
+    },
+    {
+      "product_id": "PROD-462",
+      "missing_ingredient_ids": [
+        "ING-426"
+      ]
+    },
+    {
+      "product_id": "PROD-463",
+      "missing_ingredient_ids": [
+        "ING-529"
+      ]
+    },
+    {
+      "product_id": "PROD-465",
+      "missing_ingredient_ids": [
+        "ING-531"
+      ]
+    },
+    {
+      "product_id": "PROD-470",
+      "missing_ingredient_ids": [
+        "ING-533"
+      ]
+    },
+    {
+      "product_id": "PROD-472",
+      "missing_ingredient_ids": [
+        "ING-535"
+      ]
+    },
+    {
+      "product_id": "PROD-473",
+      "missing_ingredient_ids": [
+        "ING-536"
+      ]
+    },
+    {
+      "product_id": "PROD-477",
+      "missing_ingredient_ids": [
+        "ING-256"
+      ]
+    },
+    {
+      "product_id": "PROD-481",
+      "missing_ingredient_ids": [
+        "ING-540"
+      ]
+    },
+    {
+      "product_id": "PROD-485",
+      "missing_ingredient_ids": [
+        "ING-542"
+      ]
+    },
+    {
+      "product_id": "PROD-486",
+      "missing_ingredient_ids": [
+        "ING-543"
+      ]
+    },
+    {
+      "product_id": "PROD-489",
+      "missing_ingredient_ids": [
+        "ING-544"
+      ]
+    },
+    {
+      "product_id": "PROD-499",
+      "missing_ingredient_ids": [
+        "ING-549"
+      ]
+    },
+    {
+      "product_id": "PROD-500",
+      "missing_ingredient_ids": [
+        "ING-550"
+      ]
+    },
+    {
+      "product_id": "PROD-501",
+      "missing_ingredient_ids": [
+        "ING-551"
+      ]
+    },
+    {
+      "product_id": "PROD-503",
+      "missing_ingredient_ids": [
+        "ING-552"
+      ]
+    },
+    {
+      "product_id": "PROD-851",
+      "missing_ingredient_ids": [
+        "ING-1172"
+      ]
+    },
+    {
+      "product_id": "PROD-902",
+      "missing_ingredient_ids": [
+        "ING-209"
+      ]
+    },
+    {
+      "product_id": "PROD-904",
+      "missing_ingredient_ids": [
+        "ING-1188"
+      ]
+    }
+  ],
+  "reviewed_ingredient_ids": 659,
+  "ingredient_groups": 52,
+  "network_groups_defined": 53,
+  "groups_observed_in_stacks": 53,
+  "unobserved_defined_groups": [],
+  "zero_group_stack_products": [
+    "PROD-1935"
+  ],
+  "mapping_rule_counts_for_stack_products": {
+    "SINGLE_GROUP": 940,
+    "HEADLINE": 410,
+    "FORMULA_ALL_ACTIVES": 29,
+    "MULTIVITAMIN_TITLE": 66,
+    "MULTIVITAMIN_MULTI_FIRST": 24,
+    "B_COMPLEX_MULTI_FIRST": 8,
+    "EXCLUDE_ONLY": 1
+  },
+  "stack_products_with_groups_not_counted": 432,
+  "small_groups_below_half_percent": [],
+  "source_csv_sha256": "c336564bd76d32f59aff89f067313e231f290605a59556e2f09ad872b98e3534",
+  "source_rules_sha256": "2fe53d5af7384e1df42e661e5718bf3ab8edfc971bf1b493783b50b98536f33a"
+}

@@ -1,0 +1,660 @@
+﻿ING_ID,ingredient,group,primary_goal,secondary_goals,is_drug,note
+ING-003,"P-5-P, Vitamin B6",B Complex,General Health,Performance and Cognition,0,
+ING-004,"Thiamin, Vitamin B1",B Complex,General Health,Performance and Cognition,0,
+ING-005,"Riboflavin, Vitamin B2",B Complex,General Health,Performance and Cognition,0,
+ING-006,"Niacin, Vitamin B3",B Complex,General Health,Performance and Cognition,0,
+ING-008,"Pantothenic acid, Vitamin B5",B Complex,General Health,Performance and Cognition,0,
+ING-093,"pyridoxine HCl, Vitamin B6",B Complex,General Health,Performance and Cognition,0,
+ING-308,Niacinamide / Nicotinamide,B Complex,General Health,Performance and Cognition,0,
+ING-353,Benfotiamine,B Complex,General Health,Performance and Cognition,0,
+ING-742,Para-aminobenzoic acid (PABA),B Complex,General Health,Performance and Cognition,0,
+ING-1208,Pantethine,B Complex,General Health,Performance and Cognition,0,
+ING-1323,Brewer's yeast,B Complex,General Health,Performance and Cognition,0,B-vitamin food source
+ING-002,"Methylcobalamin, Vitamin B12",B12,General Health,Performance and Cognition,0,
+ING-227,"Cobalamin, Vitamin B12",B12,General Health,Performance and Cognition,0,
+ING-309,"Cyanocobalamin, Vitamin B12",B12,General Health,Performance and Cognition,0,
+ING-001,5-MTHF / Methylfolate,Folate,General Health,Women's Health,0,
+ING-115,folate,Folate,General Health,Women's Health,0,
+ING-391,"Folic Acid, Vitamin B9 (synthetic)",Folate,General Health,Women's Health,0,
+ING-010,Cholecalciferol. Vitamin D3,Vitamin D,General Health,Bone and Joint Health; Immune Support,0,
+ING-501,"Ergocalciferol, Vitamin D2",Vitamin D,General Health,Bone and Joint Health; Immune Support,0,
+ING-013,"Retinoids, Vitamin A",Vitamin A & E,General Health,"Eye and Vision Health; Skin, Hair and Nails",0,
+ING-014,"d-alpha-tocopherol, Vitamin E",Vitamin A & E,General Health,"Eye and Vision Health; Skin, Hair and Nails",0,
+ING-020,"beta-carotene, Vitamin A",Vitamin A & E,General Health,"Eye and Vision Health; Skin, Hair and Nails",0,labeled as provitamin A
+ING-899,Tocopherols,Vitamin A & E,General Health,"Eye and Vision Health; Skin, Hair and Nails",0,
+ING-999,Tocotrienols,Vitamin A & E,General Health,"Eye and Vision Health; Skin, Hair and Nails",0,
+ING-1039,Gamma-Tocopherol,Vitamin A & E,General Health,"Eye and Vision Health; Skin, Hair and Nails",0,
+ING-1219,Delta-Tocopherol,Vitamin A & E,General Health,"Eye and Vision Health; Skin, Hair and Nails",0,
+ING-1220,Beta-Tocopherol,Vitamin A & E,General Health,"Eye and Vision Health; Skin, Hair and Nails",0,
+ING-027,Magnesium glycinate,Magnesium,General Health,Sleep and Recovery; Performance and Cognition,0,
+ING-156,Magnesium citrate,Magnesium,General Health,Sleep and Recovery; Performance and Cognition,0,
+ING-186,magnesium oxide,Magnesium,General Health,Sleep and Recovery; Performance and Cognition,0,
+ING-188,"magnesium L-Threonate, magtein",Magnesium,General Health,Sleep and Recovery; Performance and Cognition,0,
+ING-201,Magnesium Malate,Magnesium,General Health,Sleep and Recovery; Performance and Cognition,0,
+ING-251,threonic acid,Magnesium,General Health,Sleep and Recovery; Performance and Cognition,0,counter-ion from magnesium L-threonate
+ING-302,Magnesium (unspecified form),Magnesium,General Health,Sleep and Recovery; Performance and Cognition,0,
+ING-913,Magnesium Hydroxide,Magnesium,General Health,Sleep and Recovery; Performance and Cognition,0,
+ING-1045,Magnesium Lysinate Glycinate Chelate,Magnesium,General Health,Sleep and Recovery; Performance and Cognition,0,
+ING-1046,Magnesium Orotate,Magnesium,General Health,Sleep and Recovery; Performance and Cognition,0,
+ING-1047,Magnesium Taurate,Magnesium,General Health,Sleep and Recovery; Performance and Cognition,0,
+ING-153,Iron,Iron,General Health,Women's Health,0,
+ING-635,Ferrous Gluconate,Iron,General Health,Women's Health,0,
+ING-636,Ferrous Sulfate,Iron,General Health,Women's Health,0,
+ING-773,Heme Iron,Iron,General Health,Women's Health,0,
+ING-803,Ferrous Fumarate,Iron,General Health,Women's Health,0,
+ING-1040,Ferrous Bisglycinate,Iron,General Health,Women's Health,0,
+ING-1041,Ferric Sodium EDTA,Iron,General Health,Women's Health,0,
+ING-1042,Ferric Pyrophosphate,Iron,General Health,Women's Health,0,
+ING-1055,Polysaccharide Iron Complex,Iron,General Health,Women's Health,0,
+ING-1058,Sucrosomial Iron,Iron,General Health,Women's Health,0,
+ING-032,Sodium,Electrolytes,General Health,Performance and Cognition,0,
+ING-194,potassium,Electrolytes,General Health,Performance and Cognition,0,
+ING-284,Sodium minerals (Baja Gold / sea salt),Electrolytes,General Health,Performance and Cognition,0,
+ING-737,Sodium Bicarbonate,Electrolytes,General Health,Performance and Cognition,0,
+ING-1290,Chloride,Electrolytes,General Health,Performance and Cognition,0,
+ING-029,Selenium,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-031,Copper,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-033,Manganese,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-034,Chromium,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-035,Molybdenum,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-036,Boron,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-037,Iodine,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-094,Potassium Iodide,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,iodine source
+ING-095,Vanadium,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-154,Phosphorus,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-165,Lithium Orotate,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-200,Lithium,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-494,Silicon,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-495,Nickel,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-497,Strontium citrate,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-1059,Vanadyl Sulfate,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-1230,Lithium Citrate,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,
+ING-633,Sodium Fluoride,Trace Minerals,General Health,Bone and Joint Health; Metabolic Health,0,"Fluoride mineral; counts as one distinct mineral in product-level multi-first rule, not as standalone sodium."
+ING-016,EPA / Eicosapentaenoic acid,Omega-3,General Health,Metabolic Health; Performance and Cognition; Eye and Vision Health,0,
+ING-017,DHA / Docosahexaenoic acid,Omega-3,General Health,Metabolic Health; Performance and Cognition; Eye and Vision Health,0,
+ING-018,DPA / Docosapentaenoic acid,Omega-3,General Health,Metabolic Health; Performance and Cognition; Eye and Vision Health,0,
+ING-182,Oleic acid / Omega-9,Omega-3,General Health,Metabolic Health; Performance and Cognition; Eye and Vision Health,0,Omega-3 node also holds other dietary oils/fats
+ING-267,MCT / C8 Caprylic acid (Brain Octane),Omega-3,General Health,Metabolic Health; Performance and Cognition; Eye and Vision Health,0,MCT oil; Omega-3 node also holds other dietary oils/fats
+ING-399,Krill Oil,Omega-3,General Health,Metabolic Health; Performance and Cognition; Eye and Vision Health,0,
+ING-546,Palmitic Acid,Omega-3,General Health,Metabolic Health; Performance and Cognition; Eye and Vision Health,0,dietary fat; Omega-3 node also holds other oils/fats
+ING-685,Linoleic Acid,Omega-3,General Health,Metabolic Health; Performance and Cognition; Eye and Vision Health,0,omega-6; Omega-3 node also holds other oils/fats
+ING-804,Arachidonic Acid,Omega-3,General Health,Metabolic Health; Performance and Cognition; Eye and Vision Health,0,omega-6; Omega-3 node also holds other oils/fats
+ING-1037,Flaxseed Oil,Omega-3,General Health,Metabolic Health; Performance and Cognition; Eye and Vision Health,0,
+ING-1038,Gamma-Linolenic Acid / GLA,Omega-3,General Health,Metabolic Health; Performance and Cognition; Eye and Vision Health,0,
+ING-1051,Omega-6 Fatty Acids,Omega-3,General Health,Metabolic Health; Performance and Cognition; Eye and Vision Health,0,omega-6; Omega-3 node also holds other oils/fats
+ING-1313,Safflower Oil,Omega-3,General Health,Metabolic Health; Performance and Cognition; Eye and Vision Health,0,dietary oil; Omega-3 node also holds other oils/fats
+ING-065,Sodium copper chlorophyllin,Greens,General Health,Gut and Digestion,0,"chlorophyll, not a copper supplement"
+ING-217,spirulina,Greens,General Health,Gut and Digestion,0,
+ING-220,chlorella,Greens,General Health,Gut and Digestion,0,
+ING-312,Apple powder,Greens,General Health,Gut and Digestion,0,
+ING-313,Carrot powder,Greens,General Health,Gut and Digestion,0,
+ING-314,Pineapple juice powder,Greens,General Health,Gut and Digestion,0,
+ING-316,Orange juice powder,Greens,General Health,Gut and Digestion,0,
+ING-317,Spinach powder,Greens,General Health,Gut and Digestion,0,
+ING-318,Broccoli powder / extract,Greens,General Health,Gut and Digestion,0,
+ING-338,Plum powder,Greens,General Health,Gut and Digestion,0,
+ING-339,Strawberry powder,Greens,General Health,Gut and Digestion,0,
+ING-340,Cherry powder,Greens,General Health,Gut and Digestion,0,
+ING-342,Tomato powder,Greens,General Health,Gut and Digestion,0,
+ING-371,Rose hips powder,Greens,General Health,Gut and Digestion,0,
+ING-384,acai berry,Greens,General Health,Gut and Digestion,0,superfruit
+ING-431,Kelp,Greens,General Health,Gut and Digestion,0,sea vegetable
+ING-440,Fulvic Acid,Greens,General Health,Gut and Digestion,0,
+ING-502,"Organic Fruit & Veggie Blend (Organic Cauliflower, Organic Spinach, Organic Carrot, Organic Beet, Organic Tomato, Organic Blueberry, Organic Cranberry, Organic Cherry, Organic Raspberry and Organic Strawberry)",Greens,General Health,Gut and Digestion,0,
+ING-1026,Sweet Apricot Kernel Powder,Greens,General Health,Gut and Digestion,0,
+ING-1034,Cauliflower,Greens,General Health,Gut and Digestion,0,
+ING-1043,Kale,Greens,General Health,Gut and Digestion,0,
+ING-1106,Calamansi / Citrus microcarpa,Greens,General Health,Gut and Digestion,0,
+ING-1109,Goji,Greens,General Health,Gut and Digestion,0,superfruit
+ING-1112,Irish Sea Moss / Chondrus crispus,Greens,General Health,Gut and Digestion,0,
+ING-1118,Parsley Leaf,Greens,General Health,Gut and Digestion,0,
+ING-1223,Basil / Ocimum basilicum,Greens,General Health,Gut and Digestion,0,
+ING-1224,Brussels Sprouts,Greens,General Health,Gut and Digestion,0,
+ING-1229,Lemon / Citrus limon,Greens,General Health,Gut and Digestion,0,
+ING-1235,Pear Powder,Greens,General Health,Gut and Digestion,0,
+ING-1236,Banana Powder,Greens,General Health,Gut and Digestion,0,
+ING-1237,Cabbage Powder,Greens,General Health,Gut and Digestion,0,
+ING-1238,Asparagus Powder,Greens,General Health,Gut and Digestion,0,
+ING-1239,Cucumber Powder,Greens,General Health,Gut and Digestion,0,
+ING-1240,Pea Powder,Greens,General Health,Gut and Digestion,0,
+ING-1297,Prune Powder,Greens,General Health,Gut and Digestion,0,
+ING-1311,Watercress,Greens,General Health,Gut and Digestion,0,
+ING-1312,Persimmon,Greens,General Health,Gut and Digestion,0,
+ING-1315,Morinda Citrifolia,Greens,General Health,Gut and Digestion,0,
+ING-1316,Coconut,Greens,General Health,Gut and Digestion,0,
+ING-1326,Food blend,Greens,General Health,Gut and Digestion,0,
+ING-507,Alfalfa extract,Greens,General Health,Gut and Digestion,0,Alfalfa botanical extract.
+ING-127,Oyster Extract Powder,Beef Organs,General Health,Men's Health,0,"animal whole-food (zinc source), grouped with organ supplements"
+ING-418,Grass-Fed Organ Complex,Beef Organs,General Health,Men's Health,0,
+ING-453,Beef Heart,Beef Organs,General Health,Men's Health,0,
+ING-454,Beef Kidney,Beef Organs,General Health,Men's Health,0,
+ING-455,Beef Pancreas,Beef Organs,General Health,Men's Health,0,
+ING-456,Beef Spleen,Beef Organs,General Health,Men's Health,0,
+ING-480,American Grass-Fed Liver (Bovine),Beef Organs,General Health,Men's Health,0,
+ING-528,Bovine bone marrow,Beef Organs,General Health,Men's Health,0,
+ING-1116,Neonatal Thymus Concentrate (bovine),Beef Organs,General Health,Men's Health,0,glandular
+ING-1163,Neonatal Adrenal Complex Concentrate (bovine),Beef Organs,General Health,Men's Health,0,glandular
+ING-1164,Orchic Concentrate (bovine),Beef Organs,General Health,Men's Health,0,glandular
+ING-1260,Beef Intestine,Beef Organs,General Health,Men's Health,0,
+ING-1261,Beef Tripe,Beef Organs,General Health,Men's Health,0,
+ING-1262,Beef Testicle,Beef Organs,General Health,Men's Health,0,
+ING-1263,Beef Prostate,Beef Organs,General Health,Men's Health,0,
+ING-1301,Amnion,Beef Organs,General Health,Men's Health,0,glandular
+ING-112,Melatonin,Melatonin,Sleep and Recovery,,0,
+ING-111,L-theanine,Sleep & Calm,Sleep and Recovery,,0,
+ING-146,apigenin,Sleep & Calm,Sleep and Recovery,,0,
+ING-147,Gamma-Aminobutyric Acid (GABA),Sleep & Calm,Sleep and Recovery,,0,
+ING-148,Glycine,Sleep & Calm,Sleep and Recovery,,0,
+ING-228,L-Tryptophan,Sleep & Calm,Sleep and Recovery,,0,mood/sleep amino acid
+ING-229,Valerian Root,Sleep & Calm,Sleep and Recovery,,0,
+ING-386,Chamomile extract,Sleep & Calm,Sleep and Recovery,,0,
+ING-398,5-HTP,Sleep & Calm,Sleep and Recovery,,0,mood/sleep
+ING-412,CBD,Sleep & Calm,Sleep and Recovery,,0,
+ING-423,Lemon Balm,Sleep & Calm,Sleep and Recovery,,0,
+ING-438,Passionflower,Sleep & Calm,Sleep and Recovery,,0,
+ING-439,Hops Flower,Sleep & Calm,Sleep and Recovery,,0,
+ING-538,St John's Wort Extract,Sleep & Calm,Sleep and Recovery,,0,mood
+ING-539,S-Adenosylmethionine (SAMe),Sleep & Calm,Sleep and Recovery,,0,mood
+ING-541,Saffron Extract,Sleep & Calm,Sleep and Recovery,,0,mood
+ING-1198,Hemp Extract,Sleep & Calm,Sleep and Recovery,,0,with CBD
+ING-1200,Lavender Oil / Silexan,Sleep & Calm,Sleep and Recovery,,0,
+ING-1202,Magnolia officinalis Bark Extract,Sleep & Calm,Sleep and Recovery,,0,
+ING-1203,Phellodendron amurense Bark Extract,Sleep & Calm,Sleep and Recovery,,0,Relora component
+ING-1264,Honokiol,Sleep & Calm,Sleep and Recovery,,0,
+ING-1319,American Skullcap (Scutellaria lateriflora),Sleep & Calm,Sleep and Recovery,,0,
+ING-151,Ashwagandha Extract,Ashwagandha,Sleep and Recovery,Performance and Cognition; Men's Health,0,
+ING-122,Panax Ginseng Extract,Adaptogens,Sleep and Recovery,Performance and Cognition,0,
+ING-152,"Rosavins, Rhodiola Rosea Extract",Adaptogens,Sleep and Recovery,Performance and Cognition,0,
+ING-401,Maca Root,Adaptogens,Sleep and Recovery,Performance and Cognition,0,
+ING-417,Gynostemma,Adaptogens,Sleep and Recovery,Performance and Cognition,0,
+ING-428,Schisandra,Adaptogens,Sleep and Recovery,Performance and Cognition,0,
+ING-499,Holy Basil / Tulsi,Adaptogens,Sleep and Recovery,Performance and Cognition,0,
+ING-523,American Ginseng Root Extract Panax quinquefolius,Adaptogens,Sleep and Recovery,Performance and Cognition,0,
+ING-524,Eleutherococcus senticosus root extract,Adaptogens,Sleep and Recovery,Performance and Cognition,0,
+ING-1107,Chinese Yam / Dioscorea,Adaptogens,Sleep and Recovery,Performance and Cognition,0,TCM tonic herb
+ING-1119,Poria cocos,Adaptogens,Sleep and Recovery,Performance and Cognition,0,TCM tonic herb
+ING-1283,Air potato,Adaptogens,Sleep and Recovery,Performance and Cognition,0,TCM herb
+ING-1284,Bearded scutellaria,Adaptogens,Sleep and Recovery,Performance and Cognition,0,TCM herb
+ING-1286,Codonopsis,Adaptogens,Sleep and Recovery,Performance and Cognition,0,TCM tonic herb
+ING-1288,Peach kernel,Adaptogens,Sleep and Recovery,Performance and Cognition,0,TCM herb
+ING-1289,Curcuma zedoaria,Adaptogens,Sleep and Recovery,Performance and Cognition,0,"TCM herb (zedoary, not turmeric)"
+ING-1308,Greater celandine,Adaptogens,Sleep and Recovery,Performance and Cognition,0,TCM herb
+ING-1309,Pueraria Montana Var. Lobata Whole,Adaptogens,Sleep and Recovery,Performance and Cognition,0,TCM herb
+ING-1310,Black nightshade,Adaptogens,Sleep and Recovery,Performance and Cognition,0,TCM herb
+ING-1325,Dendrobium officinale powder,Adaptogens,Sleep and Recovery,Performance and Cognition,0,TCM tonic herb
+ING-268,Kratom / Mitragyna speciosa,Mental Health Meds,Sleep and Recovery,,1,"psychoactive, not Rx"
+ING-534,Sertraline,Mental Health Meds,Sleep and Recovery,,1,
+ING-556,Alprazolam,Mental Health Meds,Sleep and Recovery,,1,
+ING-676,Bupropion,Mental Health Meds,Sleep and Recovery,,1,
+ING-1196,Duloxetine,Mental Health Meds,Sleep and Recovery,,1,
+ING-1197,Escitalopram,Mental Health Meds,Sleep and Recovery,,1,
+ING-1199,Hydroxyzine,Mental Health Meds,Sleep and Recovery,,1,prescribed mainly for anxiety
+ING-1216,Psilocybin,Mental Health Meds,Sleep and Recovery,,1,"psychoactive, not Rx"
+ING-1273,Agomelatine,Mental Health Meds,Sleep and Recovery,,1,
+ING-1274,Lamotrigine,Mental Health Meds,Sleep and Recovery,,1,
+ING-276,Human Growth Hormone (HGH),Peptides,Sleep and Recovery,"Longevity and Anti-aging; Performance and Cognition; Skin, Hair and Nails",1,HGH grouped with GH peptides
+ING-420,BPC-157,Peptides,Sleep and Recovery,"Longevity and Anti-aging; Performance and Cognition; Skin, Hair and Nails",1,
+ING-1136,TB-500,Peptides,Sleep and Recovery,"Longevity and Anti-aging; Performance and Cognition; Skin, Hair and Nails",1,
+ING-1152,AOD-9604,Peptides,Sleep and Recovery,"Longevity and Anti-aging; Performance and Cognition; Skin, Hair and Nails",1,
+ING-1160,Ipamorelin,Peptides,Sleep and Recovery,"Longevity and Anti-aging; Performance and Cognition; Skin, Hair and Nails",1,
+ING-1161,Kisspeptin,Peptides,Sleep and Recovery,"Longevity and Anti-aging; Performance and Cognition; Skin, Hair and Nails",1,
+ING-1171,Sermorelin,Peptides,Sleep and Recovery,"Longevity and Anti-aging; Performance and Cognition; Skin, Hair and Nails",1,
+ING-1174,Tesamorelin,Peptides,Sleep and Recovery,"Longevity and Anti-aging; Performance and Cognition; Skin, Hair and Nails",1,
+ING-1178,GHK-Cu,Peptides,Sleep and Recovery,"Longevity and Anti-aging; Performance and Cognition; Skin, Hair and Nails",1,
+ING-1180,Melanotan I / Afamelanotide,Peptides,Sleep and Recovery,"Longevity and Anti-aging; Performance and Cognition; Skin, Hair and Nails",1,
+ING-1195,DSIP / Delta Sleep-Inducing Peptide,Peptides,Sleep and Recovery,"Longevity and Anti-aging; Performance and Cognition; Skin, Hair and Nails",1,
+ING-1207,KPV,Peptides,Sleep and Recovery,"Longevity and Anti-aging; Performance and Cognition; Skin, Hair and Nails",1,
+ING-1276,MK-677 (Ibutamoren),Peptides,Sleep and Recovery,"Longevity and Anti-aging; Performance and Cognition; Skin, Hair and Nails",1,GH secretagogue
+ING-1277,GHRP-6,Peptides,Sleep and Recovery,"Longevity and Anti-aging; Performance and Cognition; Skin, Hair and Nails",1,
+ING-030,Calcium,Calcium,Bone and Joint Health,Women's Health,0,
+ING-383,Calcium citrate,Calcium,Bone and Joint Health,Women's Health,0,
+ING-654,Calcium Carbonate,Calcium,Bone and Joint Health,Women's Health,0,
+ING-011,"Phytonadione, Vitamin K1",Vitamin K,Bone and Joint Health,Metabolic Health,0,
+ING-012,"Menaquinone-4, Vitamin K2",Vitamin K,Bone and Joint Health,Metabolic Health,0,
+ING-319,"Menaquinone-7, Vitamin K2",Vitamin K,Bone and Joint Health,Metabolic Health,0,
+ING-159,Glucosamine Sulfate,Joint Support,Bone and Joint Health,"Skin, Hair and Nails",0,
+ING-161,Hyaluronic acid / Sodium hyaluronate,Joint Support,Bone and Joint Health,"Skin, Hair and Nails",0,
+ING-232,Chondroitin sulfate (sodium),Joint Support,Bone and Joint Health,"Skin, Hair and Nails",0,
+ING-303,MSM / Methylsulfonylmethane,Joint Support,Bone and Joint Health,"Skin, Hair and Nails",0,
+ING-344,Undenatured type II collagen,Joint Support,Bone and Joint Health,"Skin, Hair and Nails",0,
+ING-372,Glucosamine HCl,Joint Support,Bone and Joint Health,"Skin, Hair and Nails",0,
+ING-441,Boswellia,Joint Support,Bone and Joint Health,"Skin, Hair and Nails",0,
+ING-487,Palmitoylethanolamide (PEA),Joint Support,Bone and Joint Health,"Skin, Hair and Nails",0,PEA for pain/inflammation
+ING-1132,Glucosamine,Joint Support,Bone and Joint Health,"Skin, Hair and Nails",0,
+ING-050,Curcumin,Curcumin,Bone and Joint Health,Longevity and Anti-aging,0,
+ING-466,Turmeric root extract / Curcuma longa,Curcumin,Bone and Joint Health,Longevity and Anti-aging,0,
+ING-1265,Tetrahydrocurcumin,Curcumin,Bone and Joint Health,Longevity and Anti-aging,0,
+ING-042,Ergothioneine,NAD+,Longevity and Anti-aging,Metabolic Health,0,marketed as longevity compound
+ING-045,NMN / Nicotinamide mononucleotide,NAD+,Longevity and Anti-aging,Metabolic Health,0,
+ING-047,Urolithin A / Mitopure,NAD+,Longevity and Anti-aging,Metabolic Health,0,longevity
+ING-055,Fisetin,NAD+,Longevity and Anti-aging,Metabolic Health,0,senolytic / longevity
+ING-056,Trans-resveratrol,NAD+,Longevity and Anti-aging,Metabolic Health,0,longevity (resveratrol)
+ING-155,Niagen / Nicotinamide Riboside,NAD+,Longevity and Anti-aging,Metabolic Health,0,
+ING-157,calcium alpha-keto glutarate,NAD+,Longevity and Anti-aging,Metabolic Health,0,"Ca-AKG is a longevity compound, not a calcium supplement"
+ING-164,Spermidine,NAD+,Longevity and Anti-aging,Metabolic Health,0,longevity
+ING-199,pterostilbene,NAD+,Longevity and Anti-aging,Metabolic Health,0,longevity (resveratrol analog)
+ING-252,TMG / Trimethylglycine / Betaine anhydrous,NAD+,Longevity and Anti-aging,Metabolic Health,0,commonly stacked with NMN
+ING-365,NAD+ / Nicotinamide adenine dinucleotide,NAD+,Longevity and Anti-aging,Metabolic Health,0,
+ING-1138,5-Amino-1MQ,NAD+,Longevity and Anti-aging,Metabolic Health,0,
+ING-1226,Japanese Knotweed / Fallopia japonica,NAD+,Longevity and Anti-aging,Metabolic Health,0,resveratrol source
+ING-025,Coenzyme Q10 / Ubiquinone,CoQ10,Longevity and Anti-aging,Metabolic Health; Performance and Cognition,0,
+ING-026,Ubiquinol,CoQ10,Longevity and Anti-aging,Metabolic Health; Performance and Cognition,0,
+ING-041,Alpha lipoic acid,CoQ10,Longevity and Anti-aging,Metabolic Health; Performance and Cognition,0,mitochondrial support (CoQ10 group = CoQ10 & mitochondria)
+ING-196,Pyrroloquinoline Quinone,CoQ10,Longevity and Anti-aging,Metabolic Health; Performance and Cognition,0,mitochondrial support
+ING-197,Acetyl-L-Carnitine,CoQ10,Longevity and Anti-aging,Metabolic Health; Performance and Cognition,0,mitochondrial support (carnitine)
+ING-269,Methylene blue,CoQ10,Longevity and Anti-aging,Metabolic Health; Performance and Cognition,0,mitochondrial support
+ING-359,Adenosine triphosphate (ATP),CoQ10,Longevity and Anti-aging,Metabolic Health; Performance and Cognition,0,cellular energy
+ING-781,Carnitine,CoQ10,Longevity and Anti-aging,Metabolic Health; Performance and Cognition,0,mitochondrial support (carnitine)
+ING-1146,MOTS-C,CoQ10,Longevity and Anti-aging,Metabolic Health; Performance and Cognition,0,mitochondrial peptide
+ING-1149,SS-31 / Elamipretide,CoQ10,Longevity and Anti-aging,Metabolic Health; Performance and Cognition,0,mitochondrial peptide
+ING-040,NAC / N-Acetyl-L-Cysteine,NAC,Longevity and Anti-aging,Immune Support,0,
+ING-160,L-glutathione,NAC,Longevity and Anti-aging,Immune Support,0,glutathione grouped with NAC
+ING-021,Astaxanthin,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,carotenoid
+ING-024,Lycopene,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,carotenoid
+ING-051,Quercetin,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-052,Luteolin,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-054,Rutin,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-059,Pomegranate ellagitannins,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-096,Mixed carotenoids,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,carotenoid
+ING-104,PowerGrape grape / Vitis vinifera,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-105,Superfruit antioxidant blend,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-106,Green tea extract / Camellia sinensis,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-166,Grape seed extract Polyphenols,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-167,Pomegranate Juice Extract Polyphenols,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-175,Cocoa flavanols,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-253,Sulforaphane / BroccoMax,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-335,Blueberry extract / powder,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-337,Raspberry extract,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-367,Myrosinase,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,sulforaphane activator
+ING-387,Pycnogenol extract,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-392,Citrus Bioflavonoid Complex,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-525,Olive extract,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-608,Naringin,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-684,Grapefruit Extract,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-705,Polyphenols,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-1099,Amla / Phyllanthus emblica,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-1117,Orange Peel Extract,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-1139,Catalase,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-1140,Cyanidin-3-glucoside,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-1142,French Melon Concentrate,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,SOD source
+ING-1143,Glucoraphanin,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-1144,Grape Skin Extract,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-1148,Sesamin,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-1150,Superoxide Dismutase,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-1183,Rose Extract,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-1186,Cocoa Mass,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,cocoa
+ING-1232,Oligomeric Procyanidins / OPCs,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,
+ING-1233,Alpha-Carotene,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,carotenoid
+ING-1147,Oligonol,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,Lychee-derived polyphenols.
+ING-1270,Theaflavins,Antioxidants,Longevity and Anti-aging,"Skin, Hair and Nails",0,"Black-tea polyphenols. Metabolic Health is a possible ingredient-specific secondary association, not encoded by the current group-level secondary-goal schema."
+ING-038,"Ascorbic acid, Vitamin C",Vitamin C,Immune Support,"Skin, Hair and Nails",0,
+ING-247,Calcium Ascorbate,Vitamin C,Immune Support,"Skin, Hair and Nails",0,
+ING-385,acerola fruit,Vitamin C,Immune Support,"Skin, Hair and Nails",0,acerola is a vitamin C source
+ING-028,Zinc Bisglycinate,Zinc,Immune Support,"Men's Health; Skin, Hair and Nails",0,
+ING-304,Zinc citrate,Zinc,Immune Support,"Men's Health; Skin, Hair and Nails",0,
+ING-305,Zinc picolinate,Zinc,Immune Support,"Men's Health; Skin, Hair and Nails",0,
+ING-311,Zinc oxide,Zinc,Immune Support,"Men's Health; Skin, Hair and Nails",0,
+ING-329,Zinc (unspecified form),Zinc,Immune Support,"Men's Health; Skin, Hair and Nails",0,
+ING-375,Zinc gluconate,Zinc,Immune Support,"Men's Health; Skin, Hair and Nails",0,
+ING-1061,Zinc Monomethionine / L-OptiZinc,Zinc,Immune Support,"Men's Health; Skin, Hair and Nails",0,
+ING-207,mushrooms,Mushrooms,Immune Support,Performance and Cognition; Longevity and Anti-aging,0,
+ING-221,Reishi,Mushrooms,Immune Support,Performance and Cognition; Longevity and Anti-aging,0,
+ING-225,Cordyceps Mushroom Extract,Mushrooms,Immune Support,Performance and Cognition; Longevity and Anti-aging,0,
+ING-234,lion's mane,Mushrooms,Immune Support,Performance and Cognition; Longevity and Anti-aging,0,
+ING-306,Turkey tail mushroom extract,Mushrooms,Immune Support,Performance and Cognition; Longevity and Anti-aging,0,
+ING-1113,Lignosus rhinocerus / Tiger Milk Mushroom,Mushrooms,Immune Support,Performance and Cognition; Longevity and Anti-aging,0,
+ING-1184,Tremella fuciformis,Mushrooms,Immune Support,Performance and Cognition; Longevity and Anti-aging,0,
+ING-061,Beta glucans,Immune Support,Immune Support,,0,
+ING-244,Astragalus Extract,Immune Support,Immune Support,,0,
+ING-393,"Elderberry, Sambucus",Immune Support,Immune Support,,0,
+ING-400,Colostrum,Immune Support,Immune Support,,0,
+ING-407,Oregano Oil,Immune Support,Immune Support,,0,
+ING-437,Grapefruit Seed Extract,Immune Support,Immune Support,,0,
+ING-461,Black Cumin Seed Oil,Immune Support,Immune Support,,0,
+ING-474,Thyme Leaf Extract,Immune Support,Immune Support,,0,
+ING-479,Lactoferrin,Immune Support,Immune Support,,0,
+ING-537,Dextromethorphan,Immune Support,Immune Support,,1,cough medicine (drug)
+ING-733,Myrrh (resin / oil),Immune Support,Immune Support,,0,
+ING-836,Diphenhydramine,Immune Support,Immune Support,,1,antihistamine (drug); often used for sleep
+ING-967,Perilla frutescens,Immune Support,Immune Support,,0,allergy use
+ING-1111,Immunoglobulins / IgG,Immune Support,Immune Support,,0,
+ING-1205,Azelastine,Immune Support,Immune Support,,1,antihistamine (drug)
+ING-1206,Loratadine,Immune Support,Immune Support,,1,antihistamine (drug)
+ING-1210,Emtricitabine,Immune Support,Immune Support,,1,HIV PrEP (drug)
+ING-1211,Tenofovir Disoproxil Fumarate,Immune Support,Immune Support,,1,HIV PrEP (drug)
+ING-1225,Echinacea (unspecified species),Immune Support,Immune Support,,0,
+ING-1269,Eucalyptus Leaf Extract,Immune Support,Immune Support,,0,respiratory
+ING-1272,Cetirizine,Immune Support,Immune Support,,1,antihistamine (drug)
+ING-1296,Cat's Claw (Uncaria tomentosa) (bark),Immune Support,Immune Support,,0,
+ING-1305,Mullein (leaf) extract,Immune Support,Immune Support,,0,respiratory
+ING-1330,Sialic acid,Immune Support,Immune Support,,0,
+ING-007,"Biotin, Vitamin B7",Biotin,"Skin, Hair and Nails",,0,
+ING-149,Collagen Peptides,Collagen,"Skin, Hair and Nails",Bone and Joint Health,0,
+ING-378,Hydrolyzed Bovine Hide Collagen Peptides,Collagen,"Skin, Hair and Nails",Bone and Joint Health,0,
+ING-381,Fish / Marine collagen peptides,Collagen,"Skin, Hair and Nails",Bone and Joint Health,0,
+ING-1110,Horsetail Extract,Collagen,"Skin, Hair and Nails",Bone and Joint Health,0,hair/skin/nail ingredient
+ING-1176,Elastin Peptides,Collagen,"Skin, Hair and Nails",Bone and Joint Health,0,hair/skin/nail ingredient
+ING-1179,Keratin,Collagen,"Skin, Hair and Nails",Bone and Joint Health,0,hair/skin/nail ingredient
+ING-1298,Polypody Vulgare Extract (Polypodium vulgare) (fruit),Collagen,"Skin, Hair and Nails",Bone and Joint Health,0,skin / sun protection; Collagen node holds skin-hair-nail ingredients
+ING-425,Hydrolyzed Chicken Collagen,Collagen,"Skin, Hair and Nails",Bone and Joint Health,0,Hydrolyzed collagen; existing Collagen secondary goal includes Bone and Joint Health. Un-denatured UC-II remains Joint Support.
+ING-174,Pea Protein Isolate,Protein,Performance and Cognition,,0,
+ING-198,whey protein,Protein,Performance and Cognition,,0,
+ING-530,Protein (unspecified),Protein,Performance and Cognition,,0,
+ING-1025,Whole Milk Powder,Protein,Performance and Cognition,,0,
+ING-1056,Skimmed Milk Powder,Protein,Performance and Cognition,,0,
+ING-1135,Micellar Casein,Protein,Performance and Cognition,,0,
+ING-1328,Milk powder,Protein,Performance and Cognition,,0,
+ING-1057,Soy,Protein,Performance and Cognition,,0,Protein-powder soy defaults to Protein; an isoflavone product should use the specific soy-isoflavones ingredient ING-590.
+ING-330,Brown rice protein,Protein,Performance and Cognition,,0,Same protein family as pea protein.
+ING-097,Creatine monohydrate,Creatine,Performance and Cognition,,0,
+ING-044,L-leucine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-099,L-Carnosine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-101,Branched chain amino acids,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-102,L-isoleucine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-103,L-valine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-116,L-Arginine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-118,L-Lysine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-119,L-Cysteine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-121,L-Threonine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-158,taurine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-239,beta alanine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-240,L-citrulline,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-355,L-Phenylalanine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-356,L-Methionine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-357,L-Histidine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-406,L-Ornithine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-465,L-serine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-778,Alanine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-807,Agmatine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-857,Hydroxyproline,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-1130,Beta-Hydroxy Beta-Methylbutyrate / HMB,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-1131,Citrulline Malate,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-1133,L-Arginine Alpha-Ketoglutarate,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-1134,L-Norvaline,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-1194,D-Phenylalanine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-1242,Aspartic Acid,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-1243,Glutamic Acid,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-1244,Proline,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-1245,Hydroxylysine,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-1320,Arginine Nitrate,Amino Acids,Performance and Cognition,Sleep and Recovery,0,
+ING-009,Choline / Vitamin B4,Brain Health,Performance and Cognition,,0,"choline source; grouped with Alpha-GPC/Citicoline, not B Complex"
+ING-109,"Alpha-GPC, alpha-Glycerophosphorylcholine",Brain Health,Performance and Cognition,,0,
+ING-110,L-tyrosine,Brain Health,Performance and Cognition,,0,used for focus
+ING-125,Ginkgo Biloba Extract,Brain Health,Performance and Cognition,,0,
+ING-169,Sunflower Lecithin non-GMO,Brain Health,Performance and Cognition,,0,phospholipid / choline source
+ING-226,Huperzine A / Huperzia serrata (toothed clubmoss) extract,Brain Health,Performance and Cognition,,0,
+ING-235,cognizin citicoline,Brain Health,Performance and Cognition,,0,
+ING-236,Phosphatidylserine,Brain Health,Performance and Cognition,,0,
+ING-265,Bacopa Monnieri extract,Brain Health,Performance and Cognition,,0,
+ING-279,N-Acetyl L-Tyrosine (NALT),Brain Health,Performance and Cognition,,0,
+ING-358,Uridine,Brain Health,Performance and Cognition,,0,
+ING-422,Coffee Fruit Extract,Brain Health,Performance and Cognition,,0,marketed for BDNF; little caffeine
+ING-500,Gotu Kola extract,Brain Health,Performance and Cognition,,0,
+ING-1049,Nervonic Acid,Brain Health,Performance and Cognition,,0,
+ING-1053,Phospholipids,Brain Health,Performance and Cognition,,0,
+ING-1054,Phosphatidylcholine,Brain Health,Performance and Cognition,,0,
+ING-1192,Triacetyluridine,Brain Health,Performance and Cognition,,0,
+ING-1228,Soy Lecithin,Brain Health,Performance and Cognition,,0,phospholipid source
+ING-1250,Galantamine,Brain Health,Performance and Cognition,,0,
+ING-1254,Sage (Salvia officinalis),Brain Health,Performance and Cognition,,0,
+ING-150,Phenylethylamine/ PEA,Nootropics,Performance and Cognition,,0,phenylethylamine (not palmitoylethanolamide)
+ING-280,Phenylpiracetam,Nootropics,Performance and Cognition,,0,
+ING-1185,Cerebrolysin,Nootropics,Performance and Cognition,,0,cognitive peptide
+ING-1190,Noopept,Nootropics,Performance and Cognition,,0,
+ING-1191,Semax,Nootropics,Performance and Cognition,,0,cognitive peptide
+ING-1193,Vinpocetine,Nootropics,Performance and Cognition,,0,
+ING-1204,Selank,Nootropics,Performance and Cognition,,0,cognitive / anxiolytic peptide
+ING-1246,Bromantane,Nootropics,Performance and Cognition,,0,
+ING-1247,9-Me-BC (9-Methyl-beta-carboline),Nootropics,Performance and Cognition,,0,
+ING-1249,Oroxylum indicum Extract (Sabroxy),Nootropics,Performance and Cognition,,0,
+ING-1278,TAK-653,Nootropics,Performance and Cognition,,0,
+ING-108,Caffeine,Caffeine,Performance and Cognition,,0,
+ING-242,Theobromine,Caffeine,Performance and Cognition,,0,stimulant
+ING-415,Nicotine,Caffeine,Performance and Cognition,,0,stimulant
+ING-1253,Guarana,Caffeine,Performance and Cognition,,0,
+ING-1258,Rutaecarpine,Caffeine,Performance and Cognition,,0,caffeine-clearance / pre-workout ingredient
+ING-1293,"Eria Jarensis (N,N-dimethylphenethylamine Citrate)",Caffeine,Performance and Cognition,,0,stimulant
+ING-211,Modafinil,ADHD Meds,Performance and Cognition,,1,"wakefulness agent, grouped with ADHD meds"
+ING-214,Adderall,ADHD Meds,Performance and Cognition,,1,
+ING-215,Ritalin,ADHD Meds,Performance and Cognition,,1,
+ING-959,Atomoxetine,ADHD Meds,Performance and Cognition,,1,
+ING-1189,Lisdexamfetamine,ADHD Meds,Performance and Cognition,,1,
+ING-1248,Adrafinil,ADHD Meds,Performance and Cognition,,1,modafinil prodrug
+ING-067,Probiotic / gut microbiota blend,Probiotics,Gut and Digestion,Immune Support,0,
+ING-068,Bifidobacterium longum SD-BB536-JP,Probiotics,Gut and Digestion,Immune Support,0,
+ING-069,Bifidobacterium breve SD-BR3-IT,Probiotics,Gut and Digestion,Immune Support,0,
+ING-070,Lactiplantibacillus plantarum SD-LP1-IT,Probiotics,Gut and Digestion,Immune Support,0,
+ING-071,Lacticaseibacillus rhamnosus SD-LR6-IT,Probiotics,Gut and Digestion,Immune Support,0,
+ING-072,Lacticaseibacillus rhamnosus HRVD113-US,Probiotics,Gut and Digestion,Immune Support,0,
+ING-073,Bifidobacterium infantis SD-M63-JP,Probiotics,Gut and Digestion,Immune Support,0,
+ING-074,Bifidobacterium lactis SD-BS5-IT,Probiotics,Gut and Digestion,Immune Support,0,
+ING-075,Bifidobacterium lactis HRVD524-US,Probiotics,Gut and Digestion,Immune Support,0,
+ING-076,Lactobacillus crispatus SD-LCR01-IT,Probiotics,Gut and Digestion,Immune Support,0,
+ING-077,Lacticaseibacillus casei HRVD300-US,Probiotics,Gut and Digestion,Immune Support,0,
+ING-078,Bifidobacterium breve HRVD521-US,Probiotics,Gut and Digestion,Immune Support,0,
+ING-079,Bifidobacterium longum HRVD90b-US,Probiotics,Gut and Digestion,Immune Support,0,
+ING-080,Bifidobacterium lactis SD-150-BE,Probiotics,Gut and Digestion,Immune Support,0,
+ING-081,Limosilactobacillus fermentum SD-LF8-IT,Probiotics,Gut and Digestion,Immune Support,0,
+ING-082,Lacticaseibacillus rhamnosus SD-GG-BE,Probiotics,Gut and Digestion,Immune Support,0,
+ING-083,Limosilactobacillus reuteri SD-RD830-FR,Probiotics,Gut and Digestion,Immune Support,0,
+ING-084,Bifidobacterium adolescentis SD-BA5-IT,Probiotics,Gut and Digestion,Immune Support,0,
+ING-085,Limosilactobacillus reuteri SD-LRE2-IT,Probiotics,Gut and Digestion,Immune Support,0,
+ING-086,Ligilactobacillus salivarius SD-LS1-IT,Probiotics,Gut and Digestion,Immune Support,0,
+ING-087,Bifidobacterium lactis BPL1 (CECT 8145),Probiotics,Gut and Digestion,Immune Support,0,
+ING-088,Bifidobacterium longum ES1 (CECT 7347),Probiotics,Gut and Digestion,Immune Support,0,
+ING-089,Lacticaseibacillus casei CECT 9104,Probiotics,Gut and Digestion,Immune Support,0,
+ING-090,Lactiplantibacillus plantarum SD-LPLDL-UK,Probiotics,Gut and Digestion,Immune Support,0,
+ING-091,Bifidobacterium lactis SD-MB2409-IT,Probiotics,Gut and Digestion,Immune Support,0,
+ING-163,Lactobacillus acidophilus,Probiotics,Gut and Digestion,Immune Support,0,
+ING-192,"Akkermansia muciniphila, WB-STR-0001",Probiotics,Gut and Digestion,Immune Support,0,
+ING-222,streptococcus thermophilus,Probiotics,Gut and Digestion,Immune Support,0,
+ING-224,Saccharomyces boulardii,Probiotics,Gut and Digestion,Immune Support,0,
+ING-382,Bacillus coagulans (SNZ-1969 or IDCC1201),Probiotics,Gut and Digestion,Immune Support,0,
+ING-446,Lactobacillus paracasei,Probiotics,Gut and Digestion,Immune Support,0,
+ING-448,Bifidobacterium bifidum,Probiotics,Gut and Digestion,Immune Support,0,
+ING-452,Bifidobacterium breve,Probiotics,Gut and Digestion,Immune Support,0,
+ING-470,Pediococcus acidilactici,Probiotics,Gut and Digestion,Immune Support,0,
+ING-489,"Bacillus indicus, HU36",Probiotics,Gut and Digestion,Immune Support,0,
+ING-490,"Bacillus subtilis, HU58",Probiotics,Gut and Digestion,Immune Support,0,
+ING-491,"Bacillus coagulans, SC-208",Probiotics,Gut and Digestion,Immune Support,0,
+ING-492,"Bacillus licheniformis, SL-307",Probiotics,Gut and Digestion,Immune Support,0,
+ING-493,"Bacillus clausii, SC-109",Probiotics,Gut and Digestion,Immune Support,0,
+ING-527,Slimbiotics Postbiotic,Probiotics,Gut and Digestion,Immune Support,0,postbiotic
+ING-1063,Bacillus coagulans (unspecified strain),Probiotics,Gut and Digestion,Immune Support,0,
+ING-1064,Bacillus coagulans MTCC 5856,Probiotics,Gut and Digestion,Immune Support,0,
+ING-1068,Bifidobacterium animalis subsp. lactis (unspecified strain),Probiotics,Gut and Digestion,Immune Support,0,
+ING-1070,Bifidobacterium longum (unspecified strain),Probiotics,Gut and Digestion,Immune Support,0,
+ING-1077,Lactobacillus casei (unspecified strain),Probiotics,Gut and Digestion,Immune Support,0,
+ING-1079,Lactobacillus fermentum (unspecified strain),Probiotics,Gut and Digestion,Immune Support,0,
+ING-1080,Lactobacillus gasseri,Probiotics,Gut and Digestion,Immune Support,0,
+ING-1081,Lactobacillus helveticus,Probiotics,Gut and Digestion,Immune Support,0,
+ING-1083,Lactobacillus johnsonii,Probiotics,Gut and Digestion,Immune Support,0,
+ING-1085,Lactobacillus plantarum (unspecified strain),Probiotics,Gut and Digestion,Immune Support,0,
+ING-1086,Lactobacillus reuteri (unspecified strain),Probiotics,Gut and Digestion,Immune Support,0,
+ING-1087,Lactobacillus reuteri DSM 17648 / Pylopass,Probiotics,Gut and Digestion,Immune Support,0,
+ING-1088,Lactobacillus rhamnosus (unspecified strain),Probiotics,Gut and Digestion,Immune Support,0,
+ING-1090,Lactobacillus salivarius (unspecified strain),Probiotics,Gut and Digestion,Immune Support,0,
+ING-1096,Streptococcus salivarius,Probiotics,Gut and Digestion,Immune Support,0,
+ING-1218,Bacteriophages (unspecified blend),Probiotics,Gut and Digestion,Immune Support,0,
+ING-062,Prebiotic outer capsule / MAP precursors,Fiber,Gut and Digestion,Metabolic Health,0,prebiotic
+ING-172,milled Golden Flaxseed,Fiber,Gut and Digestion,Metabolic Health,0,
+ING-177,Fibre,Fiber,Gut and Digestion,Metabolic Health,0,
+ING-193,Inulin / Chicory inulin,Fiber,Gut and Digestion,Metabolic Health,0,
+ING-328,Arabinogalactan (larch),Fiber,Gut and Digestion,Metabolic Health,0,
+ING-373,Prebiotic base (unspecified),Fiber,Gut and Digestion,Metabolic Health,0,
+ING-394,Psyllium Husk,Fiber,Gut and Digestion,Metabolic Health,0,
+ING-469,Xylo-oligosaccharides (XOS),Fiber,Gut and Digestion,Metabolic Health,0,
+ING-707,Pectin,Fiber,Gut and Digestion,Metabolic Health,0,
+ING-1019,Citrus Pectin,Fiber,Gut and Digestion,Metabolic Health,0,
+ING-1074,Glucomannan,Fiber,Gut and Digestion,Metabolic Health,0,
+ING-1209,Fructooligosaccharides / FOS,Fiber,Gut and Digestion,Metabolic Health,0,
+ING-1259,Methylcellulose,Fiber,Gut and Digestion,Metabolic Health,0,
+ING-1292,carob tree (Ceratonia siliqua L.) fruit extract,Fiber,Gut and Digestion,Metabolic Health,0,
+ING-1314,Plantago,Fiber,Gut and Digestion,Metabolic Health,0,
+ING-1332,Wheat dextrin,Fiber,Gut and Digestion,Metabolic Health,0,
+ING-442,Partially Hydrolyzed Guar Gum,Fiber,Gut and Digestion,Metabolic Health,0,Prebiotic fiber.
+ING-510,Chicory (Cichorium intybus),Fiber,Gut and Digestion,Metabolic Health,0,Default to chicory/inulin fiber; review a chicory-coffee product separately.
+ING-129,Papain,Digestive Enzymes,Gut and Digestion,,0,
+ING-130,Amylase,Digestive Enzymes,Gut and Digestion,,0,
+ING-131,Bromelain,Digestive Enzymes,Gut and Digestion,,0,
+ING-132,Lipase,Digestive Enzymes,Gut and Digestion,,0,
+ING-134,protease,Digestive Enzymes,Gut and Digestion,,0,
+ING-136,glucoamylase,Digestive Enzymes,Gut and Digestion,,0,
+ING-137,Cellulase,Digestive Enzymes,Gut and Digestion,,0,
+ING-138,lactase,Digestive Enzymes,Gut and Digestion,,0,
+ING-139,Beta-glucanase,Digestive Enzymes,Gut and Digestion,,0,
+ING-140,phytase,Digestive Enzymes,Gut and Digestion,,0,
+ING-141,pectinase,Digestive Enzymes,Gut and Digestion,,0,
+ING-142,Alpha-Galactosidase,Digestive Enzymes,Gut and Digestion,,0,
+ING-143,Xylanase,Digestive Enzymes,Gut and Digestion,,0,
+ING-145,Invertase,Digestive Enzymes,Gut and Digestion,,0,
+ING-320,Hemicellulase,Digestive Enzymes,Gut and Digestion,,0,
+ING-397,Betaine HCl,Digestive Enzymes,Gut and Digestion,,0,stomach acid support
+ING-433,Ox Bile Extract,Digestive Enzymes,Gut and Digestion,,0,fat digestion
+ING-434,Pancreatin,Digestive Enzymes,Gut and Digestion,,0,
+ING-435,Papaya Fruit Powder,Digestive Enzymes,Gut and Digestion,,0,papaya as digestive aid
+ING-604,Chymotrypsin,Digestive Enzymes,Gut and Digestion,,0,
+ING-842,Trypsin,Digestive Enzymes,Gut and Digestion,,0,
+ING-1327,Maltase,Digestive Enzymes,Gut and Digestion,,0,
+ING-117,L-Glutamine,Gut Health,Gut and Digestion,,0,mainly gut-lining use
+ING-133,Ginger root (Zingiber officinale),Gut Health,Gut and Digestion,,0,digestion / nausea
+ING-408,Marshmallow Root,Gut Health,Gut and Digestion,,0,
+ING-409,Aloe Vera,Gut Health,Gut and Digestion,,0,
+ING-436,Slippery Elm Bark,Gut Health,Gut and Digestion,,0,
+ING-457,Terminalia chebula,Gut Health,Gut and Digestion,,0,triphala herb
+ING-471,Licorice root extract,Gut Health,Gut and Digestion,,0,
+ING-473,Fennel seed extract,Gut Health,Gut and Digestion,,0,
+ING-476,Black walnut hull extract,Gut Health,Gut and Digestion,,0,parasite cleanse
+ING-514,Yarrow extract,Gut Health,Gut and Digestion,,0,
+ING-713,Famotidine,Gut Health,Gut and Digestion,,1,acid reducer (drug)
+ING-810,Acetylglucosamine,Gut Health,Gut and Digestion,,0,
+ING-1072,Deglycyrrhizinated Licorice / DGL,Gut Health,Gut and Digestion,,0,
+ING-1076,Hyoscine Butylbromide,Gut Health,Gut and Digestion,,1,antispasmodic (drug)
+ING-1091,Mastic Gum,Gut Health,Gut and Digestion,,0,
+ING-1092,Mebeverine,Gut Health,Gut and Digestion,,1,IBS antispasmodic (drug)
+ING-1094,Pantoprazole,Gut Health,Gut and Digestion,,1,PPI (drug)
+ING-1095,Peppermint,Gut Health,Gut and Digestion,,0,
+ING-1098,Zinc-L-Carnosine / Polaprezinc,Gut Health,Gut and Digestion,,0,"zinc-carnosine is a gut-lining product, not a zinc supplement"
+ING-1102,Bibhitaki / Terminalia bellirica,Gut Health,Gut and Digestion,,0,triphala herb
+ING-1227,Fennel Oil,Gut Health,Gut and Digestion,,0,
+ING-1256,Butyrate,Gut Health,Gut and Digestion,,0,
+ING-1275,Mesalamine,Gut Health,Gut and Digestion,,1,IBD drug
+ING-1294,Mucin,Gut Health,Gut and Digestion,,0,
+ING-1295,Okra Extract (Abelmoschus esculentus) (fruit),Gut Health,Gut and Digestion,,0,
+ING-1317,Senna,Gut Health,Gut and Digestion,,0,laxative
+ING-262,Artichoke leaf extract (Cynara scolymus),Liver Support,Gut and Digestion,Metabolic Health,0,
+ING-405,Calcium D-Glucarate,Liver Support,Gut and Digestion,Metabolic Health,0,"detox / estrogen clearance, not a calcium supplement"
+ING-508,Burdock root extract,Liver Support,Gut and Digestion,Metabolic Health,0,
+ING-516,Tauroursodeoxycholic Acid (TUDCA),Liver Support,Gut and Digestion,Metabolic Health,0,
+ING-519,Dandelion root/leaf extract,Liver Support,Gut and Digestion,Metabolic Health,0,
+ING-626,Silymarin,Liver Support,Gut and Digestion,Metabolic Health,0,
+ING-1105,Bupleurum Extract,Liver Support,Gut and Digestion,Metabolic Health,0,
+ING-1114,Milk Thistle Extract,Liver Support,Gut and Digestion,Metabolic Health,0,
+ING-1282,"Sarsaparilla, Indian (Hemidesmus indicus) root",Liver Support,Gut and Digestion,Metabolic Health,0,
+ING-022,Lutein,Eye Health,Eye and Vision Health,,0,
+ING-023,Zeaxanthin,Eye Health,Eye and Vision Health,,0,
+ING-231,bilberry extract,Eye Health,Eye and Vision Health,,0,
+ING-245,Marigold Extract,Eye Health,Eye and Vision Health,,0,lutein source
+ING-1266,Mingmu Dihuang Wan,Eye Health,Eye and Vision Health,,0,TCM eye formula
+ING-1291,Eyebright Extract (Euphrasia officinalis),Eye Health,Eye and Vision Health,,0,
+ING-168,Cinnamon Organic,Blood Sugar,Metabolic Health,,0,
+ING-204,Apple Cider Vinegar,Blood Sugar,Metabolic Health,,0,
+ING-254,Berberine / Berberine HCl,Blood Sugar,Metabolic Health,,0,
+ING-266,Coleus Forskohlii / Forskolin,Blood Sugar,Metabolic Health,,0,weight management
+ING-277,Exogenous ketones / BHB salts,Blood Sugar,Metabolic Health,,0,keto / metabolic
+ING-403,Bitter Melon Extract,Blood Sugar,Metabolic Health,,0,
+ING-430,Cayenne Pepper,Blood Sugar,Metabolic Health,,0,thermogenic / weight
+ING-526,Conjugated Linoleic Acid (CLA),Blood Sugar,Metabolic Health,,0,weight management
+ING-547,Garcinia Cambogia Extract,Blood Sugar,Metabolic Health,,0,weight management
+ING-1027,Acetic Acid,Blood Sugar,Metabolic Health,,0,ACV active
+ING-1122,Dihydroberberine,Blood Sugar,Metabolic Health,,0,
+ING-1123,Green Coffee Bean Extract,Blood Sugar,Metabolic Health,,0,weight management
+ING-1129,White Kidney Bean Extract,Blood Sugar,Metabolic Health,,0,weight management
+ING-1257,Garcinol,Blood Sugar,Metabolic Health,,0,weight management
+ING-1268,Chitosan,Blood Sugar,Metabolic Health,,0,weight management
+ING-053,Hesperidin,Heart Health,Metabolic Health,Longevity and Anti-aging,0,vein/circulation flavonoid (with Diosmin)
+ING-181,"Monacolin K, Red Yeast Rice",Heart Health,Metabolic Health,Longevity and Anti-aging,0,
+ING-205,Nattokinase,Heart Health,Metabolic Health,Longevity and Anti-aging,0,
+ING-259,Garlic extract / Allicin,Heart Health,Metabolic Health,Longevity and Anti-aging,0,
+ING-260,Kyolic aged garlic extract,Heart Health,Metabolic Health,Longevity and Anti-aging,0,
+ING-264,Policosanol,Heart Health,Metabolic Health,Longevity and Anti-aging,0,
+ING-404,Serrapeptase,Heart Health,Metabolic Health,Longevity and Anti-aging,0,"systemic enzyme, grouped with nattokinase"
+ING-545,Hawthorn Leaf With Flower,Heart Health,Metabolic Health,Longevity and Anti-aging,0,
+ING-748,Diosmin,Heart Health,Metabolic Health,Longevity and Anti-aging,0,
+ING-1120,Beetroot,Heart Health,Metabolic Health,Longevity and Anti-aging,0,nitrate / blood pressure
+ING-1121,Citrus Bergamot Extract,Heart Health,Metabolic Health,Longevity and Anti-aging,0,
+ING-1222,1-Octacosanol / Octacosanol,Heart Health,Metabolic Health,Longevity and Anti-aging,0,policosanol component
+ING-1234,Hawthorn Berry,Heart Health,Metabolic Health,Longevity and Anti-aging,0,
+ING-1303,Butcher's Broom,Heart Health,Metabolic Health,Longevity and Anti-aging,0,
+ING-1304,Horse Chestnut,Heart Health,Metabolic Health,Longevity and Anti-aging,0,
+ING-1127,Terminalia arjuna Bark Extract,Heart Health,Metabolic Health,Longevity and Anti-aging,0,Arjuna bark; distinct from Terminalia chebula/bellirica in Triphala.
+ING-818,Orlistat,GLP-1,Metabolic Health,,1,"weight-loss drug, grouped with GLP-1"
+ING-1126,Retatrutide,GLP-1,Metabolic Health,,1,
+ING-1128,Tirzepatide,GLP-1,Metabolic Health,,1,
+ING-1271,Semaglutide,GLP-1,Metabolic Health,,1,
+ING-184,metformin,Metabolic Meds,Metabolic Health,,1,diabetes / longevity use
+ING-195,"Acetylsalicylic Acid, Baby Aspirin",Metabolic Meds,Metabolic Health,,1,cardiovascular
+ING-257,Armour Thyroid / desiccated thyroid,Metabolic Meds,Metabolic Health,,1,thyroid hormone
+ING-321,Ezetimibe,Metabolic Meds,Metabolic Health,,1,cholesterol
+ING-323,Bempedoic acid,Metabolic Meds,Metabolic Health,,1,cholesterol
+ING-644,Pravastatin,Metabolic Meds,Metabolic Health,,1,statin
+ING-858,Telmisartan,Metabolic Meds,Metabolic Health,,1,blood pressure
+ING-048,Inositol / Myo-inositol,Women's Health,Women's Health,,0,mainly PCOS/hormonal use
+ING-049,D-chiro-inositol,Women's Health,Women's Health,,0,mainly PCOS/hormonal use
+ING-315,Wild yam root powder,Women's Health,Women's Health,,0,
+ING-336,Cranberry extract,Women's Health,Women's Health,,0,urinary health
+ING-352,DIM / Diindolylmethane,Women's Health,Women's Health,,0,estrogen metabolism (also used by men)
+ING-548,Black Cohosh Extract,Women's Health,Women's Health,,0,
+ING-590,Isoflavones,Women's Health,Women's Health,,0,
+ING-731,Progesterone,Women's Health,Women's Health,,1,HRT (drug)
+ING-811,Mannose,Women's Health,Women's Health,,0,urinary health (D-mannose)
+ING-923,Estradiol,Women's Health,Women's Health,,1,HRT (drug)
+ING-950,Levonorgestrel,Women's Health,Women's Health,,1,birth control (drug)
+ING-1103,Blessed Thistle,Women's Health,Women's Health,,0,lactation
+ING-1154,Chaste Tree / Vitex agnus-castus,Women's Health,Women's Health,,0,
+ING-1156,Dong Quai Extract,Women's Health,Women's Health,,0,
+ING-1169,Red Clover / Trifolium pratense,Women's Health,Women's Health,,0,
+ING-1170,Rhapontic Rhubarb Root Extract,Women's Health,Women's Health,,0,
+ING-1177,Evening Primrose Oil,Women's Health,Women's Health,,0,"evening primrose, mainly PMS/menopause use"
+ING-1285,Peony,Women's Health,Women's Health,,0,TCM women's herb
+ING-1287,Chinese angelica root,Women's Health,Women's Health,,0,dong quai
+ING-1302,Uva-Ursi Extract (leaf) (Arctostaphylos uva ursi),Women's Health,Women's Health,,0,urinary health
+ING-113,Tongkat Ali / Eurycoma longifolia,Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-114,Fadogia Agrestis,Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-123,Nettle Extract,Men's Health,Men's Health,Longevity and Anti-aging,0,prostate / testosterone use
+ING-126,Saw Palmetto Extract,Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-128,Pumpkin Extract,Men's Health,Men's Health,Longevity and Anti-aging,0,prostate
+ING-233,Mucuna pruriens / Velvet bean extract (L-DOPA),Men's Health,Men's Health,Longevity and Anti-aging,0,L-DOPA; libido/dopamine use
+ING-402,Tribulus Terrestris,Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-413,Yohimbine,Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-460,Fenugreek,Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-521,PrimaVie Shilajit Fulvic Acid Complex,Men's Health,Men's Health,Longevity and Anti-aging,0,"shilajit, marketed for testosterone/energy"
+ING-855,Dehydroepiandrosterone,Men's Health,Men's Health,Longevity and Anti-aging,0,OTC hormone precursor; also used by women
+ING-1151,7-Keto DHEA,Men's Health,Men's Health,Longevity and Anti-aging,0,OTC hormone precursor
+ING-1153,Butea superba Extract,Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-1155,Cistanche tubulosa Extract,Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-1158,Epimedium / Horny Goat Weed,Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-1162,Muira Puama Extract,Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-1165,Pregnenolone,Men's Health,Men's Health,Longevity and Anti-aging,0,OTC hormone precursor
+ING-1166,Pumpkin Seed Oil,Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-1167,Pygeum africanum Extract,Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-1251,D-Aspartic Acid,Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-1252,Damiana,Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-1306,"KaempMax black ginger (Kaempferia parviflora) extract (rhizome) [5,7-dimethoxyflavone]",Men's Health,Men's Health,Longevity and Anti-aging,0,
+ING-1307,Beta-sitosterol (from pine),Men's Health,Men's Health,Longevity and Anti-aging,0,prostate
+ING-275,Testosterone (TRT),Men's Rx,Men's Health,"Skin, Hair and Nails",1,TRT
+ING-1157,Enclomiphene,Men's Rx,Men's Health,"Skin, Hair and Nails",1,
+ING-1159,Finasteride,Men's Rx,Men's Health,"Skin, Hair and Nails",1,hair loss
+ING-1173,Tadalafil,Men's Rx,Men's Health,"Skin, Hair and Nails",1,ED
+ING-1182,Minoxidil,Men's Rx,Men's Health,"Skin, Hair and Nails",1,hair loss (also used by women)
+ING-1279,Oxandrolone,Men's Rx,Men's Health,"Skin, Hair and Nails",1,anabolic
+ING-1280,Boldenone,Men's Rx,Men's Health,"Skin, Hair and Nails",1,anabolic
+ING-039,Ascorbyl palmitate,EXCLUDE,(excluded),,0,antioxidant preservative / excipient
+ING-124,Gum Arabic,EXCLUDE,(excluded),,0,usually a gummy/tablet binder; map to Fiber if a standalone acacia-fiber product
+ING-331,Stevia leaf extract,EXCLUDE,(excluded),,0,sweetener
+ING-432,Black pepper extract / Piperine (BioPerine),EXCLUDE,(excluded),,0,absorption enhancer
+ING-646,Glycerol,EXCLUDE,(excluded),,0,excipient
+ING-984,Gelatin,EXCLUDE,(excluded),,0,capsule material
+ING-1093,Microcrystalline Cellulose,EXCLUDE,(excluded),,0,excipient
+ING-1187,Cocoa Butter,EXCLUDE,(excluded),,0,excipient
+ING-1331,Sulfate,EXCLUDE,(excluded),,0,counter-ion
